@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>cropselecton</title>
+    <link rel="stylesheet" type="text/css"  href="static/css/bootstrap.css">
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <!-- Our Custom CSS -->
+    <link rel="stylesheet" href="static/css/cr.css">
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+
+    <!-- Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <div class="wrapper">
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h3>Factors</h3>
+            </div>
+
+            <ul class="list-unstyled components">
+                <li>
+                    <a href="#surface">Surface irrigation</a>
+                </li>
+                <li>
+                    <a href="#sprinkler">Sprinkler irrigation</a>
+                </li>
+                <li>
+                    <a href="#trickle">Trickle irrigation</a>
+                </li>
+                <li>
+                    <a href="#subsurface">Subsurface irrigation</a>
+                </li>
+                <li>
+                    <a href="#video">video tutorial</a>
+                </li>
+            </ul>
+
+
+        </nav>
+     
+        <!-- Page Content  -->
+        <div id="content">
+
+          <nav id="menu" class="navbar navbar-default navbar-fixed-top">
+
+                    <button type="button" id="sidebarCollapse" class ="slidebutton" >
+                        <p style=" font-size: 18px "  >>&#9776</p>                    
+                    </button>
+                    
+                      <div class="container"> 
+                    
+                        <div class="navbar-header">
+                    
+                          <a class="navbar-brand page-scroll" href="#page-top">TechAgri</a> </div>
+                        
+                    
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                      
+                        </div>
+                      </div>
+                      
+                    </nav>
+            </nav>
+            <br>
+            <br>
+            <br>
+            <form action="/homepage" style="border:0px; margin:0px; margin-bottom: 20px; height: 50px; float: left; padding-left: 60px;"> <button id="btn" style="                background-color:orange;
+                color:white;
+                border-radius:25px;
+                padding:14px 20px;
+                margin:8px 0;
+                border:none;
+                cursor:pointer;
+                width:200px;
+                height:60px;
+                text-align:center;" >Back to home</button></form> 
+            <form action="/logout" style="border:0px; margin:0px; margin-bottom: 20px;  height: 50px; float:right; padding-right: 60px;" > <button id="btn" style="                background-color:orange;
+                color:white;
+                border-radius:25px;
+                padding:14px 20px;
+                margin:8px 0;
+                border:none;
+                cursor:pointer;
+                width:200px;
+                height:60px;
+                text-align:center;" >Logout</button></form> 
+            <div class="line" id="surface"></div>
+            <h2 >Surface irrigation</h2>
+            <p>Surface irrigation consists of a broad class of irrigation methods in which water is distributed over the soil surface by gravity flow. The irrigation water is introduced into level or graded furrows or basins, using siphons, gated pipe, or turnout structures, and is allowed to advance across the field. Surface irrigation is best suited to flat land slopes, and medium to fine textured soil types which promote the lateral spread of water down the furrow row or across the basin.
+                </p>
+
+            <div class="line" id="sprinkler"></div>
+            <div id="p1">
+            <h2 >Sprinkler irrigation</h2>
+            <p> Sprinkler irrigation is a method of irrigation in which water is sprayed, or sprinkled through the air in rain like drops. The spray and sprinkling devices can be permanently set in place (solid set), temporarily set and then moved after a given amount of water has been applied (portable set or intermittent mechanical move), or they can be mounted on booms and pipelines that continuously travel across the land surface (wheel roll, linear move, center pivot).
+            </p>
+            </div>
+            <div class="line" id="trickle"></div>
+
+            <h2 >Trickle/Drip irrigation</h2>
+            <p>Drip/trickle irrigation systems are methods of microirrigation wherein water is applied through emitters to the soil surface as drops or small streams. The discharge rate of the emitters is low so this irrigation method can be used on all soil types.
+            </p>
+
+            <div class="line" id="subsurface"></div>
+
+            <h3 >Subsurface irrigation</h3>
+            <p>Subsurface irrigation consists of methods whereby irrigation water is applied below the soil surface. The specific type of irrigation method varies depending on the depth of the water table. When the water table is well below the surface, drip or trickle irrigation emission devices can be buried below the soil surface (usually within the plant root zone).
+            </p>
+            <div id="video" class="line"></div>
+            <h3>Tips to select irrigation techniques</h3>
+            <p>
+                    <iframe width="100%" height="500" src="https://www.youtube.com/embed/RTR2RgMbJ-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              
+            </p>
+        </div>
+    </div>
+
+    <!-- jQuery CDN - Slim version (=without AJAX) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+    <!-- jQuery Custom Scroller CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#sidebar").mCustomScrollbar({
+                theme: "minimal"
+            });
+
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar, #content').toggleClass('active');
+                $('.collapse.in').toggleClass('in');
+                $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+            });
+        });
+    </script>
+</body>
+
+</html>

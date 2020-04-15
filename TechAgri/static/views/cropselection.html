@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>cropselecton</title>
+    <link rel="stylesheet" type="text/css"  href={{ url_for('static',filename='css/cr.css') }}>
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <!-- Our Custom CSS -->
+    <link rel="stylesheet"href={{ url_for('static',filename='css/cr.css') }}>
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+
+    <!-- Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <div class="wrapper">
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h3>Factors</h3>
+            </div>
+
+            <ul class="list-unstyled components">
+                <li>
+                    <a href="#climate">Climatic factors</a>
+                </li>
+                <li>
+                    <a href="#soil">Soil factors</a>
+                </li>
+                <li>
+                    <a href="#water">Water</a>
+                </li>
+                <li>
+                    <a href="#market">Market Demand</a>
+                </li>
+                <li>
+                    <a href="#video">video tutorial</a>
+                </li>
+            </ul>
+
+
+        </nav>
+
+        <!-- Page Content  -->
+        <div id="content">
+
+          <nav id="menu" class="navbar navbar-default navbar-fixed-top">
+
+                    <button type="button" id="sidebarCollapse" class ="slidebutton" >
+                        <p style=" font-size: 18px "  >>&#9776</p>                    
+                    </button>
+                    
+                      <div class="container"> 
+                    
+                        <div class="navbar-header">
+                    
+                          <a class="navbar-brand page-scroll" href="#page-top">TechAgri</a> </div>
+                        
+                    
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                      
+                        </div>
+                      </div>
+                      
+                    </nav>
+            </nav>
+            <div class="line" id="climate"></div>
+            <h2 >Climatic factors</h2>
+            <p>Is the crop/cropping system suitable for local weather parameters such as 
+                <ul>
+                    <li>temperature</li>
+                    <li> rainfall</li>
+                    <li>sun shine hours</li>
+                    <li> relative humidity</li>
+                    <li> wind velocity</li>
+                    <li> wind direction</li>
+                    <li> seasons and agro-ecological situations</li>
+                </ul>
+                </p>
+
+            <div class="line" id="soil"></div>
+            <div id="p1">
+            <h2 >Soil Conditions</h2>
+            <p> Is the crop/cropping system suitable for local soil type, pH and soil fertility?
+                 <ul>
+                    <li>Soil type</li>
+                    <li>Soil pH</li>
+                    <li>Soil Fertility</li>
+                </ul>
+            </p>
+            </div>
+            <div class="line" id="water"></div>
+
+            <h2 >Water</h2>
+            <p>The region has the basic features like
+              <ul>
+                    <li>Do you have adequate water source like a tanks, wells, dams, etc.?</li>
+                    <li> Do you receive adequate rainfall?</li>
+                    <li>Is the distribution of rainfall suitable to grow identified crops?</li>
+                    <li> relative humidity</li>
+                    <li> Is the water quality suitable?</li>
+                    <li> Is electricity available for lifting the water?</li>
+                    <li> Do you have pump sets, micro irrigation systems?</li>
+                </ul>
+            </p>
+
+            <div class="line" id="market"></div>
+
+            <h3 >Market Demand</h3>
+            <p>The market value of the crop is very important. The crop you are decided will have all these values
+                <ul>
+                    <li>Are the crops proposed in market demand?</li>
+                    <li>Do you have market infrastructure to sell your produce?</li>
+                    <li>Do you have organized marketing system to reduce the intermediaries?</li>
+                    <li>Do you have answers for questions such as where to sell? When to sell? Whom to sell to? What form to sell in? What price to sell for?</li>
+                    <li>Do you get real time market information and market intelligence on proposed crops?</li>
+            </p>
+            <div id="video" class="line"></div>
+            <h3>Tips to select crops</h3>
+            <p>
+              <iframe id="vid" width=100% height=500 src="https://www.youtube.com/embed/V5WGYamz7L8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </p>
+            <di
+
+        </div>
+    </div>
+
+    <!-- jQuery CDN - Slim version (=without AJAX) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+    <!-- jQuery Custom Scroller CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#sidebar").mCustomScrollbar({
+                theme: "minimal"
+            });
+
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar, #content').toggleClass('active');
+                $('.collapse.in').toggleClass('in');
+                $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+            });
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,2574 @@
+State_Name,District_Name,Season,Crop,PPA
+Andaman and Nicobar Islands,NICOBARS,Autumn     ,Sugarcane,3.115671642
+Andaman and Nicobar Islands,NICOBARS,Kharif     ,Rice,3.056114529
+Andaman and Nicobar Islands,NICOBARS,Rabi       ,Urad,9.454545455
+Andaman and Nicobar Islands,NICOBARS,Whole Year ,other oilseeds,3775.6322
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,Autumn     ,Sugarcane,12.12600573
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,Kharif     ,Rice,2.836371452
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,Rabi       ,Urad,9.198545455
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,Whole Year ,other oilseeds,3696.92291
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Autumn     ,Sugarcane,5.955555556
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Kharif     ,Rice,2.868357312
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Rabi       ,Urad,10.5
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Whole Year ,other oilseeds,3889.255311
+Andhra Pradesh,ANANTAPUR,Kharif     ,other oilseeds,92.95834181
+Andhra Pradesh,ANANTAPUR,Rabi       ,Wheat,22.15340884
+Andhra Pradesh,ANANTAPUR,Whole Year ,other fibres,6382.612163
+Andhra Pradesh,CHITTOOR,Kharif     ,other oilseeds,88.12043278
+Andhra Pradesh,CHITTOOR,Rabi       ,other oilseeds,23.08967761
+Andhra Pradesh,CHITTOOR,Whole Year ,Turmeric,6366.240662
+Andhra Pradesh,EAST GODAVARI,Kharif     ,other oilseeds,95.18544469
+Andhra Pradesh,EAST GODAVARI,Rabi       ,other oilseeds,19.15204034
+Andhra Pradesh,EAST GODAVARI,Whole Year ,Turmeric,12849.13467
+Andhra Pradesh,GUNTUR,Kharif     ,other oilseeds,95.18520547
+Andhra Pradesh,GUNTUR,Rabi       ,other oilseeds,19.13767447
+Andhra Pradesh,GUNTUR,Whole Year ,other fibres,12931.20712
+Andhra Pradesh,KADAPA,Kharif     ,other oilseeds,95.19490327
+Andhra Pradesh,KADAPA,Rabi       ,other oilseeds,107.7757003
+Andhra Pradesh,KADAPA,Whole Year ,Wheat,6377.252092
+Andhra Pradesh,KRISHNA,Kharif     ,other oilseeds,95.18825758
+Andhra Pradesh,KRISHNA,Rabi       ,other oilseeds,17.00751658
+Andhra Pradesh,KRISHNA,Whole Year ,Turmeric,12919.68179
+Andhra Pradesh,KURNOOL,Kharif     ,other oilseeds,104.3092494
+Andhra Pradesh,KURNOOL,Rabi       ,other oilseeds,78.8
+Andhra Pradesh,KURNOOL,Whole Year ,Wheat,6359.467459
+Andhra Pradesh,PRAKASAM,Kharif     ,other oilseeds,111.5409645
+Andhra Pradesh,PRAKASAM,Rabi       ,other oilseeds,19.14309893
+Andhra Pradesh,PRAKASAM,Whole Year ,Turmeric,12899.72384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,other oilseeds,94.83619026
+Andhra Pradesh,SPSR NELLORE,Rabi       ,other oilseeds,16.43492063
+Andhra Pradesh,SPSR NELLORE,Whole Year ,Turmeric,12919.62249
+Andhra Pradesh,SRIKAKULAM,Kharif     ,other oilseeds,95.18257081
+Andhra Pradesh,SRIKAKULAM,Rabi       ,other oilseeds,16.76747996
+Andhra Pradesh,SRIKAKULAM,Whole Year ,Turmeric,11622.35526
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,other oilseeds,95.186692
+Andhra Pradesh,VISAKHAPATANAM,Rabi       ,other oilseeds,17.2962963
+Andhra Pradesh,VISAKHAPATANAM,Whole Year ,Turmeric,10666.5589
+Andhra Pradesh,VIZIANAGARAM,Kharif     ,other oilseeds,103.167243
+Andhra Pradesh,VIZIANAGARAM,Rabi       ,other oilseeds,102.6692913
+Andhra Pradesh,VIZIANAGARAM,Whole Year ,Turmeric,11683.05285
+Andhra Pradesh,WEST GODAVARI,Kharif     ,other oilseeds,95.19290409
+Andhra Pradesh,WEST GODAVARI,Rabi       ,other oilseeds,22.625
+Andhra Pradesh,WEST GODAVARI,Whole Year ,Turmeric,14986.20511
+Arunachal Pradesh,ANJAW,Kharif     ,Small millets,1.255865627
+Arunachal Pradesh,ANJAW,Rabi       ,Wheat,1.706856523
+Arunachal Pradesh,ANJAW,Whole Year ,Turmeric,8.82199411
+Arunachal Pradesh,CHANGLANG,Kharif     ,Sunflower,1.672322937
+Arunachal Pradesh,CHANGLANG,Rabi       ,Wheat,20.41304348
+Arunachal Pradesh,CHANGLANG,Whole Year ,Turmeric,10.81851377
+Arunachal Pradesh,DIBANG VALLEY,Kharif     ,Sunflower,2.125862069
+Arunachal Pradesh,DIBANG VALLEY,Rabi       ,Wheat,1.741802125
+Arunachal Pradesh,DIBANG VALLEY,Whole Year ,Turmeric,15.84
+Arunachal Pradesh,EAST KAMENG,Kharif     ,Sunflower,2.175662879
+Arunachal Pradesh,EAST KAMENG,Rabi       ,Wheat,2.084125709
+Arunachal Pradesh,EAST KAMENG,Whole Year ,Turmeric,10.69652174
+Arunachal Pradesh,EAST SIANG,Kharif     ,Sunflower,2.034757667
+Arunachal Pradesh,EAST SIANG,Rabi       ,Wheat,41.79661017
+Arunachal Pradesh,EAST SIANG,Whole Year ,Turmeric,35.97404546
+Arunachal Pradesh,KURUNG KUMEY,Kharif     ,Small millets,1.40522195
+Arunachal Pradesh,KURUNG KUMEY,Rabi       ,Wheat,1.066666667
+Arunachal Pradesh,KURUNG KUMEY,Whole Year ,Turmeric,18.07384271
+Arunachal Pradesh,LOHIT,Kharif     ,Sunflower,2.020387701
+Arunachal Pradesh,LOHIT,Rabi       ,Wheat,7
+Arunachal Pradesh,LOHIT,Whole Year ,Turmeric,8.922879661
+Arunachal Pradesh,LONGDING,Kharif     ,Small millets,2.368322167
+Arunachal Pradesh,LONGDING,Whole Year ,Potato,7.042687075
+Arunachal Pradesh,LOWER DIBANG VALLEY,Kharif     ,Small millets,1.432262223
+Arunachal Pradesh,LOWER DIBANG VALLEY,Rabi       ,Wheat,1.548172599
+Arunachal Pradesh,LOWER DIBANG VALLEY,Whole Year ,Turmeric,12.01145411
+Arunachal Pradesh,LOWER SUBANSIRI,Kharif     ,Sunflower,1.6627209
+Arunachal Pradesh,LOWER SUBANSIRI,Rabi       ,Wheat,37.33333333
+Arunachal Pradesh,LOWER SUBANSIRI,Whole Year ,Turmeric,17.6702029
+Arunachal Pradesh,NAMSAI,Whole Year ,Potato,6.672268908
+Arunachal Pradesh,PAPUM PARE,Kharif     ,Sunflower,1.642838321
+Arunachal Pradesh,PAPUM PARE,Rabi       ,Wheat,10.26315789
+Arunachal Pradesh,PAPUM PARE,Whole Year ,Turmeric,17.08307118
+Arunachal Pradesh,TAWANG,Kharif     ,Sunflower,2.01911357
+Arunachal Pradesh,TAWANG,Rabi       ,Wheat,1.501857124
+Arunachal Pradesh,TAWANG,Whole Year ,Turmeric,7.386780998
+Arunachal Pradesh,TIRAP,Kharif     ,Sunflower,1.311061036
+Arunachal Pradesh,TIRAP,Rabi       ,Wheat,10
+Arunachal Pradesh,TIRAP,Whole Year ,Turmeric,13.02485094
+Arunachal Pradesh,UPPER SIANG,Kharif     ,Sunflower,1.493534414
+Arunachal Pradesh,UPPER SIANG,Rabi       ,Wheat,6.52173913
+Arunachal Pradesh,UPPER SIANG,Whole Year ,Sugarcane,10.2052443
+Arunachal Pradesh,UPPER SUBANSIRI,Kharif     ,Sunflower,2.36156666
+Arunachal Pradesh,UPPER SUBANSIRI,Rabi       ,Wheat,27.1641791
+Arunachal Pradesh,UPPER SUBANSIRI,Whole Year ,Turmeric,22.50362539
+Arunachal Pradesh,WEST KAMENG,Kharif     ,Sunflower,2.04
+Arunachal Pradesh,WEST KAMENG,Rabi       ,Wheat,1.152510843
+Arunachal Pradesh,WEST KAMENG,Whole Year ,Pulses total,7.89885392
+Arunachal Pradesh,WEST SIANG,Kharif     ,Sunflower,1.2203452
+Arunachal Pradesh,WEST SIANG,Rabi       ,Wheat,26.73493976
+Arunachal Pradesh,WEST SIANG,Whole Year ,Turmeric,26.21460581
+Assam,BAKSA,Autumn     ,Rice,1.532116567
+Assam,BAKSA,Kharif     ,Tobacco,19.66002633
+Assam,BAKSA,Rabi       ,Wheat,17.11775032
+Assam,BAKSA,Summer     ,Rice,2.170699454
+Assam,BAKSA,Whole Year ,Turmeric,5393.036604
+Assam,BAKSA,Winter     ,Rice,1.944623854
+Assam,BARPETA,Autumn     ,Rice,0.660139227
+Assam,BARPETA,Kharif     ,Tobacco,41.11111111
+Assam,BARPETA,Rabi       ,other misc. pulses,16.85917387
+Assam,BARPETA,Summer     ,Rice,3.183993598
+Assam,BARPETA,Whole Year ,Turmeric,5447.213965
+Assam,BARPETA,Winter     ,Rice,1.578587346
+Assam,BONGAIGAON,Autumn     ,Rice,1.341029279
+Assam,BONGAIGAON,Kharif     ,Tobacco,41.10697674
+Assam,BONGAIGAON,Rabi       ,other misc. pulses,18.71889937
+Assam,BONGAIGAON,Summer     ,Rice,3.087596624
+Assam,BONGAIGAON,Whole Year ,Turmeric,5057.292691
+Assam,BONGAIGAON,Winter     ,Rice,1.73017131
+Assam,CACHAR,Autumn     ,Rice,1.841798996
+Assam,CACHAR,Kharif     ,Tobacco,41.28125
+Assam,CACHAR,Rabi       ,other misc. pulses,18.53983251
+Assam,CACHAR,Summer     ,Rice,1.836728973
+Assam,CACHAR,Whole Year ,Turmeric,2471.53101
+Assam,CACHAR,Winter     ,Rice,2.088032
+Assam,CHIRANG,Autumn     ,Rice,1.198193435
+Assam,CHIRANG,Kharif     ,Tobacco,12.28823043
+Assam,CHIRANG,Rabi       ,Wheat,18.84243623
+Assam,CHIRANG,Summer     ,Rice,2.363010217
+Assam,CHIRANG,Whole Year ,Turmeric,5394.031724
+Assam,CHIRANG,Winter     ,Rice,1.469013161
+Assam,DARRANG,Autumn     ,Rice,1.412302605
+Assam,DARRANG,Kharif     ,Tapioca,41.73120494
+Assam,DARRANG,Rabi       ,other misc. pulses,15.61289063
+Assam,DARRANG,Summer     ,Rice,3.428333256
+Assam,DARRANG,Whole Year ,Turmeric,4602.251436
+Assam,DARRANG,Winter     ,Rice,2.058159182
+Assam,DHEMAJI,Autumn     ,Rice,1.241574642
+Assam,DHEMAJI,Kharif     ,Tobacco,41.11111111
+Assam,DHEMAJI,Rabi       ,other misc. pulses,15.25127421
+Assam,DHEMAJI,Summer     ,Rice,1.763318595
+Assam,DHEMAJI,Whole Year ,Turmeric,3685.144811
+Assam,DHEMAJI,Winter     ,Rice,1.542851543
+Assam,DHUBRI,Autumn     ,Rice,0.847927743
+Assam,DHUBRI,Kharif     ,Tapioca,41.11167513
+Assam,DHUBRI,Rabi       ,other misc. pulses,14.93478054
+Assam,DHUBRI,Summer     ,Rice,3.505139933
+Assam,DHUBRI,Whole Year ,Turmeric,5909.841428
+Assam,DHUBRI,Winter     ,Rice,1.547117113
+Assam,DIBRUGARH,Autumn     ,Rice,1.41965926
+Assam,DIBRUGARH,Kharif     ,Tapioca,41.11068702
+Assam,DIBRUGARH,Rabi       ,other misc. pulses,14.44657559
+Assam,DIBRUGARH,Summer     ,Rice,2.888532266
+Assam,DIBRUGARH,Whole Year ,Turmeric,2478.347722
+Assam,DIBRUGARH,Winter     ,Rice,1.757735789
+Assam,DIMA HASAO,Autumn     ,Rice,1.660385387
+Assam,DIMA HASAO,Kharif     ,Tobacco,33.5851735
+Assam,DIMA HASAO,Rabi       ,other misc. pulses,17.74515179
+Assam,DIMA HASAO,Summer     ,Rice,2.964285714
+Assam,DIMA HASAO,Whole Year ,Turmeric,4105.290292
+Assam,DIMA HASAO,Winter     ,Rice,2.641779499
+Assam,GOALPARA,Autumn     ,Rice,1.158703751
+Assam,GOALPARA,Kharif     ,Tobacco,35.21917808
+Assam,GOALPARA,Rabi       ,other misc. pulses,15.27549662
+Assam,GOALPARA,Summer     ,Rice,3.188330208
+Assam,GOALPARA,Whole Year ,Turmeric,6882.677129
+Assam,GOALPARA,Winter     ,Rice,1.967033218
+Assam,GOLAGHAT,Autumn     ,Rice,1.844903459
+Assam,GOLAGHAT,Kharif     ,Tobacco,43.70386608
+Assam,GOLAGHAT,Rabi       ,other misc. pulses,14.46539269
+Assam,GOLAGHAT,Summer     ,Rice,2.385994408
+Assam,GOLAGHAT,Whole Year ,Turmeric,11882.01008
+Assam,GOLAGHAT,Winter     ,Rice,2.273963821
+Assam,HAILAKANDI,Autumn     ,Rice,1.988850833
+Assam,HAILAKANDI,Kharif     ,Tobacco,34.8
+Assam,HAILAKANDI,Rabi       ,other misc. pulses,14.29563391
+Assam,HAILAKANDI,Summer     ,Rice,2.016738451
+Assam,HAILAKANDI,Whole Year ,Turmeric,2619.364051
+Assam,HAILAKANDI,Winter     ,Rice,2.522589131
+Assam,JORHAT,Autumn     ,Rice,0.968120009
+Assam,JORHAT,Kharif     ,Tobacco,44.11166667
+Assam,JORHAT,Rabi       ,other misc. pulses,16.36443761
+Assam,JORHAT,Summer     ,Rice,1.484166231
+Assam,JORHAT,Whole Year ,Turmeric,5601.338841
+Assam,JORHAT,Winter     ,Rice,2.053262958
+Assam,KAMRUP,Autumn     ,Rice,1.189990785
+Assam,KAMRUP,Kharif     ,Tobacco,74.99013158
+Assam,KAMRUP,Rabi       ,other misc. pulses,18.5210479
+Assam,KAMRUP,Summer     ,Rice,2.827375612
+Assam,KAMRUP,Whole Year ,Turmeric,7879.893876
+Assam,KAMRUP,Winter     ,Rice,2.006537304
+Assam,KAMRUP METRO,Autumn     ,Rice,1.242094183
+Assam,KAMRUP METRO,Kharif     ,Tobacco,16.3650958
+Assam,KAMRUP METRO,Rabi       ,Wheat,19.51603844
+Assam,KAMRUP METRO,Summer     ,Rice,2.949648461
+Assam,KAMRUP METRO,Whole Year ,Turmeric,5350.357334
+Assam,KAMRUP METRO,Winter     ,Rice,2.121449199
+Assam,KARBI ANGLONG,Autumn     ,Rice,1.392375565
+Assam,KARBI ANGLONG,Kharif     ,Tobacco,42.94465558
+Assam,KARBI ANGLONG,Rabi       ,Wheat,16.01508114
+Assam,KARBI ANGLONG,Summer     ,Rice,1.759007453
+Assam,KARBI ANGLONG,Whole Year ,Turmeric,4160.178531
+Assam,KARBI ANGLONG,Winter     ,Rice,1.602623921
+Assam,KARIMGANJ,Autumn     ,Rice,1.65551604
+Assam,KARIMGANJ,Kharif     ,Tobacco,36.76290414
+Assam,KARIMGANJ,Rabi       ,other misc. pulses,14.62747899
+Assam,KARIMGANJ,Summer     ,Rice,1.828629434
+Assam,KARIMGANJ,Whole Year ,Turmeric,3824.309687
+Assam,KARIMGANJ,Winter     ,Rice,2.155423892
+Assam,KOKRAJHAR,Autumn     ,Rice,1.405249981
+Assam,KOKRAJHAR,Kharif     ,Tobacco,41.11428571
+Assam,KOKRAJHAR,Rabi       ,other misc. pulses,15.2040135
+Assam,KOKRAJHAR,Summer     ,Rice,2.737975318
+Assam,KOKRAJHAR,Whole Year ,Turmeric,5067.504399
+Assam,KOKRAJHAR,Winter     ,Rice,1.716458575
+Assam,LAKHIMPUR,Autumn     ,Rice,1.266071108
+Assam,LAKHIMPUR,Kharif     ,Tobacco,38.67844523
+Assam,LAKHIMPUR,Rabi       ,other misc. pulses,15.09278085
+Assam,LAKHIMPUR,Summer     ,Rice,1.675157902
+Assam,LAKHIMPUR,Whole Year ,Turmeric,6949.795957
+Assam,LAKHIMPUR,Winter     ,Rice,2.050447415
+Assam,MARIGAON,Autumn     ,Rice,1.545013125
+Assam,MARIGAON,Kharif     ,Tobacco,45.68059701
+Assam,MARIGAON,Rabi       ,other misc. pulses,16.24485646
+Assam,MARIGAON,Summer     ,Rice,3.071663479
+Assam,MARIGAON,Whole Year ,Turmeric,4758.913956
+Assam,MARIGAON,Winter     ,Rice,1.965559522
+Assam,NAGAON,Autumn     ,Rice,1.5492251
+Assam,NAGAON,Kharif     ,Tobacco,39.6177437
+Assam,NAGAON,Rabi       ,other misc. pulses,15.66567792
+Assam,NAGAON,Summer     ,Rice,2.612660384
+Assam,NAGAON,Whole Year ,Turmeric,7700.326122
+Assam,NAGAON,Winter     ,Rice,1.837963255
+Assam,NALBARI,Autumn     ,Rice,1.246305054
+Assam,NALBARI,Kharif     ,Tobacco,43.32
+Assam,NALBARI,Rabi       ,other misc. pulses,14.57218824
+Assam,NALBARI,Summer     ,Rice,2.816356506
+Assam,NALBARI,Whole Year ,Turmeric,4552.658493
+Assam,NALBARI,Winter     ,Rice,1.981820251
+Assam,SIVASAGAR,Autumn     ,Rice,1.280293059
+Assam,SIVASAGAR,Kharif     ,Tapioca,41.11403509
+Assam,SIVASAGAR,Rabi       ,other misc. pulses,14.21565879
+Assam,SIVASAGAR,Summer     ,Rice,2.888645284
+Assam,SIVASAGAR,Whole Year ,Turmeric,6068.642739
+Assam,SIVASAGAR,Winter     ,Rice,2.227805061
+Assam,SONITPUR,Autumn     ,Rice,1.58882911
+Assam,SONITPUR,Kharif     ,Tobacco,38.33129667
+Assam,SONITPUR,Rabi       ,other misc. pulses,17.34946216
+Assam,SONITPUR,Summer     ,Rice,3.260951837
+Assam,SONITPUR,Whole Year ,Turmeric,7203.05167
+Assam,SONITPUR,Winter     ,Rice,1.896017621
+Assam,TINSUKIA,Autumn     ,Rice,1.508589025
+Assam,TINSUKIA,Kharif     ,Tobacco,41.10950413
+Assam,TINSUKIA,Rabi       ,other misc. pulses,14.22151911
+Assam,TINSUKIA,Summer     ,Rice,2.885326673
+Assam,TINSUKIA,Whole Year ,Turmeric,3540.643192
+Assam,TINSUKIA,Winter     ,Rice,1.717050403
+Assam,UDALGURI,Autumn     ,Rice,1.01981927
+Assam,UDALGURI,Kharif     ,Tobacco,18.52001916
+Assam,UDALGURI,Rabi       ,Wheat,17.3855395
+Assam,UDALGURI,Summer     ,Rice,2.554396946
+Assam,UDALGURI,Whole Year ,Turmeric,3724.867723
+Assam,UDALGURI,Winter     ,Rice,1.695897008
+Bihar,ARARIA,Autumn     ,Rice,3.806396182
+Bihar,ARARIA,Kharif     ,Urad,13.57
+Bihar,ARARIA,Rabi       ,Wheat,14.70913462
+Bihar,ARARIA,Summer     ,Rice,3.257714484
+Bihar,ARARIA,Whole Year ,Turmeric,40.53656194
+Bihar,ARARIA,Winter     ,Rice,1.326538658
+Bihar,ARWAL,Autumn     ,Rice,2.059003953
+Bihar,ARWAL,Kharif     ,Urad,14
+Bihar,ARWAL,Rabi       ,Wheat,6.059259259
+Bihar,ARWAL,Summer     ,Rice,3.713747692
+Bihar,ARWAL,Whole Year ,Turmeric,49.08908477
+Bihar,ARWAL,Winter     ,Rice,2.209260292
+Bihar,AURANGABAD,Autumn     ,Rice,2.032930683
+Bihar,AURANGABAD,Kharif     ,Urad,8.75
+Bihar,AURANGABAD,Rabi       ,Wheat,14.66666667
+Bihar,AURANGABAD,Summer     ,Rice,3.178571047
+Bihar,AURANGABAD,Whole Year ,Turmeric,46.55000617
+Bihar,AURANGABAD,Winter     ,Rice,2.252280359
+Bihar,BANKA,Autumn     ,Rice,2.267400207
+Bihar,BANKA,Kharif     ,Urad,7.957356595
+Bihar,BANKA,Rabi       ,Wheat,5.330101679
+Bihar,BANKA,Summer     ,Rice,3.426879706
+Bihar,BANKA,Whole Year ,Turmeric,51.14634647
+Bihar,BANKA,Winter     ,Rice,2.22955073
+Bihar,BEGUSARAI,Autumn     ,Rice,1.454603025
+Bihar,BEGUSARAI,Kharif     ,Urad,12.73056671
+Bihar,BEGUSARAI,Rabi       ,Wheat,3.129388876
+Bihar,BEGUSARAI,Summer     ,Rice,2.994820137
+Bihar,BEGUSARAI,Whole Year ,Turmeric,46.04142709
+Bihar,BEGUSARAI,Winter     ,Rice,0.982228021
+Bihar,BHAGALPUR,Autumn     ,Rice,2.711099628
+Bihar,BHAGALPUR,Kharif     ,Urad,13.55555556
+Bihar,BHAGALPUR,Rabi       ,Wheat,15
+Bihar,BHAGALPUR,Summer     ,Rice,3.359588057
+Bihar,BHAGALPUR,Whole Year ,Turmeric,50.15144967
+Bihar,BHAGALPUR,Winter     ,Rice,1.596772613
+Bihar,BHOJPUR,Autumn     ,Rice,1.684383616
+Bihar,BHOJPUR,Kharif     ,Urad,14.54545455
+Bihar,BHOJPUR,Rabi       ,Wheat,15
+Bihar,BHOJPUR,Summer     ,Rice,3.241154398
+Bihar,BHOJPUR,Whole Year ,Turmeric,40.44682068
+Bihar,BHOJPUR,Winter     ,Rice,2.317701355
+Bihar,BUXAR,Autumn     ,Rice,1.688551636
+Bihar,BUXAR,Kharif     ,Urad,12.84004474
+Bihar,BUXAR,Rabi       ,Wheat,6.070331447
+Bihar,BUXAR,Summer     ,Rice,3.27172471
+Bihar,BUXAR,Whole Year ,Sweet potato,67.1323347
+Bihar,BUXAR,Winter     ,Rice,2.397868726
+Bihar,DARBHANGA,Autumn     ,Rice,2.106208746
+Bihar,DARBHANGA,Kharif     ,Urad,7.8
+Bihar,DARBHANGA,Rabi       ,Wheat,4.875
+Bihar,DARBHANGA,Summer     ,Rice,2.914453982
+Bihar,DARBHANGA,Whole Year ,Turmeric,34.30722245
+Bihar,DARBHANGA,Winter     ,Rice,1.132544574
+Bihar,GAYA,Autumn     ,Rice,1.902859695
+Bihar,GAYA,Kharif     ,Urad,14
+Bihar,GAYA,Rabi       ,Wheat,6.060211946
+Bihar,GAYA,Summer     ,Rice,3.307111256
+Bihar,GAYA,Whole Year ,Turmeric,43.38968335
+Bihar,GAYA,Winter     ,Rice,1.750554029
+Bihar,GOPALGANJ,Autumn     ,Rice,1.670138953
+Bihar,GOPALGANJ,Kharif     ,Urad,7.958333333
+Bihar,GOPALGANJ,Rabi       ,Wheat,4.970154892
+Bihar,GOPALGANJ,Summer     ,Rice,2.740797563
+Bihar,GOPALGANJ,Whole Year ,Turmeric,43.32049933
+Bihar,GOPALGANJ,Winter     ,Rice,1.419811624
+Bihar,JAMUI,Autumn     ,Rice,1.907403448
+Bihar,JAMUI,Kharif     ,Urad,7.5
+Bihar,JAMUI,Rabi       ,Wheat,3.845083824
+Bihar,JAMUI,Summer     ,Rice,2.858960246
+Bihar,JAMUI,Whole Year ,Tobacco,44.5953234
+Bihar,JAMUI,Winter     ,Rice,1.309221687
+Bihar,JEHANABAD,Autumn     ,Rice,2.756304736
+Bihar,JEHANABAD,Kharif     ,Urad,10.25
+Bihar,JEHANABAD,Rabi       ,Wheat,14.5
+Bihar,JEHANABAD,Summer     ,Rice,3.338285194
+Bihar,JEHANABAD,Whole Year ,Turmeric,47.61934451
+Bihar,JEHANABAD,Winter     ,Rice,1.981154698
+Bihar,KAIMUR (BHABUA),Autumn     ,Rice,1.423109935
+Bihar,KAIMUR (BHABUA),Kharif     ,Urad,7.748091603
+Bihar,KAIMUR (BHABUA),Rabi       ,Wheat,6.070208729
+Bihar,KAIMUR (BHABUA),Summer     ,Rice,3.280557652
+Bihar,KAIMUR (BHABUA),Whole Year ,Turmeric,37.05993728
+Bihar,KAIMUR (BHABUA),Winter     ,Rice,2.443298391
+Bihar,KATIHAR,Autumn     ,Rice,3.498979828
+Bihar,KATIHAR,Kharif     ,Urad,13.55555556
+Bihar,KATIHAR,Rabi       ,Wheat,14.6875
+Bihar,KATIHAR,Summer     ,Rice,3.455323782
+Bihar,KATIHAR,Whole Year ,Turmeric,43.82148144
+Bihar,KATIHAR,Winter     ,Rice,1.491627181
+Bihar,KHAGARIA,Autumn     ,Rice,1.506841666
+Bihar,KHAGARIA,Kharif     ,Urad,13.66666667
+Bihar,KHAGARIA,Rabi       ,Wheat,14.73333333
+Bihar,KHAGARIA,Summer     ,Rice,2.929487051
+Bihar,KHAGARIA,Whole Year ,Turmeric,49.66919275
+Bihar,KHAGARIA,Winter     ,Rice,0.88691157
+Bihar,KISHANGANJ,Autumn     ,Rice,3.040413142
+Bihar,KISHANGANJ,Kharif     ,Urad,13.56944444
+Bihar,KISHANGANJ,Rabi       ,Wheat,14.69230769
+Bihar,KISHANGANJ,Summer     ,Rice,3.24877103
+Bihar,KISHANGANJ,Whole Year ,Turmeric,45.22916811
+Bihar,KISHANGANJ,Winter     ,Rice,1.261974889
+Bihar,LAKHISARAI,Autumn     ,Rice,1.680389619
+Bihar,LAKHISARAI,Kharif     ,Urad,9.846153846
+Bihar,LAKHISARAI,Rabi       ,Wheat,3.640124213
+Bihar,LAKHISARAI,Summer     ,Moong(Green Gram),2.769691741
+Bihar,LAKHISARAI,Whole Year ,Sweet potato,84.21666667
+Bihar,LAKHISARAI,Winter     ,Rice,1.783808527
+Bihar,MADHEPURA,Autumn     ,Rice,3.37385303
+Bihar,MADHEPURA,Kharif     ,Urad,13.66666667
+Bihar,MADHEPURA,Rabi       ,Wheat,5.329873126
+Bihar,MADHEPURA,Summer     ,Rice,4.07996104
+Bihar,MADHEPURA,Whole Year ,Turmeric,46.35415589
+Bihar,MADHEPURA,Winter     ,Rice,1.419732478
+Bihar,MADHUBANI,Autumn     ,Rice,2.396709729
+Bihar,MADHUBANI,Kharif     ,Urad,18.41284404
+Bihar,MADHUBANI,Rabi       ,Wheat,23.05670103
+Bihar,MADHUBANI,Summer     ,Rice,2.943381669
+Bihar,MADHUBANI,Whole Year ,Turmeric,34.72687803
+Bihar,MADHUBANI,Winter     ,Rice,0.936947684
+Bihar,MUNGER,Autumn     ,Rice,1.524416076
+Bihar,MUNGER,Kharif     ,Urad,13.56862745
+Bihar,MUNGER,Rabi       ,Wheat,2.541302642
+Bihar,MUNGER,Summer     ,Rice,2.827181737
+Bihar,MUNGER,Whole Year ,Tobacco,51.53705061
+Bihar,MUNGER,Winter     ,Rice,1.703522455
+Bihar,MUZAFFARPUR,Autumn     ,Rice,1.952921458
+Bihar,MUZAFFARPUR,Kharif     ,Urad,12.10769231
+Bihar,MUZAFFARPUR,Rabi       ,Wheat,12.03571429
+Bihar,MUZAFFARPUR,Summer     ,Rice,2.829366825
+Bihar,MUZAFFARPUR,Whole Year ,Turmeric,42.28173813
+Bihar,MUZAFFARPUR,Winter     ,Rice,1.030354489
+Bihar,NALANDA,Autumn     ,Rice,1.848025756
+Bihar,NALANDA,Kharif     ,Urad,9
+Bihar,NALANDA,Rabi       ,Wheat,3.789970694
+Bihar,NALANDA,Summer     ,Rice,3.472066444
+Bihar,NALANDA,Whole Year ,Turmeric,41.24563524
+Bihar,NALANDA,Winter     ,Rice,1.507216836
+Bihar,NAWADA,Autumn     ,Rice,1.499724428
+Bihar,NAWADA,Kharif     ,Urad,14.25
+Bihar,NAWADA,Rabi       ,Wheat,14.66666667
+Bihar,NAWADA,Summer     ,Rice,3.18103636
+Bihar,NAWADA,Whole Year ,Turmeric,45.38319354
+Bihar,NAWADA,Winter     ,Rice,1.778074241
+Bihar,PASHCHIM CHAMPARAN,Autumn     ,Rice,2.854560649
+Bihar,PASHCHIM CHAMPARAN,Kharif     ,Urad,12.1
+Bihar,PASHCHIM CHAMPARAN,Rabi       ,Wheat,12.03846154
+Bihar,PASHCHIM CHAMPARAN,Summer     ,Rice,2.826550247
+Bihar,PASHCHIM CHAMPARAN,Whole Year ,Turmeric,46.87899489
+Bihar,PASHCHIM CHAMPARAN,Winter     ,Rice,1.554134633
+Bihar,PATNA,Autumn     ,Rice,1.699899535
+Bihar,PATNA,Kharif     ,Urad,14.54166667
+Bihar,PATNA,Rabi       ,Wheat,7.660133007
+Bihar,PATNA,Summer     ,Rice,3.24283083
+Bihar,PATNA,Whole Year ,Sweet potato,40.59674081
+Bihar,PATNA,Winter     ,Rice,1.898600847
+Bihar,PURBI CHAMPARAN,Autumn     ,Rice,1.66032833
+Bihar,PURBI CHAMPARAN,Kharif     ,Urad,15.775
+Bihar,PURBI CHAMPARAN,Rabi       ,Wheat,12.03030303
+Bihar,PURBI CHAMPARAN,Summer     ,Rice,3.05948483
+Bihar,PURBI CHAMPARAN,Whole Year ,Turmeric,47.32389445
+Bihar,PURBI CHAMPARAN,Winter     ,Rice,1.130791871
+Bihar,PURNIA,Autumn     ,Rice,2.758177491
+Bihar,PURNIA,Kharif     ,Urad,13.56696429
+Bihar,PURNIA,Rabi       ,Wheat,14.6875
+Bihar,PURNIA,Summer     ,Rice,2.988256939
+Bihar,PURNIA,Whole Year ,Turmeric,42.6329573
+Bihar,PURNIA,Winter     ,Rice,1.385042356
+Bihar,ROHTAS,Autumn     ,Rice,1.653889345
+Bihar,ROHTAS,Kharif     ,Urad,14.53846154
+Bihar,ROHTAS,Rabi       ,Wheat,10.3500612
+Bihar,ROHTAS,Summer     ,Rice,3.345269243
+Bihar,ROHTAS,Whole Year ,Turmeric,37.78753659
+Bihar,ROHTAS,Winter     ,Rice,2.883887041
+Bihar,SAHARSA,Autumn     ,Rice,3.494231743
+Bihar,SAHARSA,Kharif     ,Urad,13.5
+Bihar,SAHARSA,Rabi       ,Wheat,5.331018519
+Bihar,SAHARSA,Summer     ,Rice,3.718768834
+Bihar,SAHARSA,Whole Year ,Turmeric,46.79820658
+Bihar,SAHARSA,Winter     ,Rice,1.252774886
+Bihar,SAMASTIPUR,Autumn     ,Rice,1.938526049
+Bihar,SAMASTIPUR,Kharif     ,Urad,18.5
+Bihar,SAMASTIPUR,Rabi       ,Wheat,12.75
+Bihar,SAMASTIPUR,Summer     ,Rice,3.066179273
+Bihar,SAMASTIPUR,Whole Year ,Turmeric,36.08890239
+Bihar,SAMASTIPUR,Winter     ,Rice,1.013641228
+Bihar,SARAN,Autumn     ,Rice,1.698445116
+Bihar,SARAN,Kharif     ,Urad,7.831730769
+Bihar,SARAN,Rabi       ,Wheat,14.70588235
+Bihar,SARAN,Summer     ,Rice,2.738311104
+Bihar,SARAN,Whole Year ,Tobacco,41.9326912
+Bihar,SARAN,Winter     ,Rice,1.484007917
+Bihar,SHEIKHPURA,Autumn     ,Rice,1.396618038
+Bihar,SHEIKHPURA,Kharif     ,Urad,7.5
+Bihar,SHEIKHPURA,Rabi       ,Wheat,3.907936953
+Bihar,SHEIKHPURA,Summer     ,Rice,2.961607089
+Bihar,SHEIKHPURA,Whole Year ,Sugarcane,43.60018376
+Bihar,SHEIKHPURA,Winter     ,Rice,1.786454056
+Bihar,SHEOHAR,Autumn     ,Rice,2.636333432
+Bihar,SHEOHAR,Kharif     ,Sunflower,10
+Bihar,SHEOHAR,Rabi       ,Wheat,7.56097561
+Bihar,SHEOHAR,Summer     ,Rice,3.0940802
+Bihar,SHEOHAR,Whole Year ,Turmeric,48.54559482
+Bihar,SHEOHAR,Winter     ,Rice,0.941676631
+Bihar,SITAMARHI,Autumn     ,Rice,2.193780608
+Bihar,SITAMARHI,Kharif     ,Urad,12.10144928
+Bihar,SITAMARHI,Rabi       ,Wheat,12.03418803
+Bihar,SITAMARHI,Summer     ,Rice,2.97495759
+Bihar,SITAMARHI,Whole Year ,Turmeric,44.30990347
+Bihar,SITAMARHI,Winter     ,Rice,1.0273421
+Bihar,SIWAN,Autumn     ,Rice,1.988445205
+Bihar,SIWAN,Kharif     ,Urad,13.57575758
+Bihar,SIWAN,Rabi       ,Wheat,14.7
+Bihar,SIWAN,Summer     ,Rice,2.746667586
+Bihar,SIWAN,Whole Year ,Turmeric,41.68660339
+Bihar,SIWAN,Winter     ,Rice,1.334812687
+Bihar,SUPAUL,Autumn     ,Rice,3.20408603
+Bihar,SUPAUL,Kharif     ,Urad,13.57246377
+Bihar,SUPAUL,Rabi       ,Wheat,5.329905063
+Bihar,SUPAUL,Summer     ,Rice,3.586560712
+Bihar,SUPAUL,Whole Year ,Turmeric,49.13822931
+Bihar,SUPAUL,Winter     ,Rice,1.325312096
+Bihar,VAISHALI,Autumn     ,Rice,2.121020765
+Bihar,VAISHALI,Kharif     ,Urad,12.1083815
+Bihar,VAISHALI,Rabi       ,Wheat,8.019986056
+Bihar,VAISHALI,Summer     ,Rice,3.155005062
+Bihar,VAISHALI,Whole Year ,Turmeric,43.41072094
+Bihar,VAISHALI,Winter     ,Rice,1.21301778
+Chandigarh,CHANDIGARH,Kharif     ,Urad,4.703846154
+Chandigarh,CHANDIGARH,Rabi       ,Wheat,4.519956326
+Chandigarh,CHANDIGARH,Whole Year ,Potato,21.11111111
+Chhattisgarh,BALOD,Kharif     ,Urad,1.938701923
+Chhattisgarh,BALOD,Rabi       ,Wheat,1.110151973
+Chhattisgarh,BALOD,Whole Year ,Turmeric,25.03055556
+Chhattisgarh,BALODA BAZAR,Kharif     ,Urad,2.445233266
+Chhattisgarh,BALODA BAZAR,Rabi       ,Wheat,8.909126984
+Chhattisgarh,BALODA BAZAR,Whole Year ,Turmeric,36.627886
+Chhattisgarh,BALRAMPUR,Kharif     ,Urad,48.28401025
+Chhattisgarh,BALRAMPUR,Rabi       ,Wheat,20.33333333
+Chhattisgarh,BALRAMPUR,Summer     ,Sunflower,13.45555556
+Chhattisgarh,BALRAMPUR,Whole Year ,Turmeric,23.29707792
+Chhattisgarh,BASTAR,Kharif     ,Urad,6.37037037
+Chhattisgarh,BASTAR,Rabi       ,Wheat,5.698402029
+Chhattisgarh,BASTAR,Whole Year ,Turmeric,46.7494028
+Chhattisgarh,BEMETARA,Kharif     ,Urad,1.662915272
+Chhattisgarh,BEMETARA,Rabi       ,Wheat,6.222222222
+Chhattisgarh,BEMETARA,Whole Year ,Turmeric,24.9202498
+Chhattisgarh,BIJAPUR,Kharif     ,Urad,1.89985119
+Chhattisgarh,BIJAPUR,Rabi       ,Wheat,1.5
+Chhattisgarh,BIJAPUR,Whole Year ,Turmeric,38.97470238
+Chhattisgarh,BILASPUR,Kharif     ,Urad,5.373015873
+Chhattisgarh,BILASPUR,Rabi       ,Wheat,5.49355415
+Chhattisgarh,BILASPUR,Summer     ,Moong(Green Gram),
+Chhattisgarh,BILASPUR,Whole Year ,Turmeric,38.3702381
+Chhattisgarh,DANTEWADA,Kharif     ,Urad,7.6
+Chhattisgarh,DANTEWADA,Rabi       ,Wheat,7.4
+Chhattisgarh,DANTEWADA,Whole Year ,Turmeric,38.60650845
+Chhattisgarh,DHAMTARI,Kharif     ,Urad,9.470899471
+Chhattisgarh,DHAMTARI,Rabi       ,Wheat,6.927179963
+Chhattisgarh,DHAMTARI,Whole Year ,Turmeric,49.09122795
+Chhattisgarh,DURG,Kharif     ,Urad,6.166666667
+Chhattisgarh,DURG,Rabi       ,Wheat,5.04271978
+Chhattisgarh,DURG,Whole Year ,Turmeric,40.80900621
+Chhattisgarh,GARIYABAND,Kharif     ,Urad,8.2
+Chhattisgarh,GARIYABAND,Rabi       ,Wheat,8.4437519
+Chhattisgarh,GARIYABAND,Whole Year ,Turmeric,35.13404977
+Chhattisgarh,JANJGIR-CHAMPA,Kharif     ,Urad,6.58727654
+Chhattisgarh,JANJGIR-CHAMPA,Rabi       ,Wheat,5.39859367
+Chhattisgarh,JANJGIR-CHAMPA,Whole Year ,Turmeric,33.29860994
+Chhattisgarh,JASHPUR,Kharif     ,Urad,5.324611715
+Chhattisgarh,JASHPUR,Rabi       ,Wheat,5.129769289
+Chhattisgarh,JASHPUR,Whole Year ,Turmeric,35.5
+Chhattisgarh,KABIRDHAM,Kharif     ,Urad,8.529179207
+Chhattisgarh,KABIRDHAM,Rabi       ,Wheat,4.932286573
+Chhattisgarh,KABIRDHAM,Whole Year ,Turmeric,39.15921856
+Chhattisgarh,KANKER,Kharif     ,Urad,7.5
+Chhattisgarh,KANKER,Rabi       ,Wheat,5.408503401
+Chhattisgarh,KANKER,Whole Year ,Turmeric,42.5749082
+Chhattisgarh,KONDAGAON,Kharif     ,Urad,6.6627886
+Chhattisgarh,KONDAGAON,Rabi       ,Wheat,6.29110472
+Chhattisgarh,KONDAGAON,Whole Year ,Turmeric,33.62737536
+Chhattisgarh,KORBA,Kharif     ,Urad,6.733333333
+Chhattisgarh,KORBA,Rabi       ,Wheat,5.093289163
+Chhattisgarh,KORBA,Whole Year ,Turmeric,32.91333333
+Chhattisgarh,KOREA,Kharif     ,Urad,1.730179645
+Chhattisgarh,KOREA,Rabi       ,Wheat,4.439675559
+Chhattisgarh,KOREA,Whole Year ,Turmeric,31.11111111
+Chhattisgarh,MAHASAMUND,Kharif     ,Urad,2.33509585
+Chhattisgarh,MAHASAMUND,Rabi       ,other misc. pulses,6.69875541
+Chhattisgarh,MAHASAMUND,Whole Year ,Turmeric,45.09421992
+Chhattisgarh,MUNGELI,Kharif     ,Urad,1.996758966
+Chhattisgarh,MUNGELI,Rabi       ,Wheat,6.61662063
+Chhattisgarh,MUNGELI,Whole Year ,Sweet potato,33.16923077
+Chhattisgarh,NARAYANPUR,Kharif     ,Urad,2.888888889
+Chhattisgarh,NARAYANPUR,Rabi       ,Wheat,6.666666667
+Chhattisgarh,NARAYANPUR,Whole Year ,Turmeric,38.78125
+Chhattisgarh,RAIGARH,Kharif     ,Urad,1.847614408
+Chhattisgarh,RAIGARH,Rabi       ,Wheat,5.693849478
+Chhattisgarh,RAIGARH,Whole Year ,Turmeric,29.30121127
+Chhattisgarh,RAIPUR,Kharif     ,Urad,7.333333333
+Chhattisgarh,RAIPUR,Rabi       ,Wheat,6.812415285
+Chhattisgarh,RAIPUR,Whole Year ,Turmeric,43.90698052
+Chhattisgarh,RAJNANDGAON,Kharif     ,Urad,7.308896104
+Chhattisgarh,RAJNANDGAON,Rabi       ,Wheat,5.150891965
+Chhattisgarh,RAJNANDGAON,Whole Year ,Turmeric,42.75401103
+Chhattisgarh,SUKMA,Kharif     ,Urad,2.224708263
+Chhattisgarh,SUKMA,Rabi       ,Wheat,1
+Chhattisgarh,SUKMA,Whole Year ,Turmeric,35.38724588
+Chhattisgarh,SURAJPUR,Kharif     ,Urad,1.708702127
+Chhattisgarh,SURAJPUR,Rabi       ,Wheat,5.299730136
+Chhattisgarh,SURAJPUR,Whole Year ,Turmeric,5.015280916
+Chhattisgarh,SURGUJA,Kharif     ,Urad,5
+Chhattisgarh,SURGUJA,Rabi       ,Wheat,5.075615514
+Chhattisgarh,SURGUJA,Whole Year ,Turmeric,28.71327216
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Kharif     ,Urad,71.21636637
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Rabi       ,Rice,25
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Winter     ,Wheat,77.5
+Goa,NORTH GOA,Kharif     ,Rice,2.614924403
+Goa,NORTH GOA,Rabi       ,Rice,2.787733334
+Goa,NORTH GOA,Whole Year ,Sugarcane,3304.455073
+Goa,SOUTH GOA,Kharif     ,Rice,2.441523989
+Goa,SOUTH GOA,Rabi       ,Rice,2.817589805
+Goa,SOUTH GOA,Whole Year ,Sugarcane,3305.219992
+Gujarat,AHMADABAD,Kharif     ,other oilseeds,1.866118758
+Gujarat,AHMADABAD,Rabi       ,Wheat,22
+Gujarat,AHMADABAD,Summer     ,Rice,3.022542664
+Gujarat,AHMADABAD,Whole Year ,other oilseeds,64.26282051
+Gujarat,AMRELI,Kharif     ,other oilseeds,2.706830336
+Gujarat,AMRELI,Rabi       ,Wheat,26.88502506
+Gujarat,AMRELI,Summer     ,Sesamum,16.97953216
+Gujarat,AMRELI,Whole Year ,Sugarcane,77
+Gujarat,ANAND,Kharif     ,other oilseeds,3.656697974
+Gujarat,ANAND,Rabi       ,Wheat,27.6875
+Gujarat,ANAND,Summer     ,Urad,2.871458503
+Gujarat,ANAND,Whole Year ,other oilseeds,73.77713625
+Gujarat,BANAS KANTHA,Kharif     ,other oilseeds,2.920536546
+Gujarat,BANAS KANTHA,Rabi       ,Wheat,20.55555556
+Gujarat,BANAS KANTHA,Summer     ,Moong(Green Gram),2.080458224
+Gujarat,BANAS KANTHA,Whole Year ,Tobacco,50
+Gujarat,BHARUCH,Kharif     ,other oilseeds,1.85661399
+Gujarat,BHARUCH,Rabi       ,Wheat,12
+Gujarat,BHARUCH,Summer     ,Sesamum,14.64444444
+Gujarat,BHARUCH,Whole Year ,other oilseeds,64.67462768
+Gujarat,BHAVNAGAR,Kharif     ,other oilseeds,2.731091526
+Gujarat,BHAVNAGAR,Rabi       ,Wheat,28.21164181
+Gujarat,BHAVNAGAR,Summer     ,Sesamum,28.05300546
+Gujarat,BHAVNAGAR,Whole Year ,Tobacco,65.34615385
+Gujarat,DANG,Kharif     ,other oilseeds,1.403199099
+Gujarat,DANG,Rabi       ,Wheat,28.4
+Gujarat,DANG,Summer     ,Moong(Green Gram),1.68984127
+Gujarat,DANG,Whole Year ,other oilseeds,62
+Gujarat,DOHAD,Kharif     ,other oilseeds,2.112996032
+Gujarat,DOHAD,Rabi       ,Wheat,27.36397059
+Gujarat,DOHAD,Summer     ,Moong(Green Gram),1.794458874
+Gujarat,DOHAD,Whole Year ,other oilseeds,27.963868
+Gujarat,GANDHINAGAR,Kharif     ,Urad,3.365195919
+Gujarat,GANDHINAGAR,Rabi       ,Wheat,14
+Gujarat,GANDHINAGAR,Summer     ,Rice,2.977777778
+Gujarat,GANDHINAGAR,Whole Year ,Tobacco,53.19266055
+Gujarat,JAMNAGAR,Kharif     ,other oilseeds,3.504147544
+Gujarat,JAMNAGAR,Rabi       ,Wheat,23.54063521
+Gujarat,JAMNAGAR,Summer     ,Urad,27
+Gujarat,JAMNAGAR,Whole Year ,other oilseeds,71.78231293
+Gujarat,JUNAGADH,Kharif     ,other oilseeds,3.870494966
+Gujarat,JUNAGADH,Rabi       ,Wheat,25.61328273
+Gujarat,JUNAGADH,Summer     ,Urad,26.05555556
+Gujarat,JUNAGADH,Whole Year ,other oilseeds,78.85625729
+Gujarat,KACHCHH,Kharif     ,other oilseeds,3.180433454
+Gujarat,KACHCHH,Rabi       ,Wheat,27.61439565
+Gujarat,KACHCHH,Summer     ,Sesamum,24.125
+Gujarat,KACHCHH,Whole Year ,Sugarcane,68.92708333
+Gujarat,KHEDA,Kharif     ,other oilseeds,2.664908045
+Gujarat,KHEDA,Rabi       ,Wheat,24.33333333
+Gujarat,KHEDA,Summer     ,Rice,3.167241611
+Gujarat,KHEDA,Whole Year ,other oilseeds,59.67460317
+Gujarat,MAHESANA,Kharif     ,other oilseeds,2.595819702
+Gujarat,MAHESANA,Rabi       ,Wheat,25.375
+Gujarat,MAHESANA,Summer     ,Moong(Green Gram),2.368602898
+Gujarat,MAHESANA,Whole Year ,other oilseeds,26.69861111
+Gujarat,NARMADA,Kharif     ,other oilseeds,2.551682317
+Gujarat,NARMADA,Rabi       ,Wheat,22
+Gujarat,NARMADA,Summer     ,Sesamum,235
+Gujarat,NARMADA,Whole Year ,other oilseeds,67.95651076
+Gujarat,NAVSARI,Kharif     ,other oilseeds,2.435518258
+Gujarat,NAVSARI,Rabi       ,Wheat,28.75
+Gujarat,NAVSARI,Summer     ,Urad,3.13012098
+Gujarat,NAVSARI,Whole Year ,other oilseeds,68.96666667
+Gujarat,PANCH MAHALS,Kharif     ,other oilseeds,2.019162909
+Gujarat,PANCH MAHALS,Rabi       ,Wheat,27.08333333
+Gujarat,PANCH MAHALS,Summer     ,Urad,14.6984127
+Gujarat,PANCH MAHALS,Whole Year ,other oilseeds,62.77777778
+Gujarat,PATAN,Kharif     ,other oilseeds,17
+Gujarat,PATAN,Rabi       ,Wheat,3
+Gujarat,PATAN,Summer     ,Moong(Green Gram),2.383729835
+Gujarat,PATAN,Whole Year ,other oilseeds,24.10761905
+Gujarat,PORBANDAR,Kharif     ,other oilseeds,3.413746956
+Gujarat,PORBANDAR,Rabi       ,Wheat,26.99468623
+Gujarat,PORBANDAR,Summer     ,Urad,2.486772487
+Gujarat,PORBANDAR,Whole Year ,other oilseeds,28.71128594
+Gujarat,RAJKOT,Kharif     ,other oilseeds,3.640096564
+Gujarat,RAJKOT,Rabi       ,Wheat,28.85534528
+Gujarat,RAJKOT,Summer     ,Urad,23.39285714
+Gujarat,RAJKOT,Whole Year ,Sugarcane,75.5
+Gujarat,SABAR KANTHA,Kharif     ,Urad,2.650664127
+Gujarat,SABAR KANTHA,Rabi       ,Wheat,16.66666667
+Gujarat,SABAR KANTHA,Summer     ,Urad,2.232187992
+Gujarat,SABAR KANTHA,Whole Year ,Tobacco,71.5
+Gujarat,SURAT,Kharif     ,other oilseeds,2.396780701
+Gujarat,SURAT,Rabi       ,Wheat,26.94047619
+Gujarat,SURAT,Summer     ,Urad,3.14011041
+Gujarat,SURAT,Whole Year ,other oilseeds,69.8318141
+Gujarat,SURENDRANAGAR,Kharif     ,other oilseeds,2.258985663
+Gujarat,SURENDRANAGAR,Rabi       ,Wheat,26.60625
+Gujarat,SURENDRANAGAR,Summer     ,Sesamum,25
+Gujarat,SURENDRANAGAR,Whole Year ,other oilseeds,66.48809524
+Gujarat,TAPI,Kharif     ,other oilseeds,2
+Gujarat,TAPI,Rabi       ,Wheat,20
+Gujarat,TAPI,Summer     ,Urad,17
+Gujarat,TAPI,Whole Year ,Sugarcane,74.3
+Gujarat,VADODARA,Kharif     ,Urad,2.496272969
+Gujarat,VADODARA,Rabi       ,Wheat,29.16666667
+Gujarat,VADODARA,Summer     ,Urad,2.095069478
+Gujarat,VADODARA,Whole Year ,Tobacco,69.08152498
+Gujarat,VALSAD,Kharif     ,other oilseeds,1.984732977
+Gujarat,VALSAD,Rabi       ,Wheat,4
+Gujarat,VALSAD,Summer     ,Urad,3.066210029
+Gujarat,VALSAD,Whole Year ,other oilseeds,60.90712348
+Haryana,AMBALA,Kharif     ,Urad,3.28716111
+Haryana,AMBALA,Rabi       ,other oilseeds,3.770340292
+Haryana,AMBALA,Whole Year ,Turmeric,54.8826769
+Haryana,BHIWANI,Kharif     ,Urad,2.360536639
+Haryana,BHIWANI,Rabi       ,Wheat,3.445685038
+Haryana,BHIWANI,Whole Year ,Sugarcane,50.67092515
+Haryana,FARIDABAD,Kharif     ,Urad,2.577138837
+Haryana,FARIDABAD,Rabi       ,Wheat,4.137518907
+Haryana,FARIDABAD,Whole Year ,Sweet potato,49.95612212
+Haryana,FATEHABAD,Kharif     ,Urad,3.628491921
+Haryana,FATEHABAD,Rabi       ,Wheat,4.493085844
+Haryana,FATEHABAD,Whole Year ,Sugarcane,66.29303634
+Haryana,GURGAON,Kharif     ,Urad,2.790002479
+Haryana,GURGAON,Rabi       ,Wheat,3.910594634
+Haryana,GURGAON,Whole Year ,Sweet potato,35.5664488
+Haryana,HISAR,Kharif     ,Urad,2.915468333
+Haryana,HISAR,Rabi       ,Wheat,4.270009462
+Haryana,HISAR,Whole Year ,Sweet potato,48.10977625
+Haryana,JHAJJAR,Kharif     ,Urad,2.199865766
+Haryana,JHAJJAR,Rabi       ,Wheat,3.968643561
+Haryana,JHAJJAR,Whole Year ,Sweet potato,49.06240679
+Haryana,JIND,Kharif     ,Urad,2.735070148
+Haryana,JIND,Rabi       ,Wheat,4.271998041
+Haryana,JIND,Whole Year ,Turmeric,52.32249363
+Haryana,KAITHAL,Kharif     ,Urad,2.875349677
+Haryana,KAITHAL,Rabi       ,Wheat,4.437404415
+Haryana,KAITHAL,Whole Year ,Turmeric,53.33642357
+Haryana,KARNAL,Kharif     ,Urad,3.116831161
+Haryana,KARNAL,Rabi       ,Wheat,4.456015866
+Haryana,KARNAL,Whole Year ,Turmeric,286.361166
+Haryana,KURUKSHETRA,Kharif     ,other oilseeds,3.477561398
+Haryana,KURUKSHETRA,Rabi       ,other oilseeds,4.482893221
+Haryana,KURUKSHETRA,Whole Year ,Turmeric,60.58752428
+Haryana,MAHENDRAGARH,Kharif     ,Urad,2.320193958
+Haryana,MAHENDRAGARH,Rabi       ,Wheat,4.128318614
+Haryana,MAHENDRAGARH,Whole Year ,Sweet potato,21.01117383
+Haryana,MEWAT,Kharif     ,Urad,2.714023665
+Haryana,MEWAT,Rabi       ,Wheat,3.807111899
+Haryana,MEWAT,Whole Year ,Sweet potato,59.57813637
+Haryana,PALWAL,Kharif     ,Urad,4.566210046
+Haryana,PALWAL,Rabi       ,Wheat,4.687655495
+Haryana,PALWAL,Whole Year ,Sweet potato,36.18532921
+Haryana,PANCHKULA,Kharif     ,Urad,2.873892136
+Haryana,PANCHKULA,Rabi       ,Wheat,2.642282301
+Haryana,PANCHKULA,Whole Year ,Turmeric,68.02638588
+Haryana,PANIPAT,Kharif     ,Urad,2.42473887
+Haryana,PANIPAT,Rabi       ,other oilseeds,4.439255324
+Haryana,PANIPAT,Whole Year ,Turmeric,59.4340696
+Haryana,REWARI,Kharif     ,Urad,3.370550026
+Haryana,REWARI,Rabi       ,Wheat,4.254470103
+Haryana,REWARI,Whole Year ,Tobacco,16.44102184
+Haryana,ROHTAK,Kharif     ,Urad,2.008233821
+Haryana,ROHTAK,Rabi       ,Wheat,3.926369308
+Haryana,ROHTAK,Whole Year ,Sweet potato,47.47077576
+Haryana,SIRSA,Kharif     ,Urad,3.132923487
+Haryana,SIRSA,Rabi       ,Wheat,4.340940832
+Haryana,SIRSA,Whole Year ,Turmeric,50.78056393
+Haryana,SONIPAT,Kharif     ,Urad,2.712128572
+Haryana,SONIPAT,Rabi       ,Wheat,4.276755965
+Haryana,SONIPAT,Whole Year ,Sweet potato,54.70005743
+Haryana,YAMUNANAGAR,Kharif     ,Urad,3.24447463
+Haryana,YAMUNANAGAR,Rabi       ,Wheat,3.952374544
+Haryana,YAMUNANAGAR,Whole Year ,Turmeric,50.36037939
+Himachal Pradesh,BILASPUR,Kharif     ,Urad,14.25641026
+Himachal Pradesh,BILASPUR,Rabi       ,Wheat,6.950854701
+Himachal Pradesh,BILASPUR,Whole Year ,Turmeric,6.979442654
+Himachal Pradesh,CHAMBA,Kharif     ,Urad,10.00994934
+Himachal Pradesh,CHAMBA,Rabi       ,Wheat,8.842937611
+Himachal Pradesh,CHAMBA,Whole Year ,Tobacco,9.707654697
+Himachal Pradesh,HAMIRPUR,Kharif     ,Urad,12.49331551
+Himachal Pradesh,HAMIRPUR,Rabi       ,Wheat,6.884615385
+Himachal Pradesh,HAMIRPUR,Whole Year ,Turmeric,8.601972102
+Himachal Pradesh,KANGRA,Kharif     ,Urad,14.35864991
+Himachal Pradesh,KANGRA,Rabi       ,Wheat,7.577197196
+Himachal Pradesh,KANGRA,Whole Year ,Turmeric,9.955703883
+Himachal Pradesh,KINNAUR,Kharif     ,Urad,6.45451662
+Himachal Pradesh,KINNAUR,Rabi       ,Wheat,1.733158513
+Himachal Pradesh,KINNAUR,Whole Year ,Potato,7.864949941
+Himachal Pradesh,KULLU,Kharif     ,Urad,11.78081175
+Himachal Pradesh,KULLU,Rabi       ,Wheat,8.928431318
+Himachal Pradesh,KULLU,Whole Year ,Tobacco,6.870387942
+Himachal Pradesh,LAHUL AND SPITI,Kharif     ,Small millets,18.64153698
+Himachal Pradesh,LAHUL AND SPITI,Rabi       ,Wheat,5.538155246
+Himachal Pradesh,LAHUL AND SPITI,Whole Year ,Potato,17.45046818
+Himachal Pradesh,MANDI,Kharif     ,Urad,8.798996053
+Himachal Pradesh,MANDI,Rabi       ,Wheat,7.189596736
+Himachal Pradesh,MANDI,Whole Year ,Turmeric,11.07614676
+Himachal Pradesh,SHIMLA,Kharif     ,Urad,12.5
+Himachal Pradesh,SHIMLA,Rabi       ,Wheat,8.275634861
+Himachal Pradesh,SHIMLA,Whole Year ,Turmeric,8.27941573
+Himachal Pradesh,SIRMAUR,Kharif     ,Urad,28.35872288
+Himachal Pradesh,SIRMAUR,Rabi       ,Wheat,10.18067151
+Himachal Pradesh,SIRMAUR,Whole Year ,Turmeric,10.87647528
+Himachal Pradesh,SOLAN,Kharif     ,Urad,15.02306027
+Himachal Pradesh,SOLAN,Rabi       ,Wheat,8.117401204
+Himachal Pradesh,SOLAN,Whole Year ,Turmeric,10.28991597
+Himachal Pradesh,UNA,Kharif     ,Urad,16.49056353
+Himachal Pradesh,UNA,Rabi       ,Wheat,11.4302753
+Himachal Pradesh,UNA,Whole Year ,Turmeric,13.81227267
+Jammu and Kashmir ,ANANTNAG,Kharif     ,Urad,6.901757889
+Jammu and Kashmir ,ANANTNAG,Rabi       ,Wheat,8.77375
+Jammu and Kashmir ,ANANTNAG,Whole Year ,Potato,13.14214703
+Jammu and Kashmir ,BADGAM,Kharif     ,Urad,5.012765957
+Jammu and Kashmir ,BADGAM,Rabi       ,Wheat,9.577628939
+Jammu and Kashmir ,BADGAM,Whole Year ,Potato,13.22729122
+Jammu and Kashmir ,BANDIPORA,Kharif     ,Urad,9.582906852
+Jammu and Kashmir ,BANDIPORA,Rabi       ,Rapeseed &Mustard,19.1085953
+Jammu and Kashmir ,BARAMULLA,Kharif     ,Wheat,11.43083624
+Jammu and Kashmir ,BARAMULLA,Rabi       ,other oilseeds,0.844521133
+Jammu and Kashmir ,BARAMULLA,Whole Year ,Potato,8.196455727
+Jammu and Kashmir ,DODA,Kharif     ,Wheat,4.647592593
+Jammu and Kashmir ,DODA,Rabi       ,Wheat,2.566452991
+Jammu and Kashmir ,DODA,Whole Year ,Potato,5.872796935
+Jammu and Kashmir ,GANDERBAL,Kharif     ,Rice,3.253735632
+Jammu and Kashmir ,GANDERBAL,Rabi       ,Rapeseed &Mustard,1.564696753
+Jammu and Kashmir ,JAMMU,Kharif     ,other oilseeds,6.080705423
+Jammu and Kashmir ,JAMMU,Rabi       ,other oilseeds,21.51962423
+Jammu and Kashmir ,JAMMU,Whole Year ,other oilseeds,13.07402597
+Jammu and Kashmir ,KARGIL,Kharif     ,Small millets,9.353571429
+Jammu and Kashmir ,KARGIL,Rabi       ,Wheat,9.338095238
+Jammu and Kashmir ,KARGIL,Whole Year ,Turnip,0.638888889
+Jammu and Kashmir ,KATHUA,Kharif     ,Urad,5
+Jammu and Kashmir ,KATHUA,Rabi       ,other oilseeds,22.52382155
+Jammu and Kashmir ,KATHUA,Whole Year ,Turmeric,6.798086175
+Jammu and Kashmir ,KISHTWAR,Kharif     ,Wheat,6.820943396
+Jammu and Kashmir ,KISHTWAR,Rabi       ,Wheat,2.55
+Jammu and Kashmir ,KULGAM,Kharif     ,Urad,1.947321429
+Jammu and Kashmir ,KULGAM,Rabi       ,Wheat,9.524501425
+Jammu and Kashmir ,KUPWARA,Kharif     ,Small millets,6.955767762
+Jammu and Kashmir ,KUPWARA,Rabi       ,Wheat,1.18013468
+Jammu and Kashmir ,KUPWARA,Whole Year ,Potato,10.42028986
+Jammu and Kashmir ,LEH LADAKH,Kharif     ,Small millets,9.3
+Jammu and Kashmir ,LEH LADAKH,Rabi       ,Wheat,9.332539378
+Jammu and Kashmir ,LEH LADAKH,Whole Year ,Turnip,9.33531746
+Jammu and Kashmir ,POONCH,Kharif     ,Urad,3.75
+Jammu and Kashmir ,POONCH,Rabi       ,Wheat,1.405591811
+Jammu and Kashmir ,POONCH,Whole Year ,Sannhamp,8.666666667
+Jammu and Kashmir ,PULWAMA,Kharif     ,Urad,4.0875
+Jammu and Kashmir ,PULWAMA,Rabi       ,Wheat,9.380655017
+Jammu and Kashmir ,PULWAMA,Whole Year ,Potato,14.84257854
+Jammu and Kashmir ,RAJAURI,Kharif     ,other oilseeds,2.380881454
+Jammu and Kashmir ,RAJAURI,Rabi       ,Wheat,1.529235119
+Jammu and Kashmir ,RAJAURI,Whole Year ,Turmeric,5.916666667
+Jammu and Kashmir ,RAMBAN,Kharif     ,Rice,0.929338512
+Jammu and Kashmir ,RAMBAN,Rabi       ,Wheat,0.877370977
+Jammu and Kashmir ,REASI,Kharif     ,Urad,1.306543013
+Jammu and Kashmir ,REASI,Rabi       ,Wheat,17.7925
+Jammu and Kashmir ,SAMBA,Kharif     ,other oilseeds,5.566666667
+Jammu and Kashmir ,SAMBA,Rabi       ,other oilseeds,18.3125
+Jammu and Kashmir ,SHOPIAN,Kharif     ,Rice,8.067955102
+Jammu and Kashmir ,SHOPIAN,Rabi       ,Rapeseed &Mustard,2.358333333
+Jammu and Kashmir ,SRINAGAR,Kharif     ,other oilseeds,8.876455026
+Jammu and Kashmir ,SRINAGAR,Rabi       ,other oilseeds,7.99067562
+Jammu and Kashmir ,SRINAGAR,Whole Year ,other oilseeds,9.826618049
+Jammu and Kashmir ,UDHAMPUR,Kharif     ,Urad,7.648504568
+Jammu and Kashmir ,UDHAMPUR,Rabi       ,other oilseeds,14.01646465
+Jammu and Kashmir ,UDHAMPUR,Whole Year ,Turmeric,7.034980114
+Jharkhand,BOKARO,Autumn     ,Rice,1.032972355
+Jharkhand,BOKARO,Rabi       ,Wheat,9.712783811
+Jharkhand,BOKARO,Winter     ,Rice,48.34268062
+Jharkhand,CHATRA,Autumn     ,Rice,1.460169957
+Jharkhand,CHATRA,Kharif     ,Arhar/Tur,1.815001394
+Jharkhand,CHATRA,Rabi       ,Wheat,6.247436705
+Jharkhand,CHATRA,Whole Year ,Sugarcane,43.36038975
+Jharkhand,CHATRA,Winter     ,Rice,9.88717123
+Jharkhand,DEOGHAR,Autumn     ,Rice,1.223205014
+Jharkhand,DEOGHAR,Rabi       ,Wheat,8.047863584
+Jharkhand,DEOGHAR,Winter     ,Rice,7.432025933
+Jharkhand,DHANBAD,Autumn     ,Rice,1.860457328
+Jharkhand,DHANBAD,Rabi       ,Wheat,6.902617932
+Jharkhand,DHANBAD,Winter     ,Rice,8.694738606
+Jharkhand,DUMKA,Autumn     ,Rice,1.725645305
+Jharkhand,DUMKA,Kharif     ,Arhar/Tur,1.310998779
+Jharkhand,DUMKA,Rabi       ,Wheat,7.480114956
+Jharkhand,DUMKA,Winter     ,Rice,8.40353976
+Jharkhand,EAST SINGHBUM,Autumn     ,Rice,1.309043896
+Jharkhand,EAST SINGHBUM,Rabi       ,Wheat,5.899988486
+Jharkhand,EAST SINGHBUM,Winter     ,Rice,7.619831268
+Jharkhand,GARHWA,Autumn     ,Rice,1.381183113
+Jharkhand,GARHWA,Kharif     ,Arhar/Tur,1.109999445
+Jharkhand,GARHWA,Rabi       ,Wheat,6.866745782
+Jharkhand,GARHWA,Whole Year ,Sugarcane,41.97530864
+Jharkhand,GARHWA,Winter     ,Rice,6.752789535
+Jharkhand,GIRIDIH,Autumn     ,Rice,0.980187719
+Jharkhand,GIRIDIH,Rabi       ,Wheat,11.84632733
+Jharkhand,GIRIDIH,Whole Year ,Onion,14.27295481
+Jharkhand,GIRIDIH,Winter     ,Rice,14.01256139
+Jharkhand,GODDA,Autumn     ,Rice,1.524168148
+Jharkhand,GODDA,Kharif     ,Arhar/Tur,1.88400234
+Jharkhand,GODDA,Rabi       ,Wheat,7.309667932
+Jharkhand,GODDA,Whole Year ,Sugarcane,43.39060231
+Jharkhand,GODDA,Winter     ,Rice,7.099870404
+Jharkhand,GUMLA,Autumn     ,Rice,1.255400976
+Jharkhand,GUMLA,Kharif     ,Arhar/Tur,1.342001136
+Jharkhand,GUMLA,Rabi       ,Wheat,5.21448584
+Jharkhand,GUMLA,Winter     ,Rice,4.806212355
+Jharkhand,HAZARIBAGH,Autumn     ,Rice,1.277188814
+Jharkhand,HAZARIBAGH,Kharif     ,Arhar/Tur,1.580001392
+Jharkhand,HAZARIBAGH,Rabi       ,Wheat,7.456235681
+Jharkhand,HAZARIBAGH,Whole Year ,Sugarcane,23.89009397
+Jharkhand,HAZARIBAGH,Winter     ,Rice,7.431176206
+Jharkhand,JAMTARA,Autumn     ,Rice,1.377777778
+Jharkhand,JAMTARA,Rabi       ,Wheat,7.372531166
+Jharkhand,JAMTARA,Winter     ,Rice,6.876328302
+Jharkhand,KHUNTI,Rabi       ,Wheat,6.212328767
+Jharkhand,KODERMA,Autumn     ,Rice,1.181860475
+Jharkhand,KODERMA,Kharif     ,Arhar/Tur,1.660999206
+Jharkhand,KODERMA,Rabi       ,Wheat,7.698586821
+Jharkhand,KODERMA,Whole Year ,Sugarcane,43.35736252
+Jharkhand,KODERMA,Winter     ,Rice,8.725700868
+Jharkhand,LATEHAR,Autumn     ,Rice,1.500023575
+Jharkhand,LATEHAR,Kharif     ,Arhar/Tur,1.436999095
+Jharkhand,LATEHAR,Rabi       ,Wheat,7.065493591
+Jharkhand,LATEHAR,Winter     ,Rice,7.299894834
+Jharkhand,LOHARDAGA,Autumn     ,Rice,2.402334954
+Jharkhand,LOHARDAGA,Kharif     ,Arhar/Tur,1.875006495
+Jharkhand,LOHARDAGA,Rabi       ,Wheat,8.827668796
+Jharkhand,LOHARDAGA,Whole Year ,Sugarcane,44.78805652
+Jharkhand,LOHARDAGA,Winter     ,Rice,4.152010192
+Jharkhand,PAKUR,Autumn     ,Rice,2.470734213
+Jharkhand,PAKUR,Kharif     ,Arhar/Tur,1.250994296
+Jharkhand,PAKUR,Rabi       ,Wheat,8.994373869
+Jharkhand,PAKUR,Whole Year ,Sugarcane,43.24324324
+Jharkhand,PAKUR,Winter     ,Rice,7.781036134
+Jharkhand,PALAMU,Autumn     ,Rice,1.189817215
+Jharkhand,PALAMU,Kharif     ,Arhar/Tur,1.35200083
+Jharkhand,PALAMU,Rabi       ,Wheat,7.183984832
+Jharkhand,PALAMU,Whole Year ,Sugarcane,42.00275839
+Jharkhand,PALAMU,Winter     ,Rice,7.352702345
+Jharkhand,RAMGARH,Rabi       ,Wheat,6.433566434
+Jharkhand,RANCHI,Autumn     ,Rice,1.27700182
+Jharkhand,RANCHI,Kharif     ,Arhar/Tur,1.898001623
+Jharkhand,RANCHI,Rabi       ,Wheat,6.870727615
+Jharkhand,RANCHI,Whole Year ,Onion,6.437995992
+Jharkhand,RANCHI,Winter     ,Rice,7.923302683
+Jharkhand,SAHEBGANJ,Autumn     ,Rice,1.257296817
+Jharkhand,SAHEBGANJ,Kharif     ,Arhar/Tur,1.658015999
+Jharkhand,SAHEBGANJ,Rabi       ,Wheat,10.74902869
+Jharkhand,SAHEBGANJ,Winter     ,Rice,8.670520231
+Jharkhand,SARAIKELA KHARSAWAN,Autumn     ,Rice,1.321524903
+Jharkhand,SARAIKELA KHARSAWAN,Kharif     ,Arhar/Tur,0.836034717
+Jharkhand,SARAIKELA KHARSAWAN,Rabi       ,Wheat,6.661823049
+Jharkhand,SARAIKELA KHARSAWAN,Winter     ,Rice,7.613764971
+Jharkhand,SIMDEGA,Autumn     ,Rice,1.380659558
+Jharkhand,SIMDEGA,Kharif     ,Arhar/Tur,0.776007409
+Jharkhand,SIMDEGA,Rabi       ,Wheat,5.82300066
+Jharkhand,SIMDEGA,Whole Year ,Sugarcane,4.517453799
+Jharkhand,SIMDEGA,Winter     ,Rice,6.665571585
+Jharkhand,WEST SINGHBHUM,Autumn     ,Rice,1.005919433
+Jharkhand,WEST SINGHBHUM,Kharif     ,Arhar/Tur,1.003024986
+Jharkhand,WEST SINGHBHUM,Rabi       ,Wheat,5.221823138
+Jharkhand,WEST SINGHBHUM,Winter     ,Rice,7.613239794
+Karnataka,BAGALKOT,Kharif     ,Urad,6.940445759
+Karnataka,BAGALKOT,Rabi       ,Wheat,9.359027187
+Karnataka,BAGALKOT,Summer     ,Sunflower,10.81220711
+Karnataka,BAGALKOT,Whole Year ,Turmeric,96.26666793
+Karnataka,BANGALORE RURAL,Kharif     ,Urad,11.67497982
+Karnataka,BANGALORE RURAL,Rabi       ,Wheat,18.09838191
+Karnataka,BANGALORE RURAL,Summer     ,Sunflower,16.39518625
+Karnataka,BANGALORE RURAL,Whole Year ,Turmeric,89.11617996
+Karnataka,BELGAUM,Kharif     ,Urad,10.58879638
+Karnataka,BELGAUM,Rabi       ,Wheat,14.43262018
+Karnataka,BELGAUM,Summer     ,Sunflower,15.13182164
+Karnataka,BELGAUM,Whole Year ,Turmeric,86.27187552
+Karnataka,BELLARY,Kharif     ,Urad,13
+Karnataka,BELLARY,Rabi       ,Wheat,15.39130435
+Karnataka,BELLARY,Summer     ,Sunflower,14.03846154
+Karnataka,BELLARY,Whole Year ,Turmeric,90.6656498
+Karnataka,BENGALURU URBAN,Kharif     ,Urad,9.060416667
+Karnataka,BENGALURU URBAN,Rabi       ,Sunflower,14.54923814
+Karnataka,BENGALURU URBAN,Summer     ,Sunflower,17.86553922
+Karnataka,BENGALURU URBAN,Whole Year ,Turmeric,88.34487955
+Karnataka,BIDAR,Kharif     ,Urad,11.28156012
+Karnataka,BIDAR,Rabi       ,Wheat,15.05850798
+Karnataka,BIDAR,Summer     ,Sunflower,15.75769231
+Karnataka,BIDAR,Whole Year ,Turmeric,67.56875132
+Karnataka,BIJAPUR,Kharif     ,Urad,8.279726891
+Karnataka,BIJAPUR,Rabi       ,Wheat,15.5
+Karnataka,BIJAPUR,Summer     ,Sunflower,13.72727273
+Karnataka,BIJAPUR,Whole Year ,Turmeric,74.57500158
+Karnataka,CHAMARAJANAGAR,Kharif     ,Urad,9.602780246
+Karnataka,CHAMARAJANAGAR,Rabi       ,Wheat,14.89396192
+Karnataka,CHAMARAJANAGAR,Summer     ,Sunflower,13.875
+Karnataka,CHAMARAJANAGAR,Whole Year ,Turmeric,96.33000831
+Karnataka,CHIKBALLAPUR,Kharif     ,Sunflower,11.9175568
+Karnataka,CHIKBALLAPUR,Rabi       ,Sunflower,14.35773499
+Karnataka,CHIKBALLAPUR,Summer     ,Sunflower,15.92785095
+Karnataka,CHIKBALLAPUR,Whole Year ,Turmeric,91.77081377
+Karnataka,CHIKMAGALUR,Kharif     ,Urad,10.8486296
+Karnataka,CHIKMAGALUR,Rabi       ,Wheat,14.54370797
+Karnataka,CHIKMAGALUR,Summer     ,Sunflower,8.147522848
+Karnataka,CHIKMAGALUR,Whole Year ,Turmeric,81.93743356
+Karnataka,CHITRADURGA,Kharif     ,Urad,13.20833333
+Karnataka,CHITRADURGA,Rabi       ,Wheat,8.152777778
+Karnataka,CHITRADURGA,Summer     ,Sunflower,7.548513932
+Karnataka,CHITRADURGA,Whole Year ,Turmeric,88.7906125
+Karnataka,DAKSHIN KANNAD,Kharif     ,Urad,10.44683074
+Karnataka,DAKSHIN KANNAD,Rabi       ,Urad,2.90157626
+Karnataka,DAKSHIN KANNAD,Summer     ,Rice,3.005082831
+Karnataka,DAKSHIN KANNAD,Whole Year ,Turmeric,88.89294411
+Karnataka,DAVANGERE,Kharif     ,Urad,13.11435185
+Karnataka,DAVANGERE,Rabi       ,Wheat,8.051754386
+Karnataka,DAVANGERE,Summer     ,Sunflower,7.133912305
+Karnataka,DAVANGERE,Whole Year ,Turmeric,110.0733424
+Karnataka,DHARWAD,Kharif     ,Urad,8.270436508
+Karnataka,DHARWAD,Rabi       ,Wheat,14.10681251
+Karnataka,DHARWAD,Summer     ,Sunflower,17.9
+Karnataka,DHARWAD,Whole Year ,Turmeric,67.56875732
+Karnataka,GADAG,Kharif     ,Urad,13.16666667
+Karnataka,GADAG,Rabi       ,Wheat,7.378797171
+Karnataka,GADAG,Summer     ,Sunflower,8.636363636
+Karnataka,GADAG,Whole Year ,Turmeric,89.80692825
+Karnataka,GULBARGA,Kharif     ,Urad,11.56759085
+Karnataka,GULBARGA,Rabi       ,Wheat,15.80857143
+Karnataka,GULBARGA,Summer     ,Sunflower,7.948314422
+Karnataka,GULBARGA,Whole Year ,Turmeric,61.63124444
+Karnataka,HASSAN,Kharif     ,Urad,11.560758
+Karnataka,HASSAN,Rabi       ,Urad,13.77251727
+Karnataka,HASSAN,Summer     ,Sunflower,13.55152439
+Karnataka,HASSAN,Whole Year ,Turmeric,101.2343594
+Karnataka,HAVERI,Kharif     ,Urad,13.18822042
+Karnataka,HAVERI,Rabi       ,Wheat,7.125
+Karnataka,HAVERI,Summer     ,Sunflower,8.727272727
+Karnataka,HAVERI,Whole Year ,Turmeric,78.9766459
+Karnataka,KODAGU,Kharif     ,Sunflower,11.48333889
+Karnataka,KODAGU,Rabi       ,Rice,7.068965517
+Karnataka,KODAGU,Summer     ,Rice,15.8
+Karnataka,KODAGU,Whole Year ,Turmeric,94
+Karnataka,KOLAR,Kharif     ,Urad,14.02585079
+Karnataka,KOLAR,Rabi       ,Sunflower,15.65275221
+Karnataka,KOLAR,Summer     ,Sunflower,16.69378173
+Karnataka,KOLAR,Whole Year ,Turmeric,89.06266494
+Karnataka,KOPPAL,Kharif     ,Urad,6.113445378
+Karnataka,KOPPAL,Rabi       ,Wheat,6.860628494
+Karnataka,KOPPAL,Summer     ,Sunflower,8.434484141
+Karnataka,KOPPAL,Whole Year ,Turmeric,87.63760808
+Karnataka,MANDYA,Kharif     ,Urad,13.15
+Karnataka,MANDYA,Rabi       ,Wheat,15.0644122
+Karnataka,MANDYA,Summer     ,Sunflower,15.90543792
+Karnataka,MANDYA,Whole Year ,Turmeric,118.3343749
+Karnataka,MYSORE,Kharif     ,Urad,11.58809705
+Karnataka,MYSORE,Rabi       ,Wheat,15.41935484
+Karnataka,MYSORE,Summer     ,Sunflower,14
+Karnataka,MYSORE,Whole Year ,Turmeric,105.5687526
+Karnataka,RAICHUR,Kharif     ,Urad,13.06944444
+Karnataka,RAICHUR,Rabi       ,Wheat,7.187874948
+Karnataka,RAICHUR,Summer     ,Sunflower,8.787245459
+Karnataka,RAICHUR,Whole Year ,Turmeric,88.96397321
+Karnataka,RAMANAGARA,Kharif     ,Urad,6.333333333
+Karnataka,RAMANAGARA,Rabi       ,Rice,8.333333333
+Karnataka,RAMANAGARA,Summer     ,Sunflower,8.833333333
+Karnataka,RAMANAGARA,Whole Year ,Turmeric,86.33098219
+Karnataka,SHIMOGA,Kharif     ,Urad,12.56427351
+Karnataka,SHIMOGA,Rabi       ,Wheat,7
+Karnataka,SHIMOGA,Summer     ,Sunflower,14
+Karnataka,SHIMOGA,Whole Year ,Turmeric,111.1500022
+Karnataka,TUMKUR,Kharif     ,Urad,12.00892857
+Karnataka,TUMKUR,Rabi       ,Wheat,14.81268601
+Karnataka,TUMKUR,Summer     ,Sunflower,15.58290909
+Karnataka,TUMKUR,Whole Year ,Turmeric,91.85302639
+Karnataka,UDUPI,Kharif     ,Urad,11.77204002
+Karnataka,UDUPI,Rabi       ,Urad,10.41666667
+Karnataka,UDUPI,Summer     ,Rice,3.091609123
+Karnataka,UDUPI,Whole Year ,Turmeric,87.05950244
+Karnataka,UTTAR KANNAD,Kharif     ,Sunflower,11.30186276
+Karnataka,UTTAR KANNAD,Rabi       ,Urad,7.377543745
+Karnataka,UTTAR KANNAD,Summer     ,Sunflower,22.86412214
+Karnataka,UTTAR KANNAD,Whole Year ,Turmeric,82.11556024
+Karnataka,YADGIR,Kharif     ,Urad,5.65447389
+Karnataka,YADGIR,Rabi       ,Wheat,7.001259695
+Karnataka,YADGIR,Summer     ,Sunflower,7.081428571
+Karnataka,YADGIR,Whole Year ,Sweet potato,90.44098745
+Kerala,ALAPPUZHA,Autumn     ,Rice,2.441274938
+Kerala,ALAPPUZHA,Kharif     ,Small millets,1
+Kerala,ALAPPUZHA,Summer     ,Rice,2.727866862
+Kerala,ALAPPUZHA,Whole Year ,other oilseeds,5621.449703
+Kerala,ALAPPUZHA,Winter     ,Sesamum,2.722792766
+Kerala,ERNAKULAM,Autumn     ,Rice,1.931864623
+Kerala,ERNAKULAM,Kharif     ,Sesamum,0.875
+Kerala,ERNAKULAM,Summer     ,Rice,1.856103192
+Kerala,ERNAKULAM,Whole Year ,other oilseeds,5162.108448
+Kerala,ERNAKULAM,Winter     ,Sesamum,2.018080325
+Kerala,IDUKKI,Autumn     ,Rice,2.47440401
+Kerala,IDUKKI,Kharif     ,Small millets,0.96209299
+Kerala,IDUKKI,Summer     ,Rice,2.42360084
+Kerala,IDUKKI,Whole Year ,other oilseeds,4094.20015
+Kerala,IDUKKI,Winter     ,Rice,2.525316685
+Kerala,KANNUR,Autumn     ,Rice,1.917020448
+Kerala,KANNUR,Kharif     ,Sesamum,1
+Kerala,KANNUR,Summer     ,Rice,1.554188023
+Kerala,KANNUR,Whole Year ,other oilseeds,6103.376569
+Kerala,KANNUR,Winter     ,Rice,1.935839152
+Kerala,KASARAGOD,Autumn     ,Rice,2.315020125
+Kerala,KASARAGOD,Kharif     ,Small millets,1
+Kerala,KASARAGOD,Summer     ,Rice,2.002321076
+Kerala,KASARAGOD,Whole Year ,other oilseeds,7464.902607
+Kerala,KASARAGOD,Winter     ,Rice,1.994114063
+Kerala,KOLLAM,Autumn     ,Rice,2.27699902
+Kerala,KOLLAM,Kharif     ,Small millets,1
+Kerala,KOLLAM,Summer     ,Rice,1.523837201
+Kerala,KOLLAM,Whole Year ,other oilseeds,6233.067908
+Kerala,KOLLAM,Winter     ,Sesamum,2.163940131
+Kerala,KOTTAYAM,Autumn     ,Rice,2.636902371
+Kerala,KOTTAYAM,Kharif     ,Small millets,1
+Kerala,KOTTAYAM,Summer     ,Rice,2.704969763
+Kerala,KOTTAYAM,Whole Year ,other oilseeds,4770.394603
+Kerala,KOTTAYAM,Winter     ,Rice,2.536081005
+Kerala,KOZHIKODE,Autumn     ,Rice,1.28745838
+Kerala,KOZHIKODE,Kharif     ,Sesamum,0.25
+Kerala,KOZHIKODE,Summer     ,Rice,1.932195075
+Kerala,KOZHIKODE,Whole Year ,other oilseeds,6720.866616
+Kerala,KOZHIKODE,Winter     ,Sesamum,1.26589675
+Kerala,MALAPPURAM,Autumn     ,Rice,2.052527219
+Kerala,MALAPPURAM,Kharif     ,Sesamum,1
+Kerala,MALAPPURAM,Summer     ,Rice,3.241778991
+Kerala,MALAPPURAM,Whole Year ,other oilseeds,7533.624992
+Kerala,MALAPPURAM,Winter     ,Sesamum,1.963882862
+Kerala,PALAKKAD,Autumn     ,Rice,2.325009501
+Kerala,PALAKKAD,Kharif     ,Small millets,1.482640644
+Kerala,PALAKKAD,Summer     ,Rice,2.67153514
+Kerala,PALAKKAD,Whole Year ,other oilseeds,6262.552691
+Kerala,PALAKKAD,Winter     ,Sesamum,2.448588088
+Kerala,PATHANAMTHITTA,Autumn     ,Rice,2.156340315
+Kerala,PATHANAMTHITTA,Kharif     ,Sesamum,0.385
+Kerala,PATHANAMTHITTA,Summer     ,Rice,2.920786928
+Kerala,PATHANAMTHITTA,Whole Year ,other oilseeds,5802.959783
+Kerala,PATHANAMTHITTA,Winter     ,Rice,2.389224686
+Kerala,THIRUVANANTHAPURAM,Autumn     ,Rice,2.414446237
+Kerala,THIRUVANANTHAPURAM,Kharif     ,Small millets,1
+Kerala,THIRUVANANTHAPURAM,Summer     ,Rice,1.828567261
+Kerala,THIRUVANANTHAPURAM,Whole Year ,other oilseeds,7062.520259
+Kerala,THIRUVANANTHAPURAM,Winter     ,Rice,2.298250489
+Kerala,THRISSUR,Autumn     ,Rice,2.00663573
+Kerala,THRISSUR,Kharif     ,Small millets,0.833333333
+Kerala,THRISSUR,Summer     ,Rice,3.101342592
+Kerala,THRISSUR,Whole Year ,other oilseeds,6547.164909
+Kerala,THRISSUR,Winter     ,Sesamum,2.341885148
+Kerala,WAYANAD,Kharif     ,Small millets,1
+Kerala,WAYANAD,Summer     ,Rice,2.669119425
+Kerala,WAYANAD,Whole Year ,other oilseeds,3837.269042
+Kerala,WAYANAD,Winter     ,Sesamum,2.490031857
+Madhya Pradesh,AGAR MALWA,Kharif     ,Urad,2.380952381
+Madhya Pradesh,AGAR MALWA,Rabi       ,Wheat,2.262996488
+Madhya Pradesh,AGAR MALWA,Whole Year ,Sweet potato,37.85714286
+Madhya Pradesh,ALIRAJPUR,Kharif     ,Urad,1.475099614
+Madhya Pradesh,ALIRAJPUR,Rabi       ,Wheat,2.232046055
+Madhya Pradesh,ALIRAJPUR,Whole Year ,Wheat,36.66666667
+Madhya Pradesh,ANUPPUR,Kharif     ,other misc. pulses,2.333333333
+Madhya Pradesh,ANUPPUR,Rabi       ,Wheat,0.893993706
+Madhya Pradesh,ANUPPUR,Whole Year ,Wheat,24.23462302
+Madhya Pradesh,ASHOKNAGAR,Kharif     ,Urad,2.663257854
+Madhya Pradesh,ASHOKNAGAR,Rabi       ,Wheat,2.037906241
+Madhya Pradesh,ASHOKNAGAR,Whole Year ,Wheat,40.63636364
+Madhya Pradesh,BALAGHAT,Kharif     ,Urad,2.415928575
+Madhya Pradesh,BALAGHAT,Rabi       ,Wheat,1.777777778
+Madhya Pradesh,BALAGHAT,Whole Year ,Wheat,41.89595827
+Madhya Pradesh,BARWANI,Kharif     ,other misc. pulses,1.728555305
+Madhya Pradesh,BARWANI,Rabi       ,Wheat,2.171011348
+Madhya Pradesh,BARWANI,Whole Year ,Wheat,35.7022313
+Madhya Pradesh,BETUL,Kharif     ,other misc. pulses,2.128205128
+Madhya Pradesh,BETUL,Rabi       ,Wheat,1.513935066
+Madhya Pradesh,BETUL,Whole Year ,Wheat,42.60738732
+Madhya Pradesh,BHIND,Kharif     ,other misc. pulses,3
+Madhya Pradesh,BHIND,Rabi       ,Wheat,2.217474079
+Madhya Pradesh,BHIND,Whole Year ,Wheat,27
+Madhya Pradesh,BHOPAL,Kharif     ,Urad,1.886363636
+Madhya Pradesh,BHOPAL,Rabi       ,other misc. pulses,2.004376255
+Madhya Pradesh,BHOPAL,Whole Year ,Wheat,22.49271774
+Madhya Pradesh,BURHANPUR,Kharif     ,other misc. pulses,2.491871581
+Madhya Pradesh,BURHANPUR,Rabi       ,Wheat,2.186528835
+Madhya Pradesh,BURHANPUR,Whole Year ,Wheat,55.96045734
+Madhya Pradesh,CHHATARPUR,Kharif     ,Urad,1.5
+Madhya Pradesh,CHHATARPUR,Rabi       ,Wheat,1.726747116
+Madhya Pradesh,CHHATARPUR,Whole Year ,Wheat,21.01929827
+Madhya Pradesh,CHHINDWARA,Kharif     ,Urad,3.219219219
+Madhya Pradesh,CHHINDWARA,Rabi       ,Wheat,2.10817989
+Madhya Pradesh,CHHINDWARA,Whole Year ,Wheat,60.40555556
+Madhya Pradesh,DAMOH,Kharif     ,Urad,2.247619048
+Madhya Pradesh,DAMOH,Rabi       ,other misc. pulses,1.566771143
+Madhya Pradesh,DAMOH,Whole Year ,Wheat,27.03159897
+Madhya Pradesh,DATIA,Kharif     ,Urad,3.048420984
+Madhya Pradesh,DATIA,Rabi       ,other misc. pulses,2.243331058
+Madhya Pradesh,DATIA,Whole Year ,Wheat,32.50689476
+Madhya Pradesh,DEWAS,Kharif     ,Urad,2.641025641
+Madhya Pradesh,DEWAS,Rabi       ,Wheat,2.236245164
+Madhya Pradesh,DEWAS,Whole Year ,Wheat,24.66666667
+Madhya Pradesh,DHAR,Kharif     ,Urad,1.968253968
+Madhya Pradesh,DHAR,Rabi       ,Wheat,2.097577188
+Madhya Pradesh,DHAR,Whole Year ,Wheat,40.13945799
+Madhya Pradesh,DINDORI,Kharif     ,Urad,1.481321292
+Madhya Pradesh,DINDORI,Rabi       ,Wheat,1
+Madhya Pradesh,DINDORI,Whole Year ,Wheat,17.23776224
+Madhya Pradesh,GUNA,Kharif     ,Urad,2.694230769
+Madhya Pradesh,GUNA,Rabi       ,Wheat,1.839904782
+Madhya Pradesh,GUNA,Whole Year ,Wheat,53.8125
+Madhya Pradesh,GWALIOR,Kharif     ,Urad,3
+Madhya Pradesh,GWALIOR,Rabi       ,Wheat,2.801395086
+Madhya Pradesh,GWALIOR,Whole Year ,Wheat,35.63112214
+Madhya Pradesh,HARDA,Kharif     ,Urad,2.423605673
+Madhya Pradesh,HARDA,Rabi       ,other misc. pulses,2.685002427
+Madhya Pradesh,HARDA,Whole Year ,Wheat,40.125
+Madhya Pradesh,HOSHANGABAD,Kharif     ,Urad,3
+Madhya Pradesh,HOSHANGABAD,Rabi       ,other misc. pulses,2.79756652
+Madhya Pradesh,HOSHANGABAD,Whole Year ,Wheat,43.20126706
+Madhya Pradesh,INDORE,Kharif     ,Urad,1.630747614
+Madhya Pradesh,INDORE,Rabi       ,Wheat,2.522176793
+Madhya Pradesh,INDORE,Whole Year ,Wheat,46.5
+Madhya Pradesh,JABALPUR,Kharif     ,Urad,2.789473684
+Madhya Pradesh,JABALPUR,Rabi       ,Wheat,2
+Madhya Pradesh,JABALPUR,Whole Year ,Wheat,49.5
+Madhya Pradesh,JHABUA,Kharif     ,other misc. pulses,1.977777778
+Madhya Pradesh,JHABUA,Rabi       ,other misc. pulses,1.87247898
+Madhya Pradesh,JHABUA,Whole Year ,Wheat,39.27777778
+Madhya Pradesh,KATNI,Kharif     ,Urad,1.856089752
+Madhya Pradesh,KATNI,Rabi       ,Wheat,1.310857098
+Madhya Pradesh,KATNI,Whole Year ,Wheat,138.4210526
+Madhya Pradesh,KHANDWA,Kharif     ,other misc. pulses,2.356164384
+Madhya Pradesh,KHANDWA,Rabi       ,Wheat,1.86745706
+Madhya Pradesh,KHANDWA,Whole Year ,Wheat,41.16278767
+Madhya Pradesh,KHARGONE,Kharif     ,other misc. pulses,2.026200873
+Madhya Pradesh,KHARGONE,Rabi       ,Wheat,2.435150103
+Madhya Pradesh,KHARGONE,Whole Year ,Wheat,32.6685554
+Madhya Pradesh,MANDLA,Kharif     ,Urad,1.596363636
+Madhya Pradesh,MANDLA,Rabi       ,Wheat,1.166666667
+Madhya Pradesh,MANDLA,Whole Year ,Wheat,23.13982947
+Madhya Pradesh,MANDSAUR,Kharif     ,other misc. pulses,4.001643768
+Madhya Pradesh,MANDSAUR,Rabi       ,Wheat,2.737989763
+Madhya Pradesh,MANDSAUR,Whole Year ,Wheat,38.59848485
+Madhya Pradesh,MORENA,Kharif     ,Urad,2.32761101
+Madhya Pradesh,MORENA,Rabi       ,Wheat,2.911244542
+Madhya Pradesh,MORENA,Whole Year ,Wheat,40.03270668
+Madhya Pradesh,NARSINGHPUR,Kharif     ,Urad,3
+Madhya Pradesh,NARSINGHPUR,Rabi       ,Wheat,2.732961415
+Madhya Pradesh,NARSINGHPUR,Whole Year ,Wheat,44.93614134
+Madhya Pradesh,NEEMUCH,Kharif     ,other misc. pulses,3.359507196
+Madhya Pradesh,NEEMUCH,Rabi       ,Wheat,2.751615988
+Madhya Pradesh,NEEMUCH,Whole Year ,Wheat,36.16920123
+Madhya Pradesh,PANNA,Kharif     ,Urad,1.475035318
+Madhya Pradesh,PANNA,Rabi       ,Wheat,2
+Madhya Pradesh,PANNA,Whole Year ,Wheat,20.44318182
+Madhya Pradesh,RAISEN,Kharif     ,Urad,3.55
+Madhya Pradesh,RAISEN,Rabi       ,Wheat,2.239201664
+Madhya Pradesh,RAISEN,Whole Year ,Wheat,31
+Madhya Pradesh,RAJGARH,Kharif     ,other misc. pulses,2.294117647
+Madhya Pradesh,RAJGARH,Rabi       ,Wheat,1.704556833
+Madhya Pradesh,RAJGARH,Whole Year ,Wheat,26.90936093
+Madhya Pradesh,RATLAM,Kharif     ,other misc. pulses,4.625636856
+Madhya Pradesh,RATLAM,Rabi       ,Wheat,2.814364379
+Madhya Pradesh,RATLAM,Whole Year ,Wheat,57.27089783
+Madhya Pradesh,REWA,Kharif     ,Urad,1.96875
+Madhya Pradesh,REWA,Rabi       ,Wheat,1.268036466
+Madhya Pradesh,REWA,Whole Year ,Wheat,27.34662395
+Madhya Pradesh,SAGAR,Kharif     ,other misc. pulses,1.878378378
+Madhya Pradesh,SAGAR,Rabi       ,Wheat,2
+Madhya Pradesh,SAGAR,Whole Year ,Wheat,28.70833333
+Madhya Pradesh,SATNA,Kharif     ,Urad,1.686868687
+Madhya Pradesh,SATNA,Rabi       ,Wheat,1.414490431
+Madhya Pradesh,SATNA,Whole Year ,Wheat,24.18197717
+Madhya Pradesh,SEHORE,Kharif     ,Urad,2.772727273
+Madhya Pradesh,SEHORE,Rabi       ,Wheat,1.95443541
+Madhya Pradesh,SEHORE,Whole Year ,Wheat,46.95713763
+Madhya Pradesh,SEONI,Kharif     ,other misc. pulses,2.356112637
+Madhya Pradesh,SEONI,Rabi       ,Wheat,1.285714286
+Madhya Pradesh,SEONI,Whole Year ,Wheat,49.5
+Madhya Pradesh,SHAHDOL,Kharif     ,Urad,2.352941176
+Madhya Pradesh,SHAHDOL,Rabi       ,Wheat,2
+Madhya Pradesh,SHAHDOL,Whole Year ,Wheat,25.91488593
+Madhya Pradesh,SHAJAPUR,Kharif     ,Urad,1.946688149
+Madhya Pradesh,SHAJAPUR,Rabi       ,Wheat,2.080900466
+Madhya Pradesh,SHAJAPUR,Whole Year ,Wheat,51.50595238
+Madhya Pradesh,SHEOPUR,Kharif     ,other misc. pulses,2.471213826
+Madhya Pradesh,SHEOPUR,Rabi       ,Wheat,2.83031265
+Madhya Pradesh,SHEOPUR,Whole Year ,Wheat,47.62123882
+Madhya Pradesh,SHIVPURI,Kharif     ,other misc. pulses,1.788732394
+Madhya Pradesh,SHIVPURI,Rabi       ,Wheat,1.998999223
+Madhya Pradesh,SHIVPURI,Whole Year ,Wheat,21.85517366
+Madhya Pradesh,SIDHI,Kharif     ,Urad,2.154425612
+Madhya Pradesh,SIDHI,Rabi       ,Wheat,1.043586551
+Madhya Pradesh,SIDHI,Whole Year ,Wheat,25.47472512
+Madhya Pradesh,SINGRAULI,Kharif     ,Urad,1.871651931
+Madhya Pradesh,SINGRAULI,Rabi       ,Wheat,1.507792247
+Madhya Pradesh,SINGRAULI,Whole Year ,Wheat,43.60686152
+Madhya Pradesh,TIKAMGARH,Kharif     ,Urad,1.867308288
+Madhya Pradesh,TIKAMGARH,Rabi       ,Wheat,1.85434416
+Madhya Pradesh,TIKAMGARH,Whole Year ,Wheat,42.36442619
+Madhya Pradesh,UJJAIN,Kharif     ,Urad,1.833333333
+Madhya Pradesh,UJJAIN,Rabi       ,Wheat,2.188956056
+Madhya Pradesh,UJJAIN,Whole Year ,Wheat,32.33333333
+Madhya Pradesh,UMARIA,Kharif     ,Urad,1.375
+Madhya Pradesh,UMARIA,Rabi       ,Wheat,1.021929392
+Madhya Pradesh,UMARIA,Whole Year ,Wheat,22
+Madhya Pradesh,VIDISHA,Kharif     ,Urad,3.528285714
+Madhya Pradesh,VIDISHA,Rabi       ,Wheat,1.832086524
+Madhya Pradesh,VIDISHA,Whole Year ,Wheat,60.71666667
+Maharashtra,AHMEDNAGAR,Autumn     ,Maize,1113
+Maharashtra,AHMEDNAGAR,Kharif     ,other oilseeds,68.88979993
+Maharashtra,AHMEDNAGAR,Rabi       ,Wheat,1.783759459
+Maharashtra,AHMEDNAGAR,Summer     ,Sunflower,1.592894443
+Maharashtra,AHMEDNAGAR,Whole Year ,Tomato,111.7
+Maharashtra,AKOLA,Kharif     ,Urad,68.55333333
+Maharashtra,AKOLA,Rabi       ,Wheat,1.67504038
+Maharashtra,AKOLA,Summer     ,Sunflower,1.353831152
+Maharashtra,AKOLA,Whole Year ,Tomato,64.04444444
+Maharashtra,AMRAVATI,Kharif     ,other oilseeds,69.09681818
+Maharashtra,AMRAVATI,Rabi       ,Wheat,1.453468677
+Maharashtra,AMRAVATI,Summer     ,Sunflower,1.484232416
+Maharashtra,AMRAVATI,Whole Year ,Tomato,69.975
+Maharashtra,AURANGABAD,Kharif     ,other oilseeds,65.24944497
+Maharashtra,AURANGABAD,Rabi       ,Wheat,2.210095191
+Maharashtra,AURANGABAD,Summer     ,Sunflower,1.379441474
+Maharashtra,AURANGABAD,Whole Year ,Tomato,67.51119947
+Maharashtra,BEED,Kharif     ,other oilseeds,86.66004374
+Maharashtra,BEED,Rabi       ,Wheat,1.308112397
+Maharashtra,BEED,Summer     ,Sunflower,1.198165723
+Maharashtra,BEED,Whole Year ,Tomato,65.65
+Maharashtra,BHANDARA,Kharif     ,Urad,53.72122078
+Maharashtra,BHANDARA,Rabi       ,Wheat,0.936842105
+Maharashtra,BHANDARA,Summer     ,Sunflower,2.105808212
+Maharashtra,BHANDARA,Whole Year ,Tomato,60.02904272
+Maharashtra,BULDHANA,Kharif     ,other oilseeds,61.29534632
+Maharashtra,BULDHANA,Rabi       ,Wheat,1.607659992
+Maharashtra,BULDHANA,Summer     ,Sunflower,1.289067142
+Maharashtra,BULDHANA,Whole Year ,Tomato,69.84657426
+Maharashtra,CHANDRAPUR,Kharif     ,other oilseeds,1.381818182
+Maharashtra,CHANDRAPUR,Rabi       ,Wheat,1.5
+Maharashtra,CHANDRAPUR,Summer     ,Sunflower,1.578423782
+Maharashtra,CHANDRAPUR,Whole Year ,Tomato,90
+Maharashtra,DHULE,Autumn     ,Maize,725.25
+Maharashtra,DHULE,Kharif     ,other oilseeds,58.47587098
+Maharashtra,DHULE,Rabi       ,Wheat,2.428386484
+Maharashtra,DHULE,Summer     ,Sunflower,1.333940837
+Maharashtra,DHULE,Whole Year ,Tomato,97.4
+Maharashtra,GADCHIROLI,Kharif     ,Urad,1.87712983
+Maharashtra,GADCHIROLI,Rabi       ,Wheat,1.70734127
+Maharashtra,GADCHIROLI,Summer     ,Rice,1.670058546
+Maharashtra,GADCHIROLI,Whole Year ,Tomato,99
+Maharashtra,GONDIA,Kharif     ,other oilseeds,51.20833333
+Maharashtra,GONDIA,Rabi       ,Wheat,1.305555556
+Maharashtra,GONDIA,Summer     ,Rice,2.175280928
+Maharashtra,GONDIA,Whole Year ,Sugarcane,61.94588745
+Maharashtra,HINGOLI,Kharif     ,other oilseeds,58.54386237
+Maharashtra,HINGOLI,Rabi       ,Wheat,1.563461538
+Maharashtra,HINGOLI,Summer     ,Sunflower,1.155505952
+Maharashtra,HINGOLI,Whole Year ,Tomato,65.8730822
+Maharashtra,JALGAON,Autumn     ,Maize,1326.666667
+Maharashtra,JALGAON,Kharif     ,other oilseeds,62.53412941
+Maharashtra,JALGAON,Rabi       ,Wheat,2.257024674
+Maharashtra,JALGAON,Summer     ,Sunflower,1.575169758
+Maharashtra,JALGAON,Whole Year ,Tomato,69.74470597
+Maharashtra,JALNA,Kharif     ,other oilseeds,75.34206016
+Maharashtra,JALNA,Rabi       ,Wheat,1.990687376
+Maharashtra,JALNA,Summer     ,Sunflower,1.054800725
+Maharashtra,JALNA,Whole Year ,Tomato,67.37503737
+Maharashtra,KOLHAPUR,Kharif     ,Urad,86.29060456
+Maharashtra,KOLHAPUR,Rabi       ,Wheat,2.260413786
+Maharashtra,KOLHAPUR,Summer     ,Sunflower,2.862528345
+Maharashtra,KOLHAPUR,Whole Year ,Tomato,88.66886342
+Maharashtra,LATUR,Kharif     ,other oilseeds,68.55166934
+Maharashtra,LATUR,Rabi       ,Wheat,1.6941385
+Maharashtra,LATUR,Summer     ,Sunflower,1.186666667
+Maharashtra,LATUR,Whole Year ,Tomato,64.3
+Maharashtra,MUMBAI,Autumn     ,Maize,0.666666667
+Maharashtra,NAGPUR,Kharif     ,other oilseeds,60.66666667
+Maharashtra,NAGPUR,Rabi       ,Wheat,1.153431239
+Maharashtra,NAGPUR,Summer     ,Sunflower,1.803009259
+Maharashtra,NAGPUR,Whole Year ,Tomato,67.2497001
+Maharashtra,NANDED,Kharif     ,other oilseeds,62.1099145
+Maharashtra,NANDED,Rabi       ,Wheat,1.649886621
+Maharashtra,NANDED,Summer     ,Sunflower,1.096064561
+Maharashtra,NANDED,Whole Year ,Tomato,68.4045486
+Maharashtra,NANDURBAR,Kharif     ,other oilseeds,69.83010929
+Maharashtra,NANDURBAR,Rabi       ,Wheat,2.400544598
+Maharashtra,NANDURBAR,Summer     ,Sunflower,1.611111111
+Maharashtra,NANDURBAR,Whole Year ,Tomato,71.244994
+Maharashtra,NASHIK,Autumn     ,Maize,1494
+Maharashtra,NASHIK,Kharif     ,other oilseeds,60.38997503
+Maharashtra,NASHIK,Rabi       ,Wheat,2.18254478
+Maharashtra,NASHIK,Summer     ,Sunflower,1.375135307
+Maharashtra,NASHIK,Whole Year ,Tomato,75.92402142
+Maharashtra,OSMANABAD,Autumn     ,Maize,1127
+Maharashtra,OSMANABAD,Kharif     ,other oilseeds,73.97636089
+Maharashtra,OSMANABAD,Rabi       ,Wheat,1.706953176
+Maharashtra,OSMANABAD,Summer     ,Sunflower,1.05601044
+Maharashtra,OSMANABAD,Whole Year ,Tomato,75.1
+Maharashtra,PALGHAR,Kharif     ,Rice,2.517379679
+Maharashtra,PALGHAR,Rabi       ,Sunflower,0.75
+Maharashtra,PALGHAR,Summer     ,Groundnut,1
+Maharashtra,PARBHANI,Kharif     ,other oilseeds,77.76106461
+Maharashtra,PARBHANI,Rabi       ,Wheat,1.653819444
+Maharashtra,PARBHANI,Summer     ,Sunflower,1.166666667
+Maharashtra,PARBHANI,Whole Year ,Tomato,70.20543262
+Maharashtra,PUNE,Autumn     ,Maize,1142.5
+Maharashtra,PUNE,Kharif     ,other oilseeds,79.17332019
+Maharashtra,PUNE,Rabi       ,Wheat,3
+Maharashtra,PUNE,Summer     ,Sunflower,1.846845174
+Maharashtra,PUNE,Whole Year ,Tomato,151
+Maharashtra,RAIGAD,Kharif     ,Urad,2.487303447
+Maharashtra,RAIGAD,Rabi       ,Small millets,2.625
+Maharashtra,RAIGAD,Summer     ,Rice,2.668907107
+Maharashtra,RAIGAD,Whole Year ,Tomato,17.3
+Maharashtra,RATNAGIRI,Kharif     ,Urad,2.626023862
+Maharashtra,RATNAGIRI,Rabi       ,Small millets,2.333333333
+Maharashtra,RATNAGIRI,Summer     ,Rice,2.876388889
+Maharashtra,RATNAGIRI,Whole Year ,Mango,23.3
+Maharashtra,SANGLI,Kharif     ,other oilseeds,92.33279744
+Maharashtra,SANGLI,Rabi       ,Wheat,2.206211684
+Maharashtra,SANGLI,Summer     ,Sunflower,1.702396215
+Maharashtra,SANGLI,Whole Year ,Tomato,117.2644231
+Maharashtra,SATARA,Kharif     ,Urad,90.94095189
+Maharashtra,SATARA,Rabi       ,Wheat,2.310823371
+Maharashtra,SATARA,Summer     ,Sunflower,2.31582351
+Maharashtra,SATARA,Whole Year ,Tomato,118.2777778
+Maharashtra,SINDHUDURG,Kharif     ,Urad,2.750496784
+Maharashtra,SINDHUDURG,Rabi       ,Small millets,1.923076923
+Maharashtra,SINDHUDURG,Summer     ,Rice,2.122284316
+Maharashtra,SINDHUDURG,Whole Year ,Sugarcane,87.90909091
+Maharashtra,SOLAPUR,Kharif     ,other oilseeds,74.45860014
+Maharashtra,SOLAPUR,Rabi       ,Wheat,2.238095238
+Maharashtra,SOLAPUR,Summer     ,Sunflower,1.650934298
+Maharashtra,SOLAPUR,Whole Year ,Tomato,83.90454545
+Maharashtra,THANE,Kharif     ,Urad,2.151640544
+Maharashtra,THANE,Rabi       ,Wheat,2.3
+Maharashtra,THANE,Summer     ,Rice,2.502192344
+Maharashtra,THANE,Whole Year ,Tomato,23.34
+Maharashtra,WARDHA,Kharif     ,other oilseeds,65.27842314
+Maharashtra,WARDHA,Rabi       ,Wheat,1.333333333
+Maharashtra,WARDHA,Summer     ,Maize,1.488794645
+Maharashtra,WARDHA,Whole Year ,Tomato,62.34470024
+Maharashtra,WASHIM,Kharif     ,other oilseeds,67.66666667
+Maharashtra,WASHIM,Rabi       ,Wheat,1.383356274
+Maharashtra,WASHIM,Summer     ,Sunflower,1.333333333
+Maharashtra,WASHIM,Whole Year ,Tomato,137.4
+Maharashtra,YAVATMAL,Kharif     ,other oilseeds,70.05566279
+Maharashtra,YAVATMAL,Rabi       ,Wheat,1.144122672
+Maharashtra,YAVATMAL,Summer     ,Sunflower,1.25
+Maharashtra,YAVATMAL,Whole Year ,Tomato,72.59949353
+Manipur,BISHNUPUR,Autumn     ,Turmeric,32.6875
+Manipur,BISHNUPUR,Kharif     ,Soyabean,2.816320572
+Manipur,BISHNUPUR,Rabi       ,Sugarcane,33
+Manipur,BISHNUPUR,Summer     ,Turmeric,32.64285714
+Manipur,BISHNUPUR,Whole Year ,Turmeric,28.01045918
+Manipur,BISHNUPUR,Winter     ,Sugarcane,32.6875
+Manipur,CHANDEL,Autumn     ,Soyabean,12.88571429
+Manipur,CHANDEL,Kharif     ,Soyabean,2.82451143
+Manipur,CHANDEL,Rabi       ,Rapeseed &Mustard,12.84
+Manipur,CHANDEL,Summer     ,Dry ginger,12.87179487
+Manipur,CHANDEL,Whole Year ,Turmeric,32.66222222
+Manipur,CHANDEL,Winter     ,Rice,12.86666667
+Manipur,CHURACHANDPUR,Autumn     ,Turmeric,32.63636364
+Manipur,CHURACHANDPUR,Kharif     ,Sesamum,1.911983969
+Manipur,CHURACHANDPUR,Rabi       ,Rapeseed &Mustard,12.875
+Manipur,CHURACHANDPUR,Summer     ,Dry ginger,13
+Manipur,CHURACHANDPUR,Whole Year ,Turmeric,32.64362745
+Manipur,CHURACHANDPUR,Winter     ,Turmeric,33
+Manipur,IMPHAL EAST,Autumn     ,Turmeric,12
+Manipur,IMPHAL EAST,Kharif     ,Soyabean,2.642085799
+Manipur,IMPHAL EAST,Rabi       ,Potato,5.222222222
+Manipur,IMPHAL EAST,Summer     ,Peas & beans (Pulses),13
+Manipur,IMPHAL EAST,Whole Year ,Turmeric,32.66666667
+Manipur,IMPHAL EAST,Winter     ,Rice,13
+Manipur,IMPHAL WEST,Autumn     ,Soyabean,5
+Manipur,IMPHAL WEST,Kharif     ,Soyabean,3.081688472
+Manipur,IMPHAL WEST,Rabi       ,Rapeseed &Mustard,2
+Manipur,IMPHAL WEST,Summer     ,Peas & beans (Pulses),13
+Manipur,IMPHAL WEST,Whole Year ,Turmeric,32.62362637
+Manipur,IMPHAL WEST,Winter     ,Rice,5.25
+Manipur,SENAPATI,Autumn     ,Turmeric,12.86666667
+Manipur,SENAPATI,Kharif     ,Soyabean,3.331199813
+Manipur,SENAPATI,Rabi       ,Sweet potato,12.85714286
+Manipur,SENAPATI,Summer     ,Potato,12.84615385
+Manipur,SENAPATI,Whole Year ,Turmeric,12.4797934
+Manipur,SENAPATI,Winter     ,Sweet potato,12.85294118
+Manipur,TAMENGLONG,Autumn     ,Sugarcane,32.63636364
+Manipur,TAMENGLONG,Kharif     ,Soyabean,3
+Manipur,TAMENGLONG,Rabi       ,Peas & beans (Pulses),13
+Manipur,TAMENGLONG,Summer     ,Banana,12.84615385
+Manipur,TAMENGLONG,Whole Year ,Tomato,32.83333333
+Manipur,TAMENGLONG,Winter     ,Sesamum,12.8
+Manipur,THOUBAL,Autumn     ,Turmeric,5.210526316
+Manipur,THOUBAL,Kharif     ,Soyabean,2.42210909
+Manipur,THOUBAL,Rabi       ,Rapeseed &Mustard,5.230769231
+Manipur,THOUBAL,Summer     ,Sugarcane,33
+Manipur,THOUBAL,Whole Year ,Turmeric,32.72222222
+Manipur,THOUBAL,Winter     ,Rice,5.260869565
+Manipur,UKHRUL,Autumn     ,Turmeric,12.84615385
+Manipur,UKHRUL,Kharif     ,Soyabean,2.314246927
+Manipur,UKHRUL,Rabi       ,Potato,12.88888889
+Manipur,UKHRUL,Summer     ,Dry ginger,12.83783784
+Manipur,UKHRUL,Whole Year ,Turmeric,12.10344828
+Manipur,UKHRUL,Winter     ,Turmeric,12.88888889
+Meghalaya,EAST GARO HILLS,Autumn     ,Rice,1.659742838
+Meghalaya,EAST GARO HILLS,Kharif     ,Tapioca,14.81346489
+Meghalaya,EAST GARO HILLS,Rabi       ,Wheat,8.152073733
+Meghalaya,EAST GARO HILLS,Summer     ,Rice,7
+Meghalaya,EAST GARO HILLS,Whole Year ,Turmeric,16.95031044
+Meghalaya,EAST GARO HILLS,Winter     ,Rice,8.082191781
+Meghalaya,EAST JAINTIA HILLS,Autumn     ,Rice,1.858021033
+Meghalaya,EAST JAINTIA HILLS,Kharif     ,Total foodgrain,10.60620118
+Meghalaya,EAST JAINTIA HILLS,Rabi       ,Turmeric,9.070588235
+Meghalaya,EAST JAINTIA HILLS,Summer     ,Rice,6.466666667
+Meghalaya,EAST JAINTIA HILLS,Whole Year ,Turmeric,13.19792494
+Meghalaya,EAST JAINTIA HILLS,Winter     ,Rice,4
+Meghalaya,EAST KHASI HILLS,Autumn     ,Rice,2.327232187
+Meghalaya,EAST KHASI HILLS,Kharif     ,Total foodgrain,10.60567372
+Meghalaya,EAST KHASI HILLS,Rabi       ,Turmeric,9.916966558
+Meghalaya,EAST KHASI HILLS,Summer     ,Rice,11.70999514
+Meghalaya,EAST KHASI HILLS,Whole Year ,Turmeric,12.53260036
+Meghalaya,EAST KHASI HILLS,Winter     ,Rice,7.264188422
+Meghalaya,NORTH GARO HILLS,Autumn     ,Rice,2.425395554
+Meghalaya,NORTH GARO HILLS,Kharif     ,Tapioca,12.39065207
+Meghalaya,NORTH GARO HILLS,Rabi       ,Wheat,1.489166667
+Meghalaya,NORTH GARO HILLS,Summer     ,Potato,6.333333333
+Meghalaya,NORTH GARO HILLS,Whole Year ,Turmeric,8.206896552
+Meghalaya,NORTH GARO HILLS,Winter     ,Rice,8.269230769
+Meghalaya,RI BHOI,Autumn     ,Rice,2.094128934
+Meghalaya,RI BHOI,Kharif     ,Total foodgrain,17.07318319
+Meghalaya,RI BHOI,Rabi       ,Wheat,8.904761905
+Meghalaya,RI BHOI,Summer     ,Rice,6.909090909
+Meghalaya,RI BHOI,Whole Year ,Turmeric,17.18108627
+Meghalaya,RI BHOI,Winter     ,Rice,3
+Meghalaya,SOUTH GARO HILLS,Autumn     ,Rice,1.391370506
+Meghalaya,SOUTH GARO HILLS,Kharif     ,Tapioca,10.16284091
+Meghalaya,SOUTH GARO HILLS,Rabi       ,Turmeric,7.490196078
+Meghalaya,SOUTH GARO HILLS,Summer     ,Rice,7
+Meghalaya,SOUTH GARO HILLS,Whole Year ,Turmeric,11.70286504
+Meghalaya,SOUTH GARO HILLS,Winter     ,Rice,7.426229508
+Meghalaya,SOUTH WEST GARO HILLS,Autumn     ,Rice,2.278167713
+Meghalaya,SOUTH WEST GARO HILLS,Kharif     ,Tapioca,27.47902821
+Meghalaya,SOUTH WEST GARO HILLS,Rabi       ,Wheat,1.983912121
+Meghalaya,SOUTH WEST GARO HILLS,Summer     ,Potato,8.636363636
+Meghalaya,SOUTH WEST GARO HILLS,Whole Year ,Turmeric,9.102222222
+Meghalaya,SOUTH WEST GARO HILLS,Winter     ,Rice,9.185185185
+Meghalaya,SOUTH WEST KHASI HILLS,Autumn     ,Rice,2.225806452
+Meghalaya,SOUTH WEST KHASI HILLS,Kharif     ,Tapioca,9.361362352
+Meghalaya,SOUTH WEST KHASI HILLS,Rabi       ,Small millets,2.5
+Meghalaya,SOUTH WEST KHASI HILLS,Summer     ,Potato,14.4935806
+Meghalaya,SOUTH WEST KHASI HILLS,Whole Year ,Turmeric,12.7605
+Meghalaya,SOUTH WEST KHASI HILLS,Winter     ,Rice,8.986688852
+Meghalaya,WEST GARO HILLS,Autumn     ,Rice,1.446844031
+Meghalaya,WEST GARO HILLS,Kharif     ,Tapioca,12.47312509
+Meghalaya,WEST GARO HILLS,Rabi       ,Wheat,9.431897555
+Meghalaya,WEST GARO HILLS,Summer     ,Rice,7.352941176
+Meghalaya,WEST GARO HILLS,Whole Year ,Turmeric,12.06100295
+Meghalaya,WEST GARO HILLS,Winter     ,Rice,7.86196319
+Meghalaya,WEST JAINTIA HILLS,Autumn     ,Rice,2.538461538
+Meghalaya,WEST JAINTIA HILLS,Kharif     ,Tapioca,10.83929315
+Meghalaya,WEST JAINTIA HILLS,Rabi       ,Small millets,1.334910697
+Meghalaya,WEST JAINTIA HILLS,Summer     ,Potato,5.504
+Meghalaya,WEST JAINTIA HILLS,Whole Year ,Turmeric,6.278184221
+Meghalaya,WEST JAINTIA HILLS,Winter     ,Rice,3.388888889
+Meghalaya,WEST KHASI HILLS,Autumn     ,Rice,1.700237923
+Meghalaya,WEST KHASI HILLS,Kharif     ,Total foodgrain,6.63293297
+Meghalaya,WEST KHASI HILLS,Rabi       ,Wheat,11.6556701
+Meghalaya,WEST KHASI HILLS,Summer     ,Rice,8.243253662
+Meghalaya,WEST KHASI HILLS,Whole Year ,Turmeric,7.861268908
+Meghalaya,WEST KHASI HILLS,Winter     ,Rice,5.111510791
+Mizoram,AIZAWL,Kharif     ,other oilseeds,11.59842007
+Mizoram,AIZAWL,Rabi       ,other oilseeds,4.375
+Mizoram,AIZAWL,Whole Year ,Tobacco,11.8629085
+Mizoram,CHAMPHAI,Kharif     ,other oilseeds,6.959608103
+Mizoram,CHAMPHAI,Rabi       ,Tobacco,5.296153846
+Mizoram,CHAMPHAI,Whole Year ,Tobacco,11.79965005
+Mizoram,KOLASIB,Kharif     ,other oilseeds,6.993432299
+Mizoram,KOLASIB,Rabi       ,other oilseeds,1.782725198
+Mizoram,KOLASIB,Whole Year ,Tobacco,19.53896449
+Mizoram,LAWNGTLAI,Kharif     ,other oilseeds,5.743902439
+Mizoram,LAWNGTLAI,Rabi       ,Rice,3
+Mizoram,LAWNGTLAI,Whole Year ,Tobacco,5
+Mizoram,LUNGLEI,Kharif     ,other oilseeds,6.515546136
+Mizoram,LUNGLEI,Rabi       ,other oilseeds,2
+Mizoram,LUNGLEI,Whole Year ,Tobacco,7.279354884
+Mizoram,MAMIT,Kharif     ,other oilseeds,4.923506069
+Mizoram,MAMIT,Rabi       ,other oilseeds,2.964709319
+Mizoram,MAMIT,Whole Year ,Tobacco,8.41994172
+Mizoram,SAIHA,Kharif     ,other oilseeds,3.873137803
+Mizoram,SAIHA,Rabi       ,other oilseeds,1.892143402
+Mizoram,SAIHA,Whole Year ,Tobacco,8.101904762
+Mizoram,SERCHHIP,Kharif     ,other oilseeds,5.483333333
+Mizoram,SERCHHIP,Rabi       ,other oilseeds,2.405033748
+Mizoram,SERCHHIP,Whole Year ,Sugarcane,10.33214936
+Nagaland,DIMAPUR,Kharif     ,Urad,43.1998663
+Nagaland,DIMAPUR,Rabi       ,Wheat,10.84612458
+Nagaland,DIMAPUR,Whole Year ,Tea,72.17660632
+Nagaland,KIPHIRE,Kharif     ,Turmeric,41.19675926
+Nagaland,KIPHIRE,Rabi       ,Urad,9.780208333
+Nagaland,KOHIMA,Kharif     ,Urad,43.21273751
+Nagaland,KOHIMA,Rabi       ,Wheat,10.96351771
+Nagaland,KOHIMA,Whole Year ,Tea,35.19411765
+Nagaland,LONGLENG,Kharif     ,Turmeric,41.27777778
+Nagaland,LONGLENG,Rabi       ,Rapeseed &Mustard,9.789473684
+Nagaland,MOKOKCHUNG,Kharif     ,Urad,43.03571251
+Nagaland,MOKOKCHUNG,Rabi       ,Wheat,15.06501247
+Nagaland,MOKOKCHUNG,Whole Year ,Tea,45.2714986
+Nagaland,MON,Kharif     ,Urad,41.21883401
+Nagaland,MON,Rabi       ,Wheat,10.94778906
+Nagaland,MON,Whole Year ,Tea,49.29635799
+Nagaland,PEREN,Kharif     ,Urad,41.14930534
+Nagaland,PEREN,Rabi       ,Wheat,10.29264069
+Nagaland,PHEK,Kharif     ,Urad,43.15571429
+Nagaland,PHEK,Rabi       ,Wheat,10.92790212
+Nagaland,PHEK,Whole Year ,Tea,9.911100236
+Nagaland,TUENSANG,Kharif     ,Urad,41.15124905
+Nagaland,TUENSANG,Rabi       ,Wheat,10.604634
+Nagaland,TUENSANG,Whole Year ,Tea,9.454827212
+Nagaland,WOKHA,Kharif     ,Urad,43.17575758
+Nagaland,WOKHA,Rabi       ,Wheat,10.73517451
+Nagaland,WOKHA,Whole Year ,Tea,34.36133855
+Nagaland,ZUNHEBOTO,Kharif     ,Urad,43.16597403
+Nagaland,ZUNHEBOTO,Rabi       ,Wheat,10.3002588
+Nagaland,ZUNHEBOTO,Whole Year ,Tea,33.98201218
+Odisha,ANUGUL,Autumn     ,Urad,1.082602507
+Odisha,ANUGUL,Kharif     ,Urad,8.131578947
+Odisha,ANUGUL,Rabi       ,Wheat,8.517241379
+Odisha,ANUGUL,Summer     ,Wheat,1.790628116
+Odisha,ANUGUL,Whole Year ,Turmeric,51.80430231
+Odisha,ANUGUL,Winter     ,Urad,55.28028655
+Odisha,BALANGIR,Autumn     ,Urad,1.155555556
+Odisha,BALANGIR,Kharif     ,Urad,9.513333333
+Odisha,BALANGIR,Rabi       ,Wheat,7.54
+Odisha,BALANGIR,Summer     ,Wheat,1.898297319
+Odisha,BALANGIR,Whole Year ,Turmeric,58.85739452
+Odisha,BALANGIR,Winter     ,Urad,69.34204333
+Odisha,BALESHWAR,Autumn     ,Urad,4.313257956
+Odisha,BALESHWAR,Kharif     ,Urad,8.55
+Odisha,BALESHWAR,Rabi       ,Wheat,7.707692308
+Odisha,BALESHWAR,Summer     ,Wheat,2.443989938
+Odisha,BALESHWAR,Whole Year ,Turmeric,44.48430097
+Odisha,BALESHWAR,Winter     ,Urad,45.9086592
+Odisha,BARGARH,Autumn     ,Urad,1.260381097
+Odisha,BARGARH,Kharif     ,Urad,8.860335196
+Odisha,BARGARH,Rabi       ,Wheat,3.178571429
+Odisha,BARGARH,Summer     ,Wheat,3.163334275
+Odisha,BARGARH,Whole Year ,Turmeric,68.31675087
+Odisha,BARGARH,Winter     ,Urad,72.0880241
+Odisha,BHADRAK,Autumn     ,Urad,5.498498233
+Odisha,BHADRAK,Kharif     ,Urad,8.333333333
+Odisha,BHADRAK,Rabi       ,Wheat,10
+Odisha,BHADRAK,Summer     ,Wheat,2.762711736
+Odisha,BHADRAK,Whole Year ,Turmeric,64.16074582
+Odisha,BHADRAK,Winter     ,Urad,62.2073911
+Odisha,BOUDH,Autumn     ,Urad,1.060464263
+Odisha,BOUDH,Kharif     ,Urad,9.291666667
+Odisha,BOUDH,Rabi       ,Wheat,2.714285714
+Odisha,BOUDH,Summer     ,Wheat,1.756307692
+Odisha,BOUDH,Whole Year ,Turmeric,44.8552482
+Odisha,BOUDH,Winter     ,Urad,55.71304469
+Odisha,CUTTACK,Autumn     ,Urad,8.395421663
+Odisha,CUTTACK,Kharif     ,Urad,8.915865283
+Odisha,CUTTACK,Rabi       ,Wheat,6.523076923
+Odisha,CUTTACK,Summer     ,Wheat,2.09069173
+Odisha,CUTTACK,Whole Year ,Turmeric,48.8433586
+Odisha,CUTTACK,Winter     ,Urad,57.39309927
+Odisha,DEOGARH,Autumn     ,Urad,1.167717552
+Odisha,DEOGARH,Kharif     ,Urad,9.943181818
+Odisha,DEOGARH,Rabi       ,Wheat,3.064935065
+Odisha,DEOGARH,Summer     ,Wheat,1.495520824
+Odisha,DEOGARH,Whole Year ,Turmeric,48.09576925
+Odisha,DEOGARH,Winter     ,Urad,51.7648504
+Odisha,DHENKANAL,Autumn     ,Urad,1.063619396
+Odisha,DHENKANAL,Kharif     ,Urad,8.421052632
+Odisha,DHENKANAL,Rabi       ,Wheat,9.404761905
+Odisha,DHENKANAL,Summer     ,Wheat,2.127486691
+Odisha,DHENKANAL,Whole Year ,Turmeric,59.50176671
+Odisha,DHENKANAL,Winter     ,Urad,65.24457854
+Odisha,GAJAPATI,Autumn     ,Urad,1.522480667
+Odisha,GAJAPATI,Kharif     ,Urad,8.50617284
+Odisha,GAJAPATI,Rabi       ,Wheat,2.5
+Odisha,GAJAPATI,Summer     ,Wheat,1.419047619
+Odisha,GAJAPATI,Whole Year ,Turmeric,59.30116891
+Odisha,GAJAPATI,Winter     ,Urad,60.82064344
+Odisha,GANJAM,Autumn     ,Urad,1.519377793
+Odisha,GANJAM,Kharif     ,Urad,7.497175141
+Odisha,GANJAM,Rabi       ,Wheat,5.304347826
+Odisha,GANJAM,Summer     ,Wheat,1.955646923
+Odisha,GANJAM,Whole Year ,Turmeric,70.38616575
+Odisha,GANJAM,Winter     ,Urad,73.20556483
+Odisha,JAGATSINGHAPUR,Autumn     ,Sesamum,7.175628538
+Odisha,JAGATSINGHAPUR,Kharif     ,Urad,8.12195122
+Odisha,JAGATSINGHAPUR,Rabi       ,Wheat,3.447368421
+Odisha,JAGATSINGHAPUR,Summer     ,Wheat,2.215277778
+Odisha,JAGATSINGHAPUR,Whole Year ,Turmeric,62.34145076
+Odisha,JAGATSINGHAPUR,Winter     ,Urad,61.03929793
+Odisha,JAJAPUR,Autumn     ,Urad,5.008084829
+Odisha,JAJAPUR,Kharif     ,Urad,7.730769231
+Odisha,JAJAPUR,Rabi       ,Wheat,5
+Odisha,JAJAPUR,Summer     ,Wheat,2.21672852
+Odisha,JAJAPUR,Whole Year ,Turmeric,36.93351494
+Odisha,JAJAPUR,Winter     ,Urad,47.33625355
+Odisha,JHARSUGUDA,Autumn     ,Urad,1.870926588
+Odisha,JHARSUGUDA,Kharif     ,Urad,9.765957447
+Odisha,JHARSUGUDA,Rabi       ,Wheat,3
+Odisha,JHARSUGUDA,Summer     ,Wheat,1.979466119
+Odisha,JHARSUGUDA,Whole Year ,Turmeric,67.75520769
+Odisha,JHARSUGUDA,Winter     ,Urad,74.37098306
+Odisha,KALAHANDI,Autumn     ,Urad,2
+Odisha,KALAHANDI,Kharif     ,Urad,5.198675497
+Odisha,KALAHANDI,Rabi       ,Wheat,2.62037037
+Odisha,KALAHANDI,Summer     ,Wheat,1.920916896
+Odisha,KALAHANDI,Whole Year ,Turmeric,48.32446117
+Odisha,KALAHANDI,Winter     ,Urad,52.35854056
+Odisha,KANDHAMAL,Autumn     ,Urad,1.045306292
+Odisha,KANDHAMAL,Kharif     ,Urad,7.495049505
+Odisha,KANDHAMAL,Rabi       ,Wheat,2.333333333
+Odisha,KANDHAMAL,Summer     ,Wheat,1.699792961
+Odisha,KANDHAMAL,Whole Year ,Turmeric,43.2
+Odisha,KANDHAMAL,Winter     ,Urad,44.38888889
+Odisha,KENDRAPARA,Autumn     ,Rice,6.478475038
+Odisha,KENDRAPARA,Kharif     ,Urad,8.47865533
+Odisha,KENDRAPARA,Rabi       ,Wheat,9.738095238
+Odisha,KENDRAPARA,Summer     ,Wheat,2.058400497
+Odisha,KENDRAPARA,Whole Year ,Turmeric,45.09855123
+Odisha,KENDRAPARA,Winter     ,Urad,55.05179294
+Odisha,KENDUJHAR,Autumn     ,Urad,6.597494242
+Odisha,KENDUJHAR,Kharif     ,Urad,7.328413339
+Odisha,KENDUJHAR,Rabi       ,Wheat,6.240449438
+Odisha,KENDUJHAR,Summer     ,Wheat,2.213926499
+Odisha,KENDUJHAR,Whole Year ,Turmeric,45.01569735
+Odisha,KENDUJHAR,Winter     ,Urad,55.02013811
+Odisha,KHORDHA,Autumn     ,Urad,1.724991638
+Odisha,KHORDHA,Kharif     ,Urad,8.954545455
+Odisha,KHORDHA,Rabi       ,Wheat,3.090909091
+Odisha,KHORDHA,Summer     ,Wheat,2.663141328
+Odisha,KHORDHA,Whole Year ,Turmeric,45.43400282
+Odisha,KHORDHA,Winter     ,Urad,56.62294404
+Odisha,KORAPUT,Autumn     ,Urad,3.583333333
+Odisha,KORAPUT,Kharif     ,Urad,9.571428571
+Odisha,KORAPUT,Rabi       ,Wheat,3.28358209
+Odisha,KORAPUT,Summer     ,Wheat,1.982334166
+Odisha,KORAPUT,Whole Year ,Turmeric,61.57350407
+Odisha,KORAPUT,Winter     ,Urad,79.26443017
+Odisha,MALKANGIRI,Autumn     ,Sesamum,6.25
+Odisha,MALKANGIRI,Kharif     ,Urad,6.916666667
+Odisha,MALKANGIRI,Rabi       ,Wheat,3.175675676
+Odisha,MALKANGIRI,Summer     ,Wheat,2.07264759
+Odisha,MALKANGIRI,Whole Year ,Turmeric,36
+Odisha,MALKANGIRI,Winter     ,Urad,48.48333333
+Odisha,MAYURBHANJ,Autumn     ,Urad,3.505952381
+Odisha,MAYURBHANJ,Kharif     ,Urad,9.733990148
+Odisha,MAYURBHANJ,Rabi       ,Wheat,7
+Odisha,MAYURBHANJ,Summer     ,Wheat,1.736198246
+Odisha,MAYURBHANJ,Whole Year ,Turmeric,39.45
+Odisha,MAYURBHANJ,Winter     ,Urad,47.63074697
+Odisha,NABARANGPUR,Autumn     ,Urad,2.482292726
+Odisha,NABARANGPUR,Kharif     ,Urad,9.283687943
+Odisha,NABARANGPUR,Rabi       ,Wheat,3.7
+Odisha,NABARANGPUR,Summer     ,Wheat,2.49606537
+Odisha,NABARANGPUR,Whole Year ,Turmeric,43.84393197
+Odisha,NABARANGPUR,Winter     ,Urad,45.41949207
+Odisha,NAYAGARH,Autumn     ,Urad,1.346717468
+Odisha,NAYAGARH,Kharif     ,Urad,8.84375
+Odisha,NAYAGARH,Rabi       ,Wheat,3.097560976
+Odisha,NAYAGARH,Summer     ,Wheat,1.519034932
+Odisha,NAYAGARH,Whole Year ,Turmeric,58.11044497
+Odisha,NAYAGARH,Winter     ,Urad,63.12572642
+Odisha,NUAPADA,Autumn     ,Urad,1.2
+Odisha,NUAPADA,Kharif     ,Urad,6.032258065
+Odisha,NUAPADA,Rabi       ,Wheat,9.791666667
+Odisha,NUAPADA,Summer     ,Wheat,1.883057927
+Odisha,NUAPADA,Whole Year ,Turmeric,41.1230303
+Odisha,NUAPADA,Winter     ,Urad,44.51237714
+Odisha,PURI,Autumn     ,Sesamum,3.722222222
+Odisha,PURI,Kharif     ,Urad,8.823529412
+Odisha,PURI,Rabi       ,Wheat,2.176470588
+Odisha,PURI,Summer     ,Wheat,2.177121885
+Odisha,PURI,Whole Year ,Turmeric,47.57709435
+Odisha,PURI,Winter     ,Urad,59.55375774
+Odisha,RAYAGADA,Autumn     ,Urad,1.145691878
+Odisha,RAYAGADA,Kharif     ,Urad,8.55862069
+Odisha,RAYAGADA,Rabi       ,Wheat,3.7
+Odisha,RAYAGADA,Summer     ,Wheat,1.634825667
+Odisha,RAYAGADA,Whole Year ,Turmeric,43.10507101
+Odisha,RAYAGADA,Winter     ,Urad,48.67442448
+Odisha,SAMBALPUR,Autumn     ,Urad,1.343676015
+Odisha,SAMBALPUR,Kharif     ,Urad,9.297619048
+Odisha,SAMBALPUR,Rabi       ,Wheat,3.101694915
+Odisha,SAMBALPUR,Summer     ,Wheat,3.128380579
+Odisha,SAMBALPUR,Whole Year ,Turmeric,54.32067814
+Odisha,SAMBALPUR,Winter     ,Urad,55.27202611
+Odisha,SONEPUR,Autumn     ,Urad,1.209122516
+Odisha,SONEPUR,Kharif     ,Urad,8.592592593
+Odisha,SONEPUR,Rabi       ,Wheat,8.2
+Odisha,SONEPUR,Summer     ,Wheat,2.799880215
+Odisha,SONEPUR,Whole Year ,Turmeric,57.43268042
+Odisha,SONEPUR,Winter     ,Urad,66.24488315
+Odisha,SUNDARGARH,Autumn     ,Urad,1.357506725
+Odisha,SUNDARGARH,Kharif     ,Urad,8.914606742
+Odisha,SUNDARGARH,Rabi       ,Wheat,2.473684211
+Odisha,SUNDARGARH,Summer     ,Wheat,1.703346495
+Odisha,SUNDARGARH,Whole Year ,Turmeric,66.76252141
+Odisha,SUNDARGARH,Winter     ,Urad,70.2397297
+Puducherry,KARAIKAL,Autumn     ,Rice,1.973844514
+Puducherry,KARAIKAL,Kharif     ,Urad,71.44801587
+Puducherry,KARAIKAL,Rabi       ,Urad,4.522222222
+Puducherry,KARAIKAL,Summer     ,Urad,9
+Puducherry,KARAIKAL,Whole Year ,Tapioca,10181.4661
+Puducherry,KARAIKAL,Winter     ,Rice,1.494559286
+Puducherry,MAHE,Kharif     ,Urad,12.6969697
+Puducherry,MAHE,Rabi       ,Tapioca,9
+Puducherry,MAHE,Whole Year ,Tapioca,9367.611787
+Puducherry,PONDICHERRY,Autumn     ,Rice,2.910460703
+Puducherry,PONDICHERRY,Kharif     ,Urad,133.1158136
+Puducherry,PONDICHERRY,Rabi       ,Urad,25.79114146
+Puducherry,PONDICHERRY,Summer     ,Urad,17.38939322
+Puducherry,PONDICHERRY,Whole Year ,Tapioca,13610.76237
+Puducherry,PONDICHERRY,Winter     ,Rice,2.604013169
+Puducherry,YANAM,Autumn     ,Rice,3.111696403
+Puducherry,YANAM,Kharif     ,Urad,9
+Puducherry,YANAM,Rabi       ,Urad,4.797453
+Puducherry,YANAM,Summer     ,Urad,0.660952381
+Puducherry,YANAM,Whole Year ,Onion,12653.48735
+Puducherry,YANAM,Winter     ,Rice,4.445014245
+Punjab,AMRITSAR,Kharif     ,Urad,3.397058824
+Punjab,AMRITSAR,Rabi       ,Wheat,4.374277562
+Punjab,AMRITSAR,Whole Year ,Sugarcane,4893.693476
+Punjab,BARNALA,Kharif     ,Rice,4.627648323
+Punjab,BARNALA,Rabi       ,Wheat,4.91801736
+Punjab,BARNALA,Whole Year ,Sugarcane,88.5
+Punjab,BATHINDA,Kharif     ,Sesamum,4.052391122
+Punjab,BATHINDA,Rabi       ,Wheat,4.34161401
+Punjab,BATHINDA,Whole Year ,Sugarcane,60
+Punjab,FARIDKOT,Kharif     ,Sesamum,3.855551814
+Punjab,FARIDKOT,Rabi       ,Wheat,4.501530155
+Punjab,FARIDKOT,Whole Year ,Sugarcane,64.90740741
+Punjab,FATEHGARH SAHIB,Kharif     ,Rice,4.136329649
+Punjab,FATEHGARH SAHIB,Rabi       ,Wheat,4.722234848
+Punjab,FATEHGARH SAHIB,Whole Year ,Sugarcane,5459.809524
+Punjab,FAZILKA,Kharif     ,Rice,3.22338923
+Punjab,FAZILKA,Rabi       ,Wheat,4.676428791
+Punjab,FAZILKA,Whole Year ,Sugarcane,36541
+Punjab,FIROZEPUR,Kharif     ,Sesamum,3.800950771
+Punjab,FIROZEPUR,Rabi       ,Wheat,4.455073229
+Punjab,FIROZEPUR,Whole Year ,Sugarcane,66.00152625
+Punjab,GURDASPUR,Kharif     ,Urad,3.024554329
+Punjab,GURDASPUR,Rabi       ,Wheat,4.137103111
+Punjab,GURDASPUR,Whole Year ,Sugarcane,5386.555412
+Punjab,HOSHIARPUR,Kharif     ,Urad,3.198312208
+Punjab,HOSHIARPUR,Rabi       ,Wheat,3.721186308
+Punjab,HOSHIARPUR,Whole Year ,Sugarcane,4673.734422
+Punjab,JALANDHAR,Kharif     ,Urad,3.582272371
+Punjab,JALANDHAR,Rabi       ,Wheat,4.468170439
+Punjab,JALANDHAR,Whole Year ,Sugarcane,4810.743858
+Punjab,KAPURTHALA,Kharif     ,Sesamum,3.888888889
+Punjab,KAPURTHALA,Rabi       ,Wheat,4.335742067
+Punjab,KAPURTHALA,Whole Year ,Sugarcane,5319.803571
+Punjab,LUDHIANA,Kharif     ,Sesamum,4.148529607
+Punjab,LUDHIANA,Rabi       ,Wheat,4.77719324
+Punjab,LUDHIANA,Whole Year ,Sugarcane,5811.379252
+Punjab,MANSA,Kharif     ,Sesamum,3.800067181
+Punjab,MANSA,Rabi       ,Wheat,4.378361037
+Punjab,MANSA,Whole Year ,Sugarcane,60
+Punjab,MOGA,Kharif     ,Sesamum,4.202031173
+Punjab,MOGA,Rabi       ,Wheat,4.805345371
+Punjab,MOGA,Whole Year ,Sugarcane,60.83333333
+Punjab,MUKTSAR,Kharif     ,Sesamum,3.701467076
+Punjab,MUKTSAR,Rabi       ,Wheat,4.455621749
+Punjab,MUKTSAR,Whole Year ,Sugarcane,61.05555556
+Punjab,NAWANSHAHR,Kharif     ,Urad,3.721828289
+Punjab,NAWANSHAHR,Rabi       ,Wheat,4.338182861
+Punjab,NAWANSHAHR,Whole Year ,Sugarcane,4899.814143
+Punjab,PATHANKOT,Kharif     ,Urad,2.675925926
+Punjab,PATHANKOT,Rabi       ,Wheat,3.611111111
+Punjab,PATHANKOT,Whole Year ,Sugarcane,18674
+Punjab,PATIALA,Kharif     ,Urad,3.79603978
+Punjab,PATIALA,Rabi       ,Wheat,4.619852559
+Punjab,PATIALA,Whole Year ,Sugarcane,6351.880952
+Punjab,RUPNAGAR,Kharif     ,Urad,3.438200519
+Punjab,RUPNAGAR,Rabi       ,Wheat,3.936791031
+Punjab,RUPNAGAR,Whole Year ,Sugarcane,5389.96176
+Punjab,S.A.S NAGAR,Kharif     ,Urad,3.693209877
+Punjab,S.A.S NAGAR,Rabi       ,Wheat,4.265723791
+Punjab,S.A.S NAGAR,Whole Year ,Sugarcane,13046.4
+Punjab,SANGRUR,Kharif     ,Sesamum,4.297429015
+Punjab,SANGRUR,Rabi       ,Wheat,4.71024624
+Punjab,SANGRUR,Whole Year ,Sugarcane,5890.508503
+Punjab,TARN TARAN,Kharif     ,Urad,3.69047619
+Punjab,TARN TARAN,Rabi       ,Wheat,4.485223257
+Punjab,TARN TARAN,Whole Year ,Sugarcane,13382
+Rajasthan,AJMER,Kharif     ,Urad,67
+Rajasthan,AJMER,Rabi       ,other oilseeds,2.016479473
+Rajasthan,AJMER,Whole Year ,other oilseeds,52.43323322
+Rajasthan,ALWAR,Kharif     ,Urad,46.33333333
+Rajasthan,ALWAR,Rabi       ,other oilseeds,3.506427224
+Rajasthan,ALWAR,Whole Year ,other oilseeds,46.4550071
+Rajasthan,BANSWARA,Kharif     ,Urad,71.44444444
+Rajasthan,BANSWARA,Rabi       ,other oilseeds,1.862822979
+Rajasthan,BANSWARA,Whole Year ,other oilseeds,48.57165295
+Rajasthan,BARAN,Kharif     ,Urad,74.5
+Rajasthan,BARAN,Rabi       ,other oilseeds,2.888792684
+Rajasthan,BARAN,Whole Year ,other oilseeds,54.89018114
+Rajasthan,BARMER,Kharif     ,Urad,3
+Rajasthan,BARMER,Rabi       ,other oilseeds,2.386120538
+Rajasthan,BARMER,Whole Year ,other oilseeds,1.430656765
+Rajasthan,BHARATPUR,Kharif     ,Urad,51.2
+Rajasthan,BHARATPUR,Rabi       ,other oilseeds,3.618465905
+Rajasthan,BHARATPUR,Whole Year ,other oilseeds,51.95515319
+Rajasthan,BHILWARA,Kharif     ,Urad,32.5
+Rajasthan,BHILWARA,Rabi       ,other oilseeds,2.374377482
+Rajasthan,BHILWARA,Whole Year ,other oilseeds,48.42497564
+Rajasthan,BIKANER,Kharif     ,Urad,27
+Rajasthan,BIKANER,Rabi       ,other oilseeds,1.93653792
+Rajasthan,BIKANER,Whole Year ,other oilseeds,52.00449772
+Rajasthan,BUNDI,Kharif     ,Urad,43.61797753
+Rajasthan,BUNDI,Rabi       ,other oilseeds,3.09212873
+Rajasthan,BUNDI,Whole Year ,other oilseeds,45.575427
+Rajasthan,CHITTORGARH,Kharif     ,Urad,55.96153846
+Rajasthan,CHITTORGARH,Rabi       ,other oilseeds,2.99788493
+Rajasthan,CHITTORGARH,Whole Year ,other oilseeds,56.16045017
+Rajasthan,CHURU,Kharif     ,Urad,3
+Rajasthan,CHURU,Rabi       ,other oilseeds,4
+Rajasthan,CHURU,Whole Year ,other oilseeds,3.533333333
+Rajasthan,DAUSA,Kharif     ,Urad,1.299892512
+Rajasthan,DAUSA,Rabi       ,other oilseeds,3.08695815
+Rajasthan,DAUSA,Whole Year ,other oilseeds,52.35076923
+Rajasthan,DHOLPUR,Kharif     ,Urad,87.66666667
+Rajasthan,DHOLPUR,Rabi       ,other oilseeds,3.431927198
+Rajasthan,DHOLPUR,Whole Year ,other oilseeds,57.72185491
+Rajasthan,DUNGARPUR,Kharif     ,Urad,45
+Rajasthan,DUNGARPUR,Rabi       ,other oilseeds,2.344029337
+Rajasthan,DUNGARPUR,Whole Year ,other oilseeds,56.4557622
+Rajasthan,GANGANAGAR,Kharif     ,Urad,57.125
+Rajasthan,GANGANAGAR,Rabi       ,other oilseeds,5.741463415
+Rajasthan,GANGANAGAR,Whole Year ,other oilseeds,56.8224564
+Rajasthan,HANUMANGARH,Kharif     ,Urad,55
+Rajasthan,HANUMANGARH,Rabi       ,other oilseeds,3.069889511
+Rajasthan,HANUMANGARH,Whole Year ,other oilseeds,52.43633335
+Rajasthan,JAIPUR,Kharif     ,Urad,54
+Rajasthan,JAIPUR,Rabi       ,other oilseeds,2.716493363
+Rajasthan,JAIPUR,Whole Year ,other oilseeds,56.70794035
+Rajasthan,JAISALMER,Kharif     ,Urad,1.25
+Rajasthan,JAISALMER,Rabi       ,other oilseeds,2.285813185
+Rajasthan,JAISALMER,Whole Year ,other oilseeds,53.3
+Rajasthan,JALORE,Kharif     ,Urad,4.5
+Rajasthan,JALORE,Rabi       ,other oilseeds,2.347751605
+Rajasthan,JALORE,Whole Year ,other oilseeds,7.785714286
+Rajasthan,JHALAWAR,Kharif     ,Urad,89
+Rajasthan,JHALAWAR,Rabi       ,other oilseeds,2.709959284
+Rajasthan,JHALAWAR,Whole Year ,other oilseeds,52.15957632
+Rajasthan,JHUNJHUNU,Kharif     ,Urad,19.33333333
+Rajasthan,JHUNJHUNU,Rabi       ,other oilseeds,5
+Rajasthan,JHUNJHUNU,Whole Year ,other oilseeds,44.25
+Rajasthan,JODHPUR,Kharif     ,Sunflower,5
+Rajasthan,JODHPUR,Rabi       ,other oilseeds,2.678219059
+Rajasthan,JODHPUR,Whole Year ,other oilseeds,45
+Rajasthan,KARAULI,Kharif     ,Urad,1.491419043
+Rajasthan,KARAULI,Rabi       ,other oilseeds,3.571428571
+Rajasthan,KARAULI,Whole Year ,other oilseeds,67.96265016
+Rajasthan,KOTA,Kharif     ,Urad,56
+Rajasthan,KOTA,Rabi       ,other oilseeds,3.150817103
+Rajasthan,KOTA,Whole Year ,other oilseeds,52.43585645
+Rajasthan,NAGAUR,Kharif     ,Urad,4.055555556
+Rajasthan,NAGAUR,Rabi       ,other oilseeds,2.061151492
+Rajasthan,NAGAUR,Whole Year ,other oilseeds,52.5
+Rajasthan,PALI,Kharif     ,Urad,2
+Rajasthan,PALI,Rabi       ,other oilseeds,1.755783803
+Rajasthan,PALI,Whole Year ,other oilseeds,48.9
+Rajasthan,PRATAPGARH,Kharif     ,Urad,1.790966239
+Rajasthan,PRATAPGARH,Rabi       ,other oilseeds,2.808728742
+Rajasthan,PRATAPGARH,Whole Year ,Sugarcane,61.35648148
+Rajasthan,RAJSAMAND,Kharif     ,Urad,47.05263158
+Rajasthan,RAJSAMAND,Rabi       ,other oilseeds,2.544658494
+Rajasthan,RAJSAMAND,Whole Year ,other oilseeds,47.76099654
+Rajasthan,SAWAI MADHOPUR,Kharif     ,Urad,118.6666667
+Rajasthan,SAWAI MADHOPUR,Rabi       ,other oilseeds,2.420343769
+Rajasthan,SAWAI MADHOPUR,Whole Year ,other oilseeds,61.49629249
+Rajasthan,SIKAR,Kharif     ,Urad,8
+Rajasthan,SIKAR,Rabi       ,other oilseeds,2.729733796
+Rajasthan,SIKAR,Whole Year ,other oilseeds,52.4339998
+Rajasthan,SIROHI,Kharif     ,Urad,1.47609209
+Rajasthan,SIROHI,Rabi       ,other oilseeds,2.777777778
+Rajasthan,SIROHI,Whole Year ,other oilseeds,55.80107527
+Rajasthan,TONK,Kharif     ,Urad,46.25
+Rajasthan,TONK,Rabi       ,other oilseeds,2.527402112
+Rajasthan,TONK,Whole Year ,other oilseeds,56.22966722
+Rajasthan,UDAIPUR,Kharif     ,Urad,53.44444444
+Rajasthan,UDAIPUR,Rabi       ,other oilseeds,2.497518599
+Rajasthan,UDAIPUR,Whole Year ,other oilseeds,55.13085723
+Sikkim,EAST DISTRICT,Kharif     ,other oilseeds,2.358956236
+Sikkim,EAST DISTRICT,Rabi       ,Wheat,1.290976581
+Sikkim,EAST DISTRICT,Whole Year ,Total foodgrain,5.009997688
+Sikkim,NORTH DISTRICT,Kharif     ,Urad,1.469913439
+Sikkim,NORTH DISTRICT,Rabi       ,Wheat,1.029800857
+Sikkim,NORTH DISTRICT,Whole Year ,Total foodgrain,4.726525199
+Sikkim,SOUTH DISTRICT,Kharif     ,other oilseeds,3.127808262
+Sikkim,SOUTH DISTRICT,Rabi       ,Wheat,1.131442799
+Sikkim,SOUTH DISTRICT,Whole Year ,other oilseeds,6.76124422
+Sikkim,WEST DISTRICT,Kharif     ,other oilseeds,3.185170703
+Sikkim,WEST DISTRICT,Rabi       ,Wheat,1.19047619
+Sikkim,WEST DISTRICT,Whole Year ,other oilseeds,4.304753829
+Tamil Nadu,ARIYALUR,Kharif     ,Urad,11.63888889
+Tamil Nadu,ARIYALUR,Rabi       ,Urad,8.428571429
+Tamil Nadu,ARIYALUR,Whole Year ,Urad,4400.321152
+Tamil Nadu,COIMBATORE,Kharif     ,Varagu,32.69976864
+Tamil Nadu,COIMBATORE,Rabi       ,Wheat,8.474358974
+Tamil Nadu,COIMBATORE,Whole Year ,Yam,2966.045889
+Tamil Nadu,CUDDALORE,Kharif     ,Varagu,24.77132146
+Tamil Nadu,CUDDALORE,Rabi       ,Urad,8.4
+Tamil Nadu,CUDDALORE,Whole Year ,Water Melon,2698.977509
+Tamil Nadu,DHARMAPURI,Kharif     ,Varagu,39.22747415
+Tamil Nadu,DHARMAPURI,Rabi       ,Urad,8.458333333
+Tamil Nadu,DHARMAPURI,Whole Year ,Yam,2253.143729
+Tamil Nadu,DINDIGUL,Kharif     ,Varagu,22.25802469
+Tamil Nadu,DINDIGUL,Rabi       ,Wheat,12.0994152
+Tamil Nadu,DINDIGUL,Whole Year ,Water Melon,2478.48151
+Tamil Nadu,ERODE,Kharif     ,Urad,36.52958258
+Tamil Nadu,ERODE,Rabi       ,Urad,8.469135802
+Tamil Nadu,ERODE,Whole Year ,Yam,2585.488341
+Tamil Nadu,KANCHIPURAM,Kharif     ,Urad,20.71724138
+Tamil Nadu,KANCHIPURAM,Rabi       ,Urad,5.75
+Tamil Nadu,KANCHIPURAM,Whole Year ,Yam,1864.906306
+Tamil Nadu,KANNIYAKUMARI,Kharif     ,Urad,22.91554002
+Tamil Nadu,KANNIYAKUMARI,Rabi       ,Urad,3.615384615
+Tamil Nadu,KANNIYAKUMARI,Whole Year ,Yam,1854.015735
+Tamil Nadu,KARUR,Kharif     ,Varagu,35.64689709
+Tamil Nadu,KARUR,Rabi       ,Urad,8.465753425
+Tamil Nadu,KARUR,Whole Year ,Yam,1334.14709
+Tamil Nadu,KRISHNAGIRI,Kharif     ,Urad,19.5
+Tamil Nadu,KRISHNAGIRI,Rabi       ,Wheat,31.7039778
+Tamil Nadu,KRISHNAGIRI,Whole Year ,Water Melon,4662.017466
+Tamil Nadu,MADURAI,Kharif     ,Varagu,30.95081967
+Tamil Nadu,MADURAI,Rabi       ,Urad,8.230769231
+Tamil Nadu,MADURAI,Whole Year ,Yam,2976.013972
+Tamil Nadu,NAGAPATTINAM,Kharif     ,Urad,25.42956522
+Tamil Nadu,NAGAPATTINAM,Rabi       ,Urad,5
+Tamil Nadu,NAGAPATTINAM,Whole Year ,Urad,2557.971012
+Tamil Nadu,NAMAKKAL,Kharif     ,Varagu,21.80468119
+Tamil Nadu,NAMAKKAL,Rabi       ,Wheat,10.5815047
+Tamil Nadu,NAMAKKAL,Whole Year ,Yam,2413.298011
+Tamil Nadu,PERAMBALUR,Kharif     ,Varagu,35.64784946
+Tamil Nadu,PERAMBALUR,Rabi       ,Urad,9.445436508
+Tamil Nadu,PERAMBALUR,Whole Year ,Urad,2021.673918
+Tamil Nadu,PUDUKKOTTAI,Kharif     ,Varagu,30.0143339
+Tamil Nadu,PUDUKKOTTAI,Rabi       ,Urad,8
+Tamil Nadu,PUDUKKOTTAI,Whole Year ,Water Melon,2849.20407
+Tamil Nadu,RAMANATHAPURAM,Kharif     ,Varagu,35.69318182
+Tamil Nadu,RAMANATHAPURAM,Rabi       ,Wheat,8.469072165
+Tamil Nadu,RAMANATHAPURAM,Whole Year ,Urad,1468.054041
+Tamil Nadu,SALEM,Kharif     ,Wheat,26.5
+Tamil Nadu,SALEM,Rabi       ,Wheat,7.930232558
+Tamil Nadu,SALEM,Whole Year ,Yam,1723.074403
+Tamil Nadu,SIVAGANGA,Kharif     ,Varagu,35.00352113
+Tamil Nadu,SIVAGANGA,Rabi       ,Urad,8.470588235
+Tamil Nadu,SIVAGANGA,Whole Year ,Water Melon,2160.97575
+Tamil Nadu,THANJAVUR,Kharif     ,Varagu,25.57507661
+Tamil Nadu,THANJAVUR,Rabi       ,Urad,8.428571429
+Tamil Nadu,THANJAVUR,Whole Year ,Yam,4040.56267
+Tamil Nadu,THE NILGIRIS,Kharif     ,Wheat,30.83018868
+Tamil Nadu,THE NILGIRIS,Rabi       ,Wheat,26.78396437
+Tamil Nadu,THE NILGIRIS,Whole Year ,Yam,418.5989993
+Tamil Nadu,THENI,Kharif     ,Varagu,26
+Tamil Nadu,THENI,Rabi       ,Urad,8.468834688
+Tamil Nadu,THENI,Whole Year ,Yam,3320.122745
+Tamil Nadu,THIRUVALLUR,Kharif     ,Urad,20.71730563
+Tamil Nadu,THIRUVALLUR,Rabi       ,Urad,8.333333333
+Tamil Nadu,THIRUVALLUR,Whole Year ,Yam,1723.129893
+Tamil Nadu,THIRUVARUR,Kharif     ,Urad,25.57602339
+Tamil Nadu,THIRUVARUR,Rabi       ,Urad,5.833333333
+Tamil Nadu,THIRUVARUR,Whole Year ,Yam,3616.680327
+Tamil Nadu,TIRUCHIRAPPALLI,Kharif     ,Varagu,35.64679691
+Tamil Nadu,TIRUCHIRAPPALLI,Rabi       ,Urad,8.637135579
+Tamil Nadu,TIRUCHIRAPPALLI,Whole Year ,Yam,2109.10038
+Tamil Nadu,TIRUNELVELI,Kharif     ,Varagu,30.9980162
+Tamil Nadu,TIRUNELVELI,Rabi       ,Urad,8.469565217
+Tamil Nadu,TIRUNELVELI,Whole Year ,Yam,1836.284468
+Tamil Nadu,TIRUPPUR,Kharif     ,Wheat,13.46961806
+Tamil Nadu,TIRUPPUR,Rabi       ,Urad,11.25072046
+Tamil Nadu,TIRUPPUR,Whole Year ,Urad,6321.004598
+Tamil Nadu,TIRUVANNAMALAI,Kharif     ,Varagu,38.11155378
+Tamil Nadu,TIRUVANNAMALAI,Rabi       ,Urad,26
+Tamil Nadu,TIRUVANNAMALAI,Whole Year ,Yam,2486.752302
+Tamil Nadu,TUTICORIN,Kharif     ,Varagu,40.32439741
+Tamil Nadu,TUTICORIN,Rabi       ,Urad,3.969162949
+Tamil Nadu,TUTICORIN,Whole Year ,Yam,1798.101636
+Tamil Nadu,VELLORE,Kharif     ,Wheat,33.41883038
+Tamil Nadu,VELLORE,Rabi       ,Wheat,8.461538462
+Tamil Nadu,VELLORE,Whole Year ,Yam,2411.398755
+Tamil Nadu,VILLUPURAM,Kharif     ,Varagu,29.41500766
+Tamil Nadu,VILLUPURAM,Rabi       ,Urad,8.468085106
+Tamil Nadu,VILLUPURAM,Whole Year ,Yam,2089.983038
+Tamil Nadu,VIRUDHUNAGAR,Kharif     ,Varagu,34.34419552
+Tamil Nadu,VIRUDHUNAGAR,Rabi       ,Urad,8.181712963
+Tamil Nadu,VIRUDHUNAGAR,Whole Year ,Yam,2480.710796
+Telangana ,ADILABAD,Kharif     ,other misc. pulses,84.22222222
+Telangana ,ADILABAD,Rabi       ,other oilseeds,25.00043534
+Telangana ,ADILABAD,Whole Year ,other fibres,81.63918528
+Telangana ,HYDERABAD,Kharif     ,Rice,2.06875
+Telangana ,HYDERABAD,Rabi       ,Rice,1.805555556
+Telangana ,KARIMNAGAR,Kharif     ,other misc. pulses,79.89873854
+Telangana ,KARIMNAGAR,Rabi       ,other oilseeds,23.65993363
+Telangana ,KARIMNAGAR,Whole Year ,Turmeric,76.2013417
+Telangana ,KHAMMAM,Kharif     ,other oilseeds,83.50919689
+Telangana ,KHAMMAM,Rabi       ,other oilseeds,23.93333333
+Telangana ,KHAMMAM,Whole Year ,Turmeric,9964.698462
+Telangana ,MAHBUBNAGAR,Kharif     ,other misc. pulses,77.15543866
+Telangana ,MAHBUBNAGAR,Rabi       ,other oilseeds,24.10766383
+Telangana ,MAHBUBNAGAR,Whole Year ,Turmeric,11341.57059
+Telangana ,MEDAK,Kharif     ,other oilseeds,82.01603125
+Telangana ,MEDAK,Rabi       ,other oilseeds,25.51445972
+Telangana ,MEDAK,Whole Year ,Turmeric,11043.52778
+Telangana ,NALGONDA,Kharif     ,other oilseeds,80.83328814
+Telangana ,NALGONDA,Rabi       ,Urad,25.30749856
+Telangana ,NALGONDA,Whole Year ,Turmeric,11285.76818
+Telangana ,NIZAMABAD,Kharif     ,other misc. pulses,81.57449237
+Telangana ,NIZAMABAD,Rabi       ,other oilseeds,26.44712096
+Telangana ,NIZAMABAD,Whole Year ,Turmeric,11585.25
+Telangana ,RANGAREDDI,Kharif     ,other oilseeds,69.22183826
+Telangana ,RANGAREDDI,Rabi       ,other oilseeds,23.14953291
+Telangana ,RANGAREDDI,Whole Year ,Turmeric,10283.2668
+Telangana ,WARANGAL,Kharif     ,other misc. pulses,88
+Telangana ,WARANGAL,Rabi       ,other oilseeds,24.99967565
+Telangana ,WARANGAL,Whole Year ,Turmeric,110.6379121
+Tripura,DHALAI,Kharif     ,Urad,8.235964813
+Tripura,DHALAI,Rabi       ,Wheat,2.044636168
+Tripura,DHALAI,Whole Year ,other oilseeds,47.8018427
+Tripura,GOMATI,Kharif     ,Urad,8.755127287
+Tripura,GOMATI,Rabi       ,Wheat,2.338095238
+Tripura,GOMATI,Whole Year ,Sugarcane,49.78131831
+Tripura,KHOWAI,Kharif     ,Urad,8.716967149
+Tripura,KHOWAI,Rabi       ,Wheat,2.12962963
+Tripura,KHOWAI,Whole Year ,Sugarcane,54.58095238
+Tripura,NORTH TRIPURA,Kharif     ,Urad,8.632421204
+Tripura,NORTH TRIPURA,Rabi       ,Wheat,2.072200946
+Tripura,NORTH TRIPURA,Whole Year ,other oilseeds,51.48708704
+Tripura,SEPAHIJALA,Kharif     ,Urad,8.760437876
+Tripura,SEPAHIJALA,Rabi       ,Wheat,2.172619048
+Tripura,SEPAHIJALA,Whole Year ,Sugarcane,55.94840504
+Tripura,SOUTH TRIPURA,Kharif     ,Urad,8.204262262
+Tripura,SOUTH TRIPURA,Rabi       ,Wheat,1.92105848
+Tripura,SOUTH TRIPURA,Whole Year ,other oilseeds,49.38432512
+Tripura,UNAKOTI,Kharif     ,Urad,8.785354311
+Tripura,UNAKOTI,Rabi       ,Wheat,2.453801431
+Tripura,UNAKOTI,Whole Year ,Sugarcane,56.96333333
+Tripura,WEST TRIPURA,Kharif     ,Urad,8.314951862
+Tripura,WEST TRIPURA,Rabi       ,Wheat,1.935222657
+Tripura,WEST TRIPURA,Whole Year ,other oilseeds,50.35764451
+Uttar Pradesh,AGRA,Kharif     ,Urad,48.60106903
+Uttar Pradesh,AGRA,Rabi       ,Wheat,25.16964035
+Uttar Pradesh,AGRA,Summer     ,Urad,12.50765986
+Uttar Pradesh,AGRA,Whole Year ,Sweet potato,49.95976886
+Uttar Pradesh,ALIGARH,Kharif     ,Urad,57.72435453
+Uttar Pradesh,ALIGARH,Rabi       ,Wheat,24.51972226
+Uttar Pradesh,ALIGARH,Summer     ,Urad,42.7
+Uttar Pradesh,ALIGARH,Whole Year ,Tobacco,60.25314606
+Uttar Pradesh,ALLAHABAD,Kharif     ,Urad,53.31868054
+Uttar Pradesh,ALLAHABAD,Rabi       ,Wheat,17.78741195
+Uttar Pradesh,ALLAHABAD,Summer     ,Urad,42.29079365
+Uttar Pradesh,ALLAHABAD,Whole Year ,Turmeric,47.9532458
+Uttar Pradesh,AMBEDKAR NAGAR,Kharif     ,Urad,54.59237503
+Uttar Pradesh,AMBEDKAR NAGAR,Rabi       ,Wheat,18.095412
+Uttar Pradesh,AMBEDKAR NAGAR,Summer     ,Urad,43.05882353
+Uttar Pradesh,AMBEDKAR NAGAR,Whole Year ,Turmeric,50.33571716
+Uttar Pradesh,AMETHI,Kharif     ,Urad,61.24336629
+Uttar Pradesh,AMETHI,Rabi       ,Wheat,20.38081203
+Uttar Pradesh,AMETHI,Summer     ,Urad,43
+Uttar Pradesh,AMROHA,Kharif     ,Urad,62.48254615
+Uttar Pradesh,AMROHA,Rabi       ,Wheat,19.08172576
+Uttar Pradesh,AMROHA,Summer     ,Urad,12.34809524
+Uttar Pradesh,AMROHA,Whole Year ,Turmeric,60.12720506
+Uttar Pradesh,AURAIYA,Kharif     ,Urad,53.88843165
+Uttar Pradesh,AURAIYA,Rabi       ,Wheat,27.71290341
+Uttar Pradesh,AURAIYA,Summer     ,Urad,42.48333333
+Uttar Pradesh,AURAIYA,Whole Year ,Turmeric,57.87303298
+Uttar Pradesh,AZAMGARH,Kharif     ,Urad,46.93963801
+Uttar Pradesh,AZAMGARH,Rabi       ,Wheat,22.00662134
+Uttar Pradesh,AZAMGARH,Summer     ,Urad,39.5
+Uttar Pradesh,AZAMGARH,Whole Year ,Turmeric,43.5525691
+Uttar Pradesh,BAGHPAT,Kharif     ,Urad,70.38836457
+Uttar Pradesh,BAGHPAT,Rabi       ,Wheat,20.39380952
+Uttar Pradesh,BAGHPAT,Summer     ,Urad,45
+Uttar Pradesh,BAGHPAT,Whole Year ,Turmeric,64.18942833
+Uttar Pradesh,BAHRAICH,Kharif     ,Urad,53.62363528
+Uttar Pradesh,BAHRAICH,Rabi       ,Wheat,22.5949753
+Uttar Pradesh,BAHRAICH,Summer     ,Urad,42.70262855
+Uttar Pradesh,BAHRAICH,Whole Year ,Turmeric,48.47943288
+Uttar Pradesh,BALLIA,Kharif     ,Urad,41.32107536
+Uttar Pradesh,BALLIA,Rabi       ,Wheat,22.27342807
+Uttar Pradesh,BALLIA,Summer     ,Urad,43.6652381
+Uttar Pradesh,BALLIA,Whole Year ,Turmeric,40.00343994
+Uttar Pradesh,BALRAMPUR,Kharif     ,Urad,49.62545705
+Uttar Pradesh,BALRAMPUR,Rabi       ,Wheat,22.59495608
+Uttar Pradesh,BALRAMPUR,Summer     ,Urad,13.38736606
+Uttar Pradesh,BALRAMPUR,Whole Year ,Turmeric,52.28714327
+Uttar Pradesh,BANDA,Kharif     ,Urad,39.97396274
+Uttar Pradesh,BANDA,Rabi       ,Wheat,22.59395002
+Uttar Pradesh,BANDA,Summer     ,Urad,12.25037231
+Uttar Pradesh,BANDA,Whole Year ,Tobacco,39.4883588
+Uttar Pradesh,BARABANKI,Kharif     ,Urad,55.36110466
+Uttar Pradesh,BARABANKI,Rabi       ,Wheat,17.51718028
+Uttar Pradesh,BARABANKI,Summer     ,Urad,44.25177169
+Uttar Pradesh,BARABANKI,Whole Year ,Turmeric,50.86343657
+Uttar Pradesh,BAREILLY,Kharif     ,Urad,58.26290784
+Uttar Pradesh,BAREILLY,Rabi       ,Wheat,23.06083867
+Uttar Pradesh,BAREILLY,Summer     ,Urad,44
+Uttar Pradesh,BAREILLY,Whole Year ,Turmeric,57.50757427
+Uttar Pradesh,BASTI,Kharif     ,Urad,55.33163496
+Uttar Pradesh,BASTI,Rabi       ,Wheat,22.59504678
+Uttar Pradesh,BASTI,Summer     ,Urad,40.98412698
+Uttar Pradesh,BASTI,Whole Year ,Tobacco,52.61143098
+Uttar Pradesh,BIJNOR,Kharif     ,Urad,59.55927273
+Uttar Pradesh,BIJNOR,Rabi       ,Wheat,23.98769926
+Uttar Pradesh,BIJNOR,Summer     ,Urad,11.91482058
+Uttar Pradesh,BIJNOR,Whole Year ,Turmeric,61.60342943
+Uttar Pradesh,BUDAUN,Kharif     ,Urad,60.65527503
+Uttar Pradesh,BUDAUN,Rabi       ,Wheat,20.18536339
+Uttar Pradesh,BUDAUN,Summer     ,Urad,44.47777778
+Uttar Pradesh,BUDAUN,Whole Year ,Turmeric,63.84228551
+Uttar Pradesh,BULANDSHAHR,Kharif     ,Urad,59.61563865
+Uttar Pradesh,BULANDSHAHR,Rabi       ,Wheat,18.78292513
+Uttar Pradesh,BULANDSHAHR,Summer     ,Urad,44.33333333
+Uttar Pradesh,BULANDSHAHR,Whole Year ,Turmeric,60.21142968
+Uttar Pradesh,CHANDAULI,Kharif     ,Urad,47.64767915
+Uttar Pradesh,CHANDAULI,Rabi       ,Wheat,18.8466283
+Uttar Pradesh,CHANDAULI,Summer     ,Urad,14.34716266
+Uttar Pradesh,CHANDAULI,Whole Year ,Turmeric,38.57547326
+Uttar Pradesh,CHITRAKOOT,Kharif     ,Urad,39.97308553
+Uttar Pradesh,CHITRAKOOT,Rabi       ,Wheat,22.59540652
+Uttar Pradesh,CHITRAKOOT,Summer     ,Sunflower,12.95324074
+Uttar Pradesh,CHITRAKOOT,Whole Year ,Sweet potato,45.78252916
+Uttar Pradesh,DEORIA,Kharif     ,Urad,51.62327469
+Uttar Pradesh,DEORIA,Rabi       ,Wheat,17.68171123
+Uttar Pradesh,DEORIA,Summer     ,Urad,41.2
+Uttar Pradesh,DEORIA,Whole Year ,Turmeric,48.55885229
+Uttar Pradesh,ETAH,Kharif     ,Urad,54.50020884
+Uttar Pradesh,ETAH,Rabi       ,Wheat,25.17037277
+Uttar Pradesh,ETAH,Summer     ,Urad,42.63042328
+Uttar Pradesh,ETAH,Whole Year ,Turmeric,51.77658172
+Uttar Pradesh,ETAWAH,Kharif     ,Urad,53.88853011
+Uttar Pradesh,ETAWAH,Rabi       ,Wheat,23.93290102
+Uttar Pradesh,ETAWAH,Summer     ,Urad,12.10570481
+Uttar Pradesh,ETAWAH,Whole Year ,Turmeric,50.01919396
+Uttar Pradesh,FAIZABAD,Kharif     ,Urad,55.68727175
+Uttar Pradesh,FAIZABAD,Rabi       ,Wheat,18.09543394
+Uttar Pradesh,FAIZABAD,Summer     ,Urad,41.94919872
+Uttar Pradesh,FAIZABAD,Whole Year ,Tobacco,52.55200246
+Uttar Pradesh,FARRUKHABAD,Kharif     ,Urad,58.0847276
+Uttar Pradesh,FARRUKHABAD,Rabi       ,Wheat,24.4745496
+Uttar Pradesh,FARRUKHABAD,Summer     ,Urad,43.60221292
+Uttar Pradesh,FARRUKHABAD,Whole Year ,Turmeric,52.99772042
+Uttar Pradesh,FATEHPUR,Kharif     ,Urad,53.16262142
+Uttar Pradesh,FATEHPUR,Rabi       ,Wheat,19.47893522
+Uttar Pradesh,FATEHPUR,Summer     ,Urad,42.50679344
+Uttar Pradesh,FATEHPUR,Whole Year ,Turmeric,52.06286594
+Uttar Pradesh,FIROZABAD,Kharif     ,Urad,48.60109716
+Uttar Pradesh,FIROZABAD,Rabi       ,Wheat,26.85617786
+Uttar Pradesh,FIROZABAD,Summer     ,Urad,12.50853914
+Uttar Pradesh,FIROZABAD,Whole Year ,Turmeric,45.10898404
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif     ,Urad,65.42255424
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,Rabi       ,Wheat,20.39327074
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,Summer     ,Urad,11.98616696
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,Whole Year ,Sweet potato,62.78389792
+Uttar Pradesh,GHAZIABAD,Kharif     ,Urad,60.29054396
+Uttar Pradesh,GHAZIABAD,Rabi       ,Wheat,22.13492419
+Uttar Pradesh,GHAZIABAD,Summer     ,Urad,41.12903226
+Uttar Pradesh,GHAZIABAD,Whole Year ,Turmeric,63.43885524
+Uttar Pradesh,GHAZIPUR,Kharif     ,Urad,44.34586182
+Uttar Pradesh,GHAZIPUR,Rabi       ,Wheat,20.58253684
+Uttar Pradesh,GHAZIPUR,Summer     ,Urad,14.32971968
+Uttar Pradesh,GHAZIPUR,Whole Year ,Turmeric,40.74500338
+Uttar Pradesh,GONDA,Kharif     ,Urad,51.68528519
+Uttar Pradesh,GONDA,Rabi       ,Wheat,22.59500714
+Uttar Pradesh,GONDA,Summer     ,Urad,43.62948718
+Uttar Pradesh,GONDA,Whole Year ,Turmeric,48.4922863
+Uttar Pradesh,GORAKHPUR,Kharif     ,Urad,56.0895519
+Uttar Pradesh,GORAKHPUR,Rabi       ,Wheat,17.73340971
+Uttar Pradesh,GORAKHPUR,Summer     ,Urad,42.70349288
+Uttar Pradesh,GORAKHPUR,Whole Year ,Turmeric,54.81428476
+Uttar Pradesh,HAMIRPUR,Kharif     ,Urad,39.97384721
+Uttar Pradesh,HAMIRPUR,Rabi       ,Wheat,22.59720258
+Uttar Pradesh,HAMIRPUR,Summer     ,Sunflower,12.27332453
+Uttar Pradesh,HAMIRPUR,Whole Year ,Tobacco,47.31965723
+Uttar Pradesh,HAPUR,Kharif     ,Urad,66.00400535
+Uttar Pradesh,HAPUR,Rabi       ,Wheat,23.5923653
+Uttar Pradesh,HAPUR,Summer     ,Urad,13.93406593
+Uttar Pradesh,HARDOI,Kharif     ,Urad,53.42436173
+Uttar Pradesh,HARDOI,Rabi       ,Wheat,18.4981779
+Uttar Pradesh,HARDOI,Summer     ,Urad,44.08333333
+Uttar Pradesh,HARDOI,Whole Year ,Turmeric,51.02057913
+Uttar Pradesh,HATHRAS,Kharif     ,Urad,55.02408774
+Uttar Pradesh,HATHRAS,Rabi       ,Wheat,27.50827126
+Uttar Pradesh,HATHRAS,Summer     ,Urad,44.5
+Uttar Pradesh,HATHRAS,Whole Year ,Tobacco,55.11247488
+Uttar Pradesh,JALAUN,Kharif     ,Urad,35.66862601
+Uttar Pradesh,JALAUN,Rabi       ,Wheat,21.85907705
+Uttar Pradesh,JALAUN,Summer     ,Sunflower,41
+Uttar Pradesh,JALAUN,Whole Year ,Sweet potato,47.36511131
+Uttar Pradesh,JAUNPUR,Kharif     ,Urad,53.63744571
+Uttar Pradesh,JAUNPUR,Rabi       ,Wheat,17.06943563
+Uttar Pradesh,JAUNPUR,Summer     ,Urad,41.9375
+Uttar Pradesh,JAUNPUR,Whole Year ,Turmeric,46.4034272
+Uttar Pradesh,JHANSI,Kharif     ,Urad,35.67218491
+Uttar Pradesh,JHANSI,Rabi       ,Wheat,21.8584701
+Uttar Pradesh,JHANSI,Summer     ,Urad,12.2537324
+Uttar Pradesh,JHANSI,Whole Year ,Turmeric,47.36584235
+Uttar Pradesh,KANNAUJ,Kharif     ,Urad,53.88818322
+Uttar Pradesh,KANNAUJ,Rabi       ,Wheat,22.54627291
+Uttar Pradesh,KANNAUJ,Summer     ,Urad,41.5
+Uttar Pradesh,KANNAUJ,Whole Year ,Turmeric,50.8346621
+Uttar Pradesh,KANPUR DEHAT,Kharif     ,Urad,51.73480448
+Uttar Pradesh,KANPUR DEHAT,Rabi       ,Wheat,24.98585418
+Uttar Pradesh,KANPUR DEHAT,Summer     ,Urad,41.22222222
+Uttar Pradesh,KANPUR DEHAT,Whole Year ,Turmeric,42.68123737
+Uttar Pradesh,KANPUR NAGAR,Kharif     ,Urad,45.68405713
+Uttar Pradesh,KANPUR NAGAR,Rabi       ,Wheat,19.27735974
+Uttar Pradesh,KANPUR NAGAR,Summer     ,Urad,9.974883211
+Uttar Pradesh,KANPUR NAGAR,Whole Year ,Turmeric,46.19711785
+Uttar Pradesh,KASGANJ,Kharif     ,Urad,55.791299
+Uttar Pradesh,KASGANJ,Rabi       ,Wheat,26.01851748
+Uttar Pradesh,KASGANJ,Summer     ,Urad,12.83640349
+Uttar Pradesh,KAUSHAMBI,Kharif     ,Urad,53.72612605
+Uttar Pradesh,KAUSHAMBI,Rabi       ,Wheat,17.10823517
+Uttar Pradesh,KAUSHAMBI,Summer     ,Urad,42.7045556
+Uttar Pradesh,KAUSHAMBI,Whole Year ,Turmeric,37.91025248
+Uttar Pradesh,KHERI,Kharif     ,Urad,58.74618139
+Uttar Pradesh,KHERI,Rabi       ,Wheat,19.9731724
+Uttar Pradesh,KHERI,Summer     ,Urad,42.70198892
+Uttar Pradesh,KHERI,Whole Year ,Turmeric,53.30342915
+Uttar Pradesh,KUSHI NAGAR,Kharif     ,Urad,53.9178177
+Uttar Pradesh,KUSHI NAGAR,Rabi       ,Wheat,17.68176379
+Uttar Pradesh,KUSHI NAGAR,Summer     ,Urad,42.70379561
+Uttar Pradesh,KUSHI NAGAR,Whole Year ,Turmeric,51.43142669
+Uttar Pradesh,LALITPUR,Kharif     ,Urad,35.67019862
+Uttar Pradesh,LALITPUR,Rabi       ,Wheat,21.85942687
+Uttar Pradesh,LALITPUR,Summer     ,Urad,12.12434641
+Uttar Pradesh,LALITPUR,Whole Year ,Turmeric,47.3635584
+Uttar Pradesh,LUCKNOW,Kharif     ,Urad,56.31207224
+Uttar Pradesh,LUCKNOW,Rabi       ,Wheat,17.45426119
+Uttar Pradesh,LUCKNOW,Summer     ,Urad,42.50854401
+Uttar Pradesh,LUCKNOW,Whole Year ,Turmeric,50.86371387
+Uttar Pradesh,MAHARAJGANJ,Kharif     ,Urad,56.79744977
+Uttar Pradesh,MAHARAJGANJ,Rabi       ,Wheat,18.43700041
+Uttar Pradesh,MAHARAJGANJ,Summer     ,Urad,42.70377417
+Uttar Pradesh,MAHARAJGANJ,Whole Year ,Turmeric,54.00457232
+Uttar Pradesh,MAHOBA,Kharif     ,Urad,39.97375001
+Uttar Pradesh,MAHOBA,Rabi       ,Wheat,22.59518614
+Uttar Pradesh,MAHOBA,Summer     ,Sunflower,11.69373219
+Uttar Pradesh,MAHOBA,Whole Year ,Tobacco,45.78240491
+Uttar Pradesh,MAINPURI,Kharif     ,Urad,48.60066819
+Uttar Pradesh,MAINPURI,Rabi       ,Wheat,23.71035857
+Uttar Pradesh,MAINPURI,Summer     ,Urad,42.82239316
+Uttar Pradesh,MAINPURI,Whole Year ,Turmeric,54.53930954
+Uttar Pradesh,MATHURA,Kharif     ,Urad,46.09049374
+Uttar Pradesh,MATHURA,Rabi       ,Wheat,27.74991488
+Uttar Pradesh,MATHURA,Summer     ,Urad,39.5
+Uttar Pradesh,MATHURA,Whole Year ,Tobacco,52.4868822
+Uttar Pradesh,MAU,Kharif     ,Urad,44.545796
+Uttar Pradesh,MAU,Rabi       ,Wheat,22.00662173
+Uttar Pradesh,MAU,Summer     ,Urad,39.5
+Uttar Pradesh,MAU,Whole Year ,Turmeric,43.66886277
+Uttar Pradesh,MEERUT,Kharif     ,Urad,68.23963666
+Uttar Pradesh,MEERUT,Rabi       ,Wheat,20.59410736
+Uttar Pradesh,MEERUT,Summer     ,Urad,11.82221466
+Uttar Pradesh,MEERUT,Whole Year ,Turmeric,63.23342815
+Uttar Pradesh,MIRZAPUR,Kharif     ,Urad,52.28995271
+Uttar Pradesh,MIRZAPUR,Rabi       ,Wheat,22.64252159
+Uttar Pradesh,MIRZAPUR,Summer     ,Urad,41
+Uttar Pradesh,MIRZAPUR,Whole Year ,Turmeric,50.70074625
+Uttar Pradesh,MORADABAD,Kharif     ,Urad,59.36654606
+Uttar Pradesh,MORADABAD,Rabi       ,Wheat,24.98993251
+Uttar Pradesh,MORADABAD,Summer     ,Urad,41.82738095
+Uttar Pradesh,MORADABAD,Whole Year ,Turmeric,56.81457658
+Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,Urad,68.00036346
+Uttar Pradesh,MUZAFFARNAGAR,Rabi       ,Wheat,20.4396211
+Uttar Pradesh,MUZAFFARNAGAR,Summer     ,Urad,42.67407407
+Uttar Pradesh,MUZAFFARNAGAR,Whole Year ,Turmeric,65.66342924
+Uttar Pradesh,PILIBHIT,Kharif     ,Urad,61.40909007
+Uttar Pradesh,PILIBHIT,Rabi       ,Wheat,20.83652241
+Uttar Pradesh,PILIBHIT,Summer     ,Urad,43.72219788
+Uttar Pradesh,PILIBHIT,Whole Year ,Turmeric,58.62685637
+Uttar Pradesh,PRATAPGARH,Kharif     ,Urad,53.3187679
+Uttar Pradesh,PRATAPGARH,Rabi       ,Wheat,17.14566065
+Uttar Pradesh,PRATAPGARH,Summer     ,Urad,41.33333333
+Uttar Pradesh,PRATAPGARH,Whole Year ,Turmeric,45.177752
+Uttar Pradesh,RAE BARELI,Kharif     ,Urad,44.54252908
+Uttar Pradesh,RAE BARELI,Rabi       ,Wheat,16.58358958
+Uttar Pradesh,RAE BARELI,Summer     ,Urad,41.86835749
+Uttar Pradesh,RAE BARELI,Whole Year ,Turmeric,46.10172691
+Uttar Pradesh,RAMPUR,Kharif     ,Urad,58.55999984
+Uttar Pradesh,RAMPUR,Rabi       ,Wheat,23.43676695
+Uttar Pradesh,RAMPUR,Summer     ,Urad,12.26749658
+Uttar Pradesh,RAMPUR,Whole Year ,Turmeric,60.04971101
+Uttar Pradesh,SAHARANPUR,Kharif     ,Urad,61.55490918
+Uttar Pradesh,SAHARANPUR,Rabi       ,Wheat,20.43960141
+Uttar Pradesh,SAHARANPUR,Summer     ,Urad,12.26468859
+Uttar Pradesh,SAHARANPUR,Whole Year ,Turmeric,60.84628576
+Uttar Pradesh,SAMBHAL,Kharif     ,Urad,61.49733718
+Uttar Pradesh,SAMBHAL,Rabi       ,Wheat,22.58498899
+Uttar Pradesh,SAMBHAL,Summer     ,Urad,45
+Uttar Pradesh,SANT KABEER NAGAR,Kharif     ,Urad,55.33164195
+Uttar Pradesh,SANT KABEER NAGAR,Rabi       ,Wheat,22.5949194
+Uttar Pradesh,SANT KABEER NAGAR,Summer     ,Urad,42.70281487
+Uttar Pradesh,SANT KABEER NAGAR,Whole Year ,Turmeric,55.49489678
+Uttar Pradesh,SANT RAVIDAS NAGAR,Kharif     ,Urad,52.28987017
+Uttar Pradesh,SANT RAVIDAS NAGAR,Rabi       ,Wheat,22.64237387
+Uttar Pradesh,SANT RAVIDAS NAGAR,Summer     ,Urad,12.26385686
+Uttar Pradesh,SANT RAVIDAS NAGAR,Whole Year ,Sugarcane,36.26805897
+Uttar Pradesh,SHAHJAHANPUR,Kharif     ,Urad,58.56218384
+Uttar Pradesh,SHAHJAHANPUR,Rabi       ,Wheat,21.49982408
+Uttar Pradesh,SHAHJAHANPUR,Summer     ,Urad,43.59259259
+Uttar Pradesh,SHAHJAHANPUR,Whole Year ,Turmeric,54.43485508
+Uttar Pradesh,SHAMLI,Kharif     ,Urad,75.51333489
+Uttar Pradesh,SHAMLI,Rabi       ,Wheat,21.41534089
+Uttar Pradesh,SHAMLI,Summer     ,Urad,13.06944444
+Uttar Pradesh,SHRAVASTI,Kharif     ,Urad,52.09037988
+Uttar Pradesh,SHRAVASTI,Rabi       ,Wheat,22.59502077
+Uttar Pradesh,SHRAVASTI,Summer     ,Urad,42.34357143
+Uttar Pradesh,SHRAVASTI,Whole Year ,Turmeric,51.29430337
+Uttar Pradesh,SIDDHARTH NAGAR,Kharif     ,Urad,55.33161049
+Uttar Pradesh,SIDDHARTH NAGAR,Rabi       ,Wheat,22.59513107
+Uttar Pradesh,SIDDHARTH NAGAR,Summer     ,Urad,41.42443064
+Uttar Pradesh,SIDDHARTH NAGAR,Whole Year ,Turmeric,52.18253528
+Uttar Pradesh,SITAPUR,Kharif     ,Urad,56.06400031
+Uttar Pradesh,SITAPUR,Rabi       ,Wheat,20.58918827
+Uttar Pradesh,SITAPUR,Summer     ,Urad,42.71192404
+Uttar Pradesh,SITAPUR,Whole Year ,Turmeric,51.93885734
+Uttar Pradesh,SONBHADRA,Kharif     ,Urad,52.28945764
+Uttar Pradesh,SONBHADRA,Rabi       ,Wheat,22.64263049
+Uttar Pradesh,SONBHADRA,Summer     ,Urad,12.2636585
+Uttar Pradesh,SONBHADRA,Whole Year ,Turmeric,43.81218675
+Uttar Pradesh,SULTANPUR,Kharif     ,Urad,53.76218066
+Uttar Pradesh,SULTANPUR,Rabi       ,Wheat,18.09540779
+Uttar Pradesh,SULTANPUR,Summer     ,Urad,42.00774411
+Uttar Pradesh,SULTANPUR,Whole Year ,Turmeric,43.87886284
+Uttar Pradesh,UNNAO,Kharif     ,Urad,57.31974683
+Uttar Pradesh,UNNAO,Rabi       ,Wheat,20.56880652
+Uttar Pradesh,UNNAO,Summer     ,Urad,44.26470588
+Uttar Pradesh,UNNAO,Whole Year ,Turmeric,42.39377001
+Uttar Pradesh,VARANASI,Kharif     ,Urad,47.85937976
+Uttar Pradesh,VARANASI,Rabi       ,Wheat,19.25794989
+Uttar Pradesh,VARANASI,Summer     ,Urad,13.46999224
+Uttar Pradesh,VARANASI,Whole Year ,Turmeric,40.52341318
+Uttarakhand,ALMORA,Kharif     ,other oilseeds,11.70235834
+Uttarakhand,ALMORA,Rabi       ,other oilseeds,11.13360752
+Uttarakhand,ALMORA,Whole Year ,Turmeric,13.43319415
+Uttarakhand,BAGESHWAR,Kharif     ,other oilseeds,10.68115561
+Uttarakhand,BAGESHWAR,Rabi       ,other oilseeds,10.35684128
+Uttarakhand,BAGESHWAR,Whole Year ,Turmeric,12.23351983
+Uttarakhand,CHAMOLI,Kharif     ,other oilseeds,14
+Uttarakhand,CHAMOLI,Rabi       ,other oilseeds,10.69680907
+Uttarakhand,CHAMOLI,Whole Year ,Turmeric,55
+Uttarakhand,CHAMPAWAT,Kharif     ,other oilseeds,64.11111111
+Uttarakhand,CHAMPAWAT,Rabi       ,other oilseeds,12.131752
+Uttarakhand,CHAMPAWAT,Summer     ,Urad,2.5
+Uttarakhand,CHAMPAWAT,Whole Year ,Turmeric,59.84341737
+Uttarakhand,DEHRADUN,Kharif     ,other oilseeds,65.80008498
+Uttarakhand,DEHRADUN,Rabi       ,other oilseeds,18.3458274
+Uttarakhand,DEHRADUN,Summer     ,Urad,2
+Uttarakhand,DEHRADUN,Whole Year ,Turmeric,59.88143195
+Uttarakhand,HARIDWAR,Kharif     ,other oilseeds,59.2
+Uttarakhand,HARIDWAR,Rabi       ,other oilseeds,18.1666803
+Uttarakhand,HARIDWAR,Summer     ,Urad,3.309166667
+Uttarakhand,HARIDWAR,Whole Year ,Turmeric,60.10833421
+Uttarakhand,NAINITAL,Kharif     ,other oilseeds,64.09997313
+Uttarakhand,NAINITAL,Rabi       ,other oilseeds,13.00116502
+Uttarakhand,NAINITAL,Summer     ,Total foodgrain,3.247368093
+Uttarakhand,NAINITAL,Whole Year ,Turmeric,59.48572309
+Uttarakhand,PAURI GARHWAL,Kharif     ,other oilseeds,11.42651562
+Uttarakhand,PAURI GARHWAL,Rabi       ,other oilseeds,11.30923277
+Uttarakhand,PAURI GARHWAL,Whole Year ,Turmeric,61.475
+Uttarakhand,PITHORAGARH,Kharif     ,other oilseeds,11.28922213
+Uttarakhand,PITHORAGARH,Rabi       ,other oilseeds,11.87089093
+Uttarakhand,PITHORAGARH,Summer     ,Maize,1.611111111
+Uttarakhand,PITHORAGARH,Whole Year ,Turmeric,12
+Uttarakhand,RUDRA PRAYAG,Kharif     ,other oilseeds,11.16972343
+Uttarakhand,RUDRA PRAYAG,Rabi       ,other oilseeds,10.28331783
+Uttarakhand,RUDRA PRAYAG,Whole Year ,Turmeric,13.76733407
+Uttarakhand,TEHRI GARHWAL,Kharif     ,other oilseeds,13.43947183
+Uttarakhand,TEHRI GARHWAL,Rabi       ,other oilseeds,11.9698736
+Uttarakhand,TEHRI GARHWAL,Whole Year ,Turmeric,14.07304575
+Uttarakhand,UDAM SINGH NAGAR,Kharif     ,other oilseeds,64.1
+Uttarakhand,UDAM SINGH NAGAR,Rabi       ,other oilseeds,18.11733534
+Uttarakhand,UDAM SINGH NAGAR,Summer     ,Urad,11.17992154
+Uttarakhand,UDAM SINGH NAGAR,Whole Year ,Turmeric,59.48571861
+Uttarakhand,UTTAR KASHI,Kharif     ,other oilseeds,12.53520522
+Uttarakhand,UTTAR KASHI,Rabi       ,other oilseeds,10.45040845
+Uttarakhand,UTTAR KASHI,Whole Year ,Total foodgrain,62
+West Bengal,24 PARAGANAS NORTH,Autumn     ,Sesamum,4.444444444
+West Bengal,24 PARAGANAS NORTH,Kharif     ,Urad,16.65710698
+West Bengal,24 PARAGANAS NORTH,Rabi       ,Wheat,32.67858268
+West Bengal,24 PARAGANAS NORTH,Summer     ,Sesamum,3.161854213
+West Bengal,24 PARAGANAS NORTH,Whole Year ,Turmeric,2969.492224
+West Bengal,24 PARAGANAS NORTH,Winter     ,Rice,22.16338497
+West Bengal,24 PARAGANAS SOUTH,Autumn     ,Rice,2.528301887
+West Bengal,24 PARAGANAS SOUTH,Kharif     ,Urad,14.11921855
+West Bengal,24 PARAGANAS SOUTH,Rabi       ,Wheat,24.64538388
+West Bengal,24 PARAGANAS SOUTH,Summer     ,Sesamum,2.956914161
+West Bengal,24 PARAGANAS SOUTH,Whole Year ,Turmeric,2211.5223
+West Bengal,24 PARAGANAS SOUTH,Winter     ,Rice,17.33274948
+West Bengal,BANKURA,Autumn     ,Small millets,7.328981723
+West Bengal,BANKURA,Kharif     ,Urad,18.6159877
+West Bengal,BANKURA,Rabi       ,Wheat,31.78264662
+West Bengal,BANKURA,Summer     ,Sesamum,2.820955889
+West Bengal,BANKURA,Whole Year ,Turmeric,1888.280194
+West Bengal,BANKURA,Winter     ,Sesamum,21.98889412
+West Bengal,BARDHAMAN,Autumn     ,Sesamum,5.5
+West Bengal,BARDHAMAN,Kharif     ,Urad,17.83780804
+West Bengal,BARDHAMAN,Rabi       ,Wheat,32.21978365
+West Bengal,BARDHAMAN,Summer     ,Sesamum,3.271183444
+West Bengal,BARDHAMAN,Whole Year ,Turmeric,2029.202742
+West Bengal,BARDHAMAN,Winter     ,Rice,27.61513892
+West Bengal,BIRBHUM,Autumn     ,Sesamum,4.7
+West Bengal,BIRBHUM,Kharif     ,Urad,18.5869927
+West Bengal,BIRBHUM,Rabi       ,Wheat,29.77594681
+West Bengal,BIRBHUM,Summer     ,Sesamum,3.215160998
+West Bengal,BIRBHUM,Whole Year ,Turmeric,3936.131513
+West Bengal,BIRBHUM,Winter     ,Sesamum,23.85369746
+West Bengal,COOCHBEHAR,Autumn     ,Small millets,2.547709734
+West Bengal,COOCHBEHAR,Kharif     ,Urad,10.7655269
+West Bengal,COOCHBEHAR,Rabi       ,Wheat,26.33003664
+West Bengal,COOCHBEHAR,Summer     ,Sesamum,6.079006908
+West Bengal,COOCHBEHAR,Whole Year ,Turmeric,1806.932802
+West Bengal,COOCHBEHAR,Winter     ,Sesamum,21.10340838
+West Bengal,DARJEELING,Autumn     ,Sesamum,2.429193519
+West Bengal,DARJEELING,Kharif     ,Urad,10.97843754
+West Bengal,DARJEELING,Rabi       ,Wheat,19.33763237
+West Bengal,DARJEELING,Summer     ,Sesamum,12.37085037
+West Bengal,DARJEELING,Whole Year ,Turmeric,2819.096793
+West Bengal,DARJEELING,Winter     ,Sesamum,14.71808631
+West Bengal,DINAJPUR DAKSHIN,Autumn     ,Rice,2.436046512
+West Bengal,DINAJPUR DAKSHIN,Kharif     ,Urad,12.56803127
+West Bengal,DINAJPUR DAKSHIN,Rabi       ,Wheat,26.91377899
+West Bengal,DINAJPUR DAKSHIN,Summer     ,Sesamum,3.914136331
+West Bengal,DINAJPUR DAKSHIN,Whole Year ,Turmeric,1139.077302
+West Bengal,DINAJPUR DAKSHIN,Winter     ,Sesamum,15.94072148
+West Bengal,DINAJPUR UTTAR,Autumn     ,Sesamum,2.547582941
+West Bengal,DINAJPUR UTTAR,Kharif     ,Urad,13.18367347
+West Bengal,DINAJPUR UTTAR,Rabi       ,Wheat,29.52434892
+West Bengal,DINAJPUR UTTAR,Summer     ,Sesamum,6.190644167
+West Bengal,DINAJPUR UTTAR,Whole Year ,Turmeric,1269.79345
+West Bengal,DINAJPUR UTTAR,Winter     ,Sesamum,18.90853169
+West Bengal,HOOGHLY,Autumn     ,Sannhamp,5.1
+West Bengal,HOOGHLY,Kharif     ,Urad,18.95367873
+West Bengal,HOOGHLY,Rabi       ,Wheat,31.10785251
+West Bengal,HOOGHLY,Summer     ,Sesamum,2.937509493
+West Bengal,HOOGHLY,Whole Year ,Turmeric,2225.314381
+West Bengal,HOOGHLY,Winter     ,Rice,15.89761256
+West Bengal,HOWRAH,Autumn     ,Rice,2.161713486
+West Bengal,HOWRAH,Kharif     ,Urad,17.70821927
+West Bengal,HOWRAH,Rabi       ,Wheat,32.16171819
+West Bengal,HOWRAH,Summer     ,Sesamum,2.785875247
+West Bengal,HOWRAH,Whole Year ,Turmeric,1733.214775
+West Bengal,HOWRAH,Winter     ,Rice,25.42460432
+West Bengal,JALPAIGURI,Autumn     ,Sesamum,2.725880792
+West Bengal,JALPAIGURI,Kharif     ,Urad,11.15785217
+West Bengal,JALPAIGURI,Rabi       ,Wheat,27.51904895
+West Bengal,JALPAIGURI,Summer     ,Sesamum,2.558004183
+West Bengal,JALPAIGURI,Whole Year ,Turmeric,2391.075579
+West Bengal,JALPAIGURI,Winter     ,Sesamum,21.182477
+West Bengal,MALDAH,Autumn     ,Sesamum,3.435473159
+West Bengal,MALDAH,Kharif     ,Urad,13.36265799
+West Bengal,MALDAH,Rabi       ,Wheat,34.45668759
+West Bengal,MALDAH,Summer     ,Sesamum,3.602499428
+West Bengal,MALDAH,Whole Year ,Turmeric,1640.226881
+West Bengal,MALDAH,Winter     ,Sesamum,19.92243198
+West Bengal,MEDINIPUR EAST,Autumn     ,Sesamum,6
+West Bengal,MEDINIPUR EAST,Kharif     ,Urad,16.31776087
+West Bengal,MEDINIPUR EAST,Rabi       ,Wheat,26.91669322
+West Bengal,MEDINIPUR EAST,Summer     ,Sesamum,3.137309705
+West Bengal,MEDINIPUR EAST,Whole Year ,Turmeric,1996.642045
+West Bengal,MEDINIPUR EAST,Winter     ,Sesamum,20.62642627
+West Bengal,MEDINIPUR WEST,Autumn     ,Sesamum,3.9
+West Bengal,MEDINIPUR WEST,Kharif     ,Urad,14.84317857
+West Bengal,MEDINIPUR WEST,Rabi       ,Wheat,29.92179175
+West Bengal,MEDINIPUR WEST,Summer     ,Sesamum,3.03040213
+West Bengal,MEDINIPUR WEST,Whole Year ,Turmeric,2438.969146
+West Bengal,MEDINIPUR WEST,Winter     ,Sesamum,26.97274496
+West Bengal,MURSHIDABAD,Autumn     ,Sesamum,2.921996182
+West Bengal,MURSHIDABAD,Kharif     ,Urad,13.99071138
+West Bengal,MURSHIDABAD,Rabi       ,Wheat,28.58082578
+West Bengal,MURSHIDABAD,Summer     ,Sesamum,4.759161573
+West Bengal,MURSHIDABAD,Whole Year ,Turmeric,2257.295917
+West Bengal,MURSHIDABAD,Winter     ,Sesamum,21.7841094
+West Bengal,NADIA,Autumn     ,Sesamum,2.921551481
+West Bengal,NADIA,Kharif     ,Urad,14.42287513
+West Bengal,NADIA,Rabi       ,Wheat,32.03468923
+West Bengal,NADIA,Summer     ,Sesamum,3.502518268
+West Bengal,NADIA,Whole Year ,Turmeric,2181.513592
+West Bengal,NADIA,Winter     ,Sesamum,20.97021849
+West Bengal,PURULIA,Autumn     ,Small millets,1.742964383
+West Bengal,PURULIA,Kharif     ,Urad,19.54545455
+West Bengal,PURULIA,Rabi       ,Wheat,19.76265568
+West Bengal,PURULIA,Summer     ,Sesamum,2.294112749
+West Bengal,PURULIA,Whole Year ,Turmeric,1715.625063
+West Bengal,PURULIA,Winter     ,Sesamum,15.30336066

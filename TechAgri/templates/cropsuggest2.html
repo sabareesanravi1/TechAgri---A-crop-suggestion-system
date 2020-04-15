@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <title>Indian Districts Select / Dropdown List in jQuery</title>
+    <script language="Javascript" src={{ url_for('static',filename='js/jquery.js') }} ></script>
+    <script type="text/JavaScript" src= {{ url_for('static',filename='js/state.js') }} ></script>
+    <link rel="stylesheet" type="text/css" href= {{ url_for('static',filename='css/cropstyle.css') }}>
+    <style>
+     #btn{
+                
+                background-color:orange;
+                color:white;
+                border-radius:25px;
+                padding:14px 20px;
+                margin:8px 0;
+                border:none;
+                cursor:pointer;
+                width:200px;
+                height:60px;
+                text-align:center;
+                }
+    </style>
+  </head>
+  <body>
+    <form name="form" action="/croppage" method="POST" target = "_blank">
+    <div class='resp_code frms'>
+      <p align='center'<h5><font style='font: 1em/1.3em Tahoma,Geneva,sans-serif;'>
+      <b>Indian Select your state district season to find the best crop for you</b></font></h5></p>
+      <div id="selection">
+	<p>STATE
+        <select id="listBox" name="listBox" onchange='selct_district(this.value)'></select></p>
+	<p>DISTRICT
+        <select id='secondlist' name="secondlist"></select>  </P>
+	<p>SEASON
+  <select id='thirdlist' name="thirdlist"></select></p>
+  <input type="submit" style="background-color: orange; color:white; border: orange; height:40px; border-radius: 30px; width:90px;" placeholder="SUBMIT"></input>
+      </div>
+    </form>
+    </div>
+    <p align="center">Crop suitable for you is {{ c['Crop'] }}</p>
+ <br>
+ <br>
+ <form action="/homepage" style="border:0px; margin:0px; margin-bottom: 20px; height: 50px; float: left; padding-left: 300px;"> <button id="btn" >Back to home</button></form> 
+ <form action="/logout" style="border:0px; margin:0px; margin-bottom: 20px;  height: 50px; float:right; padding-right: 400px;" > <button id="btn" >Logout</button></form> 
+  </body>
+
+</html>
+

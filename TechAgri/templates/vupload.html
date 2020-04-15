@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <style>
+                #hd{
+                    position: fixed;
+                }
+                body{font-family:Arial,Helvetica,sans-serif;}
+                form{
+                    border:3px solid #f3f1f1;border-radius:10px;
+                margin:50px;
+            
+                }
+                input[type=text]{
+                width:40%;
+                height:35px;
+                margin:8px 0;
+                border-radius:7px;
+                border:1px solid rgba(0, 0, 0, 0.534);
+                box-sizing:border-box;
+                text-align: center;
+            
+                }
+                button{
+                background-color:green;
+                color:white;
+                border-radius:25px;
+                padding:14px 20px;
+                margin:8px 0;
+                border:none;
+                cursor:pointer;
+                width:40%;
+                height:35%;
+                
+                }
+                button:hover{
+                opacity:8.9;
+                }
+                
+                #btn{
+                
+                background-color:orange;
+                color:white;
+                border-radius:25px;
+                padding:14px 20px;
+                margin:8px 0;
+                border:none;
+                cursor:pointer;
+                width:200px;
+                height:50px;
+                text-align:center;
+                }
+                .container{
+                    top:50px;
+                    
+                   /* margin: auto;*/
+                    margin: 10% 50% 50% 25%;
+                  width: 50%;
+                  height:410px;
+                  border-radius:12px;
+                  vertical-align: middle;
+                background-color:white;
+                text-align: center;
+                }
+                span.psw{
+                float:right;
+                padding-top:16px;
+                }
+                .content1{
+                    background:url(../img/grass.jpg);
+                   position:absolute;
+                    left: 0;
+                    top: 0;
+                    
+                    width: 100%;
+                    height: 100%;
+                /*text-align: center;*/
+                }
+                
+                span.psw{
+                display:block;
+                float:none;
+                }
+                #menu {
+	            padding: 8px;
+	            transition: all 0.8s;
+	            background-color: white;
+                }
+
+                #menu a.navbar-brand {
+                    font-size: 26px;
+                    font-weight: 600;
+                    color: black;
+                }
+                #menu.navbar-default .navbar-nav > li > a{
+                    text-transform: uppercase;
+                    color: black;
+                    font-size: 15px;
+                    font-weight: 400;
+                    letter-spacing: 1px;
+                    padding: 8px 2px;
+                    border-radius: 0;
+                    margin: 9px 20px 0 20px;
+                }
+
+                #menu.navbar-default .navbar-nav > li > a:hover {
+                    background-color: orange;
+                    color:white;
+                }
+
+
+                a{
+                    text-decoration: none;
+                    background-color: orange;
+                    color:white;
+                }
+                </style>
+                <script>
+                        
+                            function check()
+                            {
+                                var x=document.forms["log"]["uname"].value;
+                                var y=document.forms["log"]["psw"].value;
+                                if(x==""||y=="")
+                                {
+                                    alert("Fields should not be empty");
+                                    return false;
+                                }
+                            }
+                            </script>
+</head>    
+    <body>
+           <div id="hd" style="background-color:white; width:100%; " >
+           <form action="/logout" style="border:0px; margin:0px; margin-bottom: 15px; margin-top: 15px;"> 
+            <span style="padding-left:40px; font-size: 24px; padding-top: 20px; font-style: bold; color :black; " >
+                    TECHAGRI</span>     
+            </form>         
+        </div>
+        
+            <div class="content1">
+                    <div class="container">
+        <form name="form" action="/vupload" method="POST" enctype="multipart/form-data">
+            <p> video title:</p>
+            <input type="text" name="vtitle" id="title" placeholder="title of your video" required>
+            <p>video description:</p>
+            <input type="text" name="vdes" id="description" placeholder="description of your video" required>
+            <p>video file:</p>
+            <input type="file" name="file" id="vfile" placeholder="upload video"  required >
+            <br>
+            <br>
+            <button id="btn" onclick="return check();" >submit</button>
+            <br>
+            <br>
+                    
+            <br>
+        </form>
+        <form action="/homepage" style="border:0px; margin:0px; margin-bottom: 20px; height: 50px; float: left; "> <button id="btn" >Back to home</button></form> 
+        <form action="/logout" style="border:0px; margin:0px; margin-bottom: 20px;  height: 50px; float: right; " > <button id="btn" >Logout</button></form> 
+       </div>
+        </div>
+    </body>
+</html>

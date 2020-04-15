@@ -1,0 +1,192 @@
+body, html {
+	font-family: 'Open Sans', sans-serif;
+	text-rendering: optimizeLegibility ;
+	-webkit-font-smoothing: antialiased ;
+	color: #666;
+	font-weight: 400;
+	width: 100% ;
+	height: 100% ;
+}
+h2 {
+	margin: 0 0 20px 0;
+	font-weight: 600;
+	font-size: 36px;
+	color: #333;
+}
+h3, h4 {
+	font-size: 20px;
+	font-weight: 400;
+	color: #333;
+}
+h5 {
+	text-transform: uppercase;
+	font-weight: 700;
+	line-height: 20px;
+}
+p {
+	font-size: 15px;
+}
+p.intro {
+	margin: 12px 0 0;
+	line-height: 24px;
+}
+
+/* Navigation */
+#menu {
+	padding: 8px;
+	transition: all 0.8s;
+	background-color: white;
+}
+
+#menu a.navbar-brand {
+	font-size: 26px;
+	font-weight: 600;
+	color: black;
+}
+#menu.navbar-default .navbar-nav > li > a{
+	text-transform: uppercase;
+	color: black;
+	font-size: 15px;
+	font-weight: 400;
+	letter-spacing: 1px;
+	padding: 8px 2px;
+	border-radius: 0;
+	margin: 9px 20px 0 20px;
+}
+
+#menu.navbar-default .navbar-nav > li > a:hover {
+	background-color: orange;
+	color:white;
+}
+.btn-custom {
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #6aaf08;
+	padding: 14px 20px;
+	letter-spacing: 1px;
+	margin: 0;
+	font-size: 17px;
+	font-weight: 400;
+	border-radius: 10px;
+	margin-top: 20px;
+	transition: all 0.3s;
+}
+
+/**/
+/* Header Section */
+.intro {
+	display: table;
+	width: 100%;
+	padding: 0;
+	background: url(../img/intro-bg.jpg) top center no-repeat;
+	background-size: cover;
+	-o-background-size: cover;
+}
+
+.intro h1 {
+	color: #fff;
+	font-size: 64px;
+	font-weight: 700;
+	letter-spacing: -1px;
+	margin-top: 0;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+.intro p {
+	color: #fff;
+	font-size: 22px;
+	margin-top: 20px;
+	line-height: 28px;
+	margin-bottom: 40px;
+}
+
+header .intro-text {
+	padding-top: 320px;
+	padding-bottom: 200px;
+	text-align: center;
+}
+
+header .intro-text span {
+	color: yellow;
+	font-weight: 700;
+	letter-spacing: -1px;
+}
+/* About Section */
+#about {
+	padding: 120px 0 80px 0;
+	background: white;
+}
+#about h3 {
+	font-size: 22px;
+	font-weight: 600;
+	margin: 20px 0 0 0;
+}
+#about .about-text span {
+	color: #15FA2C;
+	font-weight: 700;
+	letter-spacing: -1px;
+}
+#about hr {
+	margin-left: 0;
+	margin-bottom: 40px;
+}
+#about .btn {
+	margin-top: 40px;
+}
+#about .about-media img {
+	position: relative;
+	display: block;
+	width: 100%;
+	height: auto;
+}
+#about .about-text, #about .about-desc {
+	margin-bottom: 40px;
+}
+#about p {
+	line-height: 24px;
+	margin-top: 20px;
+}
+/* Services Section */
+#services {
+	padding: 120px 0;
+	background: #6aaf08;
+}
+#services .service-media {
+	margin: 10px;
+}
+#services .service-media img {
+	position: relative;
+	width: 225px;
+	height: 225px;
+	border-radius: 50%;
+	border: 10px solid rgba(255,255,255,0.1);
+}
+#services .service-desc {
+	margin: 10px 10px 40px;
+	text-align: center;
+}
+#services h2 {
+	color: #fff;
+}
+#services h3 {
+	color: #fff;
+	font-size: 24px;
+	font-weight: 400;
+	padding: 5px 0;
+}
+#services p {
+	color: white;
+}
+#services hr {
+	background: black;
+}
+
+#services a {
+	color: white;
+	text-decoration: none;
+}
+
+#services a:hover{
+	background-color: white;
+	color: #6aaf08;
+}

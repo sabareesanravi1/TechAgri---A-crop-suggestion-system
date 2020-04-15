@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <style>
+            #info{
+                align-content: center;
+                border-style: solid;
+            }
+            #hd{
+                background-color: white;
+                position: fixed;
+                padding-top: 0%;
+            }
+            #btn{
+                
+                background-color:orange;
+                color:white;
+                border-radius:25px;
+                padding:14px 20px;
+                margin:8px 0;
+                border:none;
+                cursor:pointer;
+                width:200px;
+                height:50px;
+                text-align:center;
+                
+                }
+            </style>   
+    </head>
+    <body>
+            <div id="hd" style="background-color:orange;  width:100%; " >
+                    <form action="/logout" style="border:0px; margin:0px; margin-bottom: 15px; margin-top: 15px;"> 
+                     <span style="padding-left:40px; font-size: 24px; padding-top: 20px; font-style: bold; color :white; " >
+                             TECHAGRI</span>     
+                     </form>         
+        
+                    </div>
+
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <form action="/homepage" style="border:0px; margin:0px; margin-bottom: 20px; height: 50px; float: left;"> <button id="btn">Back to home</button></form> 
+                 <form action="/logout" style="border:0px; margin:0px; margin-bottom: 20px;  height: 50px" > <button id="btn" style="float: right;" >Logout</button></form> 
+            <div >
+                    
+                    {% for videop in video_names %} 
+                    
+                        <div id='info'>
+                        <p style="padding-left: 600px;">{{videop}}</p>             
+                        <p><video id="vid" width="320" height="240" controls style="padding-left: 600px;">
+                            <source src=" {{ url_for('send_video', filename=videop) }} " type="video/mp4">
+                          </video> </p>
+                        </div>
+                        <br>
+                        <br>    
+                    {% endfor %}
+                </div>
+    </body>
+
+</html>

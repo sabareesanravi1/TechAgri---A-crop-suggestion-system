@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <script>    console.log("hi soundar");</script>
+<style>
+ #btn{
+  background-color: orange;
+  padding: 10px;
+  margin-left: 30px;
+  color: white;
+  border-color: orange;
+  border-radius: 15px;
+  width:90px;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 15px;
+}
+#btn:hover{
+  color:black;
+}
+  </style>
+<title>TechAgri</title>
+
+<link rel="stylesheet" type="text/css"  href={{ url_for('static',filename='css/bootstrap.css') }} >
+
+<!-- Stylesheet
+    ================================================== -->
+<link rel="stylesheet" type="text/css" href={{ url_for('static',filename='css/style.css') }}>
+
+</head>
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+<!-- Navigation
+    ==========================================-->
+<nav id="menu" class="navbar navbar-default navbar-fixed-top">
+  <div class="container"> 
+
+    <div class="navbar-header">
+
+      <a  href="#page-top" style="padding-top:20px; font-size: 40px; color:black;" >TechAgri</a> </div>
+    
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#about" class="page-scroll" hover style="padding-top:20px;">About</a></li>
+        <li><a href="#services" class="page-scroll" style="padding-top:20px;" > Services</a></li>
+        <li><h3><form action="/"> <button id="btn">Logout</button></a></li></form>
+    
+      </ul>
+    </div>
+  </div>
+  
+</nav>
+
+<header id="header">
+  <div class="intro">
+    <div class="overlay">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2 intro-text">
+            <h1>Agricultural Services</h1>
+            <p>We are here to help you to improve your productivity and get the maximum outcome that you can get for your work.
+            We provide the best techniques and practices to get the best yield.<br></p>
+        	
+        	<p><span>YOU ARE NOT ALONE NOW. WE ARE HERE FOR YOU<span></p>
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<!-- About Section -->
+<div id="about">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-6">
+        <div class="about-text">
+          <h2>Welcome to <span>TechAgri</span></h2>
+          <hr>
+          <p>Are you getting continous losses in agriculture? </p>
+          <p>Are you getting poor yield nowadays? <p>
+          <p>The concept of high-performance agriculture is key in understanding the importance of crop yields. How much you can produce within a given amount of land is essentially how efficient you are as a farmer. In today’s economy, being able to do things efficiently is as important as ever. You want to ensure that you are maximizing your space and the land you have worked to cultivate. Crop yields not only determine your efficiency, but your bottom-line as well.</p>
+          <a href="#services" class="btn btn-custom btn-lg page-scroll" style="background-color: orange">View All Services</a> </div>
+      </div>
+      <div class="col-xs-12 col-md-3">
+        <div class="about-media">
+            <img src= {{ url_for('static',filename='img/about-1.jpg') }} alt="img"> </div>
+        <div class="about-desc">
+          <h3><form action="/vpage"><button id="btn" style="width: 200px;" >Get great ideas through videos</button></form></h3>
+          <p>watch the videos and get great ideas and use it in your farm to get the great yield ... Hurry UP!</p>
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-3">
+        <div class="about-media"> <img src= {{ url_for('static',filename='img/about-2.jpg') }} alt=" "> </div>
+        <div class="about-desc">
+          <h3><form action="/croppage" method='GET'><button id="btn" style="width: 200px;" >Choose the best crop for you</button></form></h3>
+          <p>Choosing a crop is an art choose the best for you</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Services Section -->
+<div id="services">
+  <div class="container">
+    <div class="col-md-10 col-md-offset-1 section-title text-center">
+      <h2>Our Services</h2>
+      <hr>
+    </div>
+    <div class="row">
+      <div class="col-md-3 text-center">
+        <div class="service-media"> <img src= {{ url_for('static',filename='img/services/service-1.jpg') }} id="imginhome" alt=" "> </div>
+        <div class="service-desc">
+            <h3> <form action="/crops"> <button id="btn" style="width: 180px;">Crop Selection</button></form>
+          </h3>
+          <p>The first brick holds the building perfectly. Similiarly the first step should be the perfect one to get the maximum outcome. </p>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="service-media"> <img src= {{ url_for('static',filename='img/services/service-2.jpg') }} id="imginhome" alt=" "> </div>
+        <div class="service-desc">
+          <h3><form action="/seed"> <button id="btn" style="width: 180px;">seeding method</button></form>
+          <p><br> Choose the suitable seeding technique for the crop you are going to grow</p>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="service-media"> <img src= {{ url_for('static',filename='img/services/service-3.jpg') }} id="imginhome" alt=" "> </div>
+        <div class="service-desc">
+          <h3><form action="/water"> <button id="btn" style="width: 180px;">irrigation techniques</button></form>
+          <p><br>Different crops need different types of irrigation. Select the best one for your crop</p>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="service-media"><img src= {{ url_for('static',filename='img/services/service-4.jpg') }} id="imginhome" alt=" "> </div>
+        <div class="service-desc">
+          <h3><form action="/protect"> <button id="btn" style="width: 180px;">Crop protection technique</button></form>
+          <p><br> World is full of everything. So protection is the best way to safegaurd your crop.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="about">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-6">
+        <div class="about-text">
+          <h2>Share your <span>Thoughts</span></h2>
+          <hr>
+          <p>Do you have any suggestions? </p>
+          <p>Can you give any tips for the farmers? <p>
+          <p>If you have an idea get ready now to create a video, upload and share your thoughts and help others too to increase their productivity </p>  
+          <form action="/vupload"><button class="btn btn-custom btn-lg page-scroll" id="btn" style="width: 180px;">Upload Video</button></form> </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

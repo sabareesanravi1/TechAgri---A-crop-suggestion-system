@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>cropselecton</title>
+    <link rel="stylesheet" type="text/css"  href="css/bootstrap.css">
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <!-- Our Custom CSS -->
+    <link rel="stylesheet" href="static/css/cr.css">
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+
+    <!-- Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <div class="wrapper">
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h3>Factors</h3>
+            </div>
+
+            <ul class="list-unstyled components">
+                <li>
+                    <a href="#crop">Crop protection</a>
+                </li>
+                <li>
+                    <a href="#chemical">Chemical intervention</a>
+                </li>
+                <li>
+                    <a href="#bio">Biological pest control</a>
+                </li>
+                <li>
+                    <a href="#barr">Barrier methods</a>
+                </li>
+                <li>
+                    <a href="#video">video tutorial</a>
+                </li>
+            </ul>
+
+
+        </nav>
+    
+        <!-- Page Content  -->
+        <div id="content">
+
+          <nav id="menu" class="navbar navbar-default navbar-fixed-top">
+
+                    <button type="button" id="sidebarCollapse" class ="slidebutton" >
+                        <p style=" font-size: 18px "  >>&#9776</p>                    
+                    </button>
+                    
+                      <div class="container"> 
+                    
+                        <div class="navbar-header">
+                    
+                          <a class="navbar-brand page-scroll" href="#page-top">TechAgri</a> </div>
+                        
+                    
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                      
+                        </div>
+                      </div>
+                      
+                    </nav>
+            </nav>
+            <br>
+            <br>
+            <br>
+            <form action="/homepage" style="border:0px; margin:0px; margin-bottom: 20px; height: 50px; float: left; padding-left: 60px;"> <button id="btn" style="                background-color:orange;
+                color:white;
+                border-radius:25px;
+                padding:14px 20px;
+                margin:8px 0;
+                border:none;
+                cursor:pointer;
+                width:200px;
+                height:60px;
+                text-align:center;" >Back to home</button></form> 
+            <form action="/logout" style="border:0px; margin:0px; margin-bottom: 20px;  height: 50px; float:right; padding-right: 60px;" > <button id="btn" style="                background-color:orange;
+                color:white;
+                border-radius:25px;
+                padding:14px 20px;
+                margin:8px 0;
+                border:none;
+                cursor:pointer;
+                width:200px;
+                height:60px;
+                text-align:center;" >Logout</button></form> 
+            <div class="line" id="crop"></div>
+            <h2 >Crop protection</h2>
+            <p>Crop protection is the practice of removing weeds, adjusting weather and eliminating pests. It may include managing everything that inhibit the growth of fruit, vegetables and all farm produce.
+
+                    It is highly important because through this, higher quality crops are produced and wastage is reduced. The increased crop production through proper crop protection leads to less use of resources like land, water and labor. With less usage of land, biodiversity is preserved. Through this, more farm crops and produce actually reach the markets, keeping the prices low.
+                    
+                    If farmers were to stop methods of crop protection, according to UN Food and Agricultural Organization (FAO), around 40 percent will be lost due to pests and plant diseases.
+                    
+                    An approach called integrated Pest Management (IPM) is helpful in reducing the wastage of farm resources. In IPM, they combine the best cultural, biological and chemical measures to keep pest and diseases away from the crops.
+                    
+                    
+                </p>
+
+            <div class="line" id="chemical"></div>
+            <div id="p1">
+            <h2 >Chemical intervention</h2>
+            <p> First, we use herbicides to kill unwanted plants and weeds. Weeds can be a real problem because they contest with the food crops for nutrients and space.
+                    Plant-eating insects and roundworms attack the farm crops leaving these damaged and inedible. To eliminate these harmful insects, we use insecticides.
+                    Lastly, we use fungicides for fungi that cause serious disease and damage to agriculture.
+            </p>
+            </div>
+            <div class="line" id="bio"></div>
+
+            <h2 >Biological pest control</h2>
+            <p>With biological means of pest control, we manage weeds, insects and diseases by using other living organisms. We make use of beneficial insects that perform these valued services. You may refer to this link to learn more about beneficial insects.
+            </p>
+
+            <div class="line" id="barr"></div>
+
+            <h3 >Barrier methods</h3>
+            <p>We can also opt for this method in which we create barriers between plants and potential harmful pests, weather and diseases. We have bird netting, micromesh and the likes. We can also employ electronic pest deterrents.
+            </p>
+            <div id="video" class="line"></div>
+            <h3>Tips to protect the crops</h3>
+            <p>
+                <iframe width="100%" height="500" src="https://www.youtube.com/embed/nDYTA-eqGOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </p>
+        </div>
+    </div>
+
+    <!-- jQuery CDN - Slim version (=without AJAX) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+    <!-- jQuery Custom Scroller CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#sidebar").mCustomScrollbar({
+                theme: "minimal"
+            });
+
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar, #content').toggleClass('active');
+                $('.collapse.in').toggleClass('in');
+                $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+            });
+        });
+    </script>
+</body>
+
+</html>

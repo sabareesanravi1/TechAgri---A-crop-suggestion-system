@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html >
+<head>
+<style>
+
+#btn{
+  background-color: orange;
+  padding: 10px;
+  margin-left: 30px;
+  color: white;
+  border-color: orange;
+  border-radius: 15px;
+  width:90px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+</style>
+<title>TechAgri</title>
+
+<link rel="stylesheet" type="text/css"  href={{ url_for('static',filename='css/bootstrap.css') }} >
+
+<!-- Stylesheet
+    ================================================== -->
+<link rel="stylesheet" type="text/css" href={{ url_for('static',filename='css/style.css') }}>
+
+</head>
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+<!-- Navigation
+    ==========================================-->
+<nav id="menu" class="navbar navbar-default navbar-fixed-top">
+  <div class="container"> 
+
+    <div class="navbar-header">
+
+      <a class="navbar-brand page-scroll" href="#page-top">TechAgri</a> </div>
+    
+
+  </div>
+  
+</nav>
+
+<header id="header">
+  <div class="intro">
+    <div class="overlay">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2 intro-text">
+            <h1>Agricultural Services</h1>
+            <p>We are here to help you to improve your productivity and get the maximum outcome that you can get for your work.
+            We provide the best techniques and practices to get the best yield.<br></p>
+        	
+        	<p><span>YOU ARE NOT ALONE NOW. WE ARE HERE FOR YOU<span></span></p>
+          <p><form action="/login"> <button id="btn">Login</button></a></li></form> <form action="/signup"> <button id="btn" style="margin-top: 30px;">Signup</button></a></li></form></p>  
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+</body>
+</html>

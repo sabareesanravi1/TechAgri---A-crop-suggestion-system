@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    
+body{font-family:Arial,Helvetica,sans-serif;}
+form{
+    border:3px solid #f3f1f1;border-radius:10px;}
+input[type=text],input[type=password]{
+width:40%;
+height:35px;
+margin:8px 0;
+border-radius:7px;
+border:1px solid rgba(0, 0, 0, 0.534);
+box-sizing:border-box;
+text-align: center;
+}
+button{
+background-color:green;
+color:white;
+border-radius:25px;
+padding:14px 20px;
+margin:8px 0;
+border:none;
+cursor:pointer;
+width:40%;
+height:35%;
+
+}
+button:hover{
+opacity:8.9;
+}
+
+.signupbtn{
+
+background-color:rgba(241, 9, 9, 0.849);
+color:white;
+border-radius:25px;
+padding:14px 20px;
+margin:8px 0;
+border:none;
+cursor:pointer;
+width:40%;
+height:35%;
+text-align:center;
+}
+.container{
+    top:50px;
+    
+   /* margin: auto;*/
+    margin: 10% 50% 50% 25%;
+  width: 50%;
+  height:430px;
+  border-radius:12px;
+  vertical-align: middle;
+background-color:white;
+text-align: center;
+}
+span.psw{
+float:right;
+padding-top:16px;
+}
+.content1{
+    background:url(static/img/grass.jpg);
+   position:absolute;
+    left: 0;
+    top: 0;
+    
+    width: 100%;
+    height: 100%;
+/*text-align: center;*/
+}
+
+span.psw{
+display:block;
+float:none;
+}
+
+</style>
+<script>
+    function myfunction()
+    {
+        var x=document.getElementById("myinput");
+        if(x.type==="password")
+        {
+            x.type="text";
+        }
+        else{
+            x.type="password";
+        }
+    }
+        function check()
+        {
+            var x=document.forms["log"]["uname"].value;
+            var y=document.forms["log"]["psw"].value;
+            if(x==""||y=="")
+            {
+                alert("Fields should not be empty");
+                return false;
+            }
+        }
+        </script>
+</head>
+<body>
+<div class="content1">
+
+
+
+<div class="container">
+    
+        <form name="log" action = "/login" method="POST">
+    <h2>LOGIN</h2>
+    
+                <label for="uname">
+                <br>Username</br></label>
+                <input type="text" placeholder="Enter your MAILID" name="email" required>
+                <label for="psw">
+                <br>Password</br></label>
+                <input type="password" placeholder="Enter your password" name="password" id="myinput" required><br>
+                <label>
+                        <input type="checkbox" onclick="myfunction()">Show Password<br>
+                        </label>
+                <button type="submit" onclick="return check()">Login</button>
+                <br>       new user? SignUp!!!</br>
+                                 
+                <label>
+                </label>
+                <br>
+            </form>
+            {{message}}
+            <br>
+            <br>
+            <form action="/signup">
+                <button type="submit"  class="signupbtn">Signup</button><br>
+            </form>
+
+</div>
+
+
+
+</div>
+
+</body>
+</html>
